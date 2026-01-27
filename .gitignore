@@ -40,10 +40,14 @@ vignettes/*.pdf
 .Renviron
 
 # pkgdown site
-docs/
+# docs/ - Commented out as we need docs/ for Quarto output
 
 # translation temp files
 po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Quarto
+/.quarto/
+_site/

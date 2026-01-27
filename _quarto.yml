@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Year 9 Mathematics 2026"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Topics"
+        menu:
+          - text: "Number and Operations"
+            href: number.qmd
+          - text: "Algebra"
+            href: algebra.qmd
+          - text: "Geometry"
+            href: geometry.qmd
+          - text: "Measurement"
+            href: measurement.qmd
+          - text: "Statistics"
+            href: statistics.qmd
+          - text: "Probability"
+            href: probability.qmd
+          - text: "Ratios and Proportions"
+            href: ratios.qmd
+      - text: "References"
+        href: references.qmd
+  sidebar: false
+  page-footer:
+    center: "Year 9 Mathematics Resources © 2026"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3

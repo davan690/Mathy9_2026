@@ -1,0 +1,71 @@
+---
+title: "Number and Operations"
+---
+
+## Introduction
+
+Number and operations form the foundation of mathematics. In this unit, we'll develop fluency with different types of numbers and operations.
+
+## Key Topics
+
+### Integers
+
+Working with positive and negative numbers:
+
+- Understanding the number line
+- Adding and subtracting integers
+- Multiplying and dividing integers
+- Real-world applications of negative numbers
+
+**Example:** If the temperature is -3°C and it rises by 7°C, what is the new temperature?
+
+Solution: -3 + 7 = 4°C
+
+### Fractions
+
+Operations with fractions:
+
+- Equivalent fractions
+- Adding and subtracting fractions
+- Multiplying and dividing fractions
+- Mixed numbers and improper fractions
+
+**Example:** Calculate $\frac{2}{3} + \frac{1}{4}$
+
+Solution: $\frac{8}{12} + \frac{3}{12} = \frac{11}{12}$
+
+### Decimals
+
+Understanding and using decimal numbers:
+
+- Place value
+- Adding and subtracting decimals
+- Multiplying and dividing decimals
+- Converting between fractions and decimals
+
+**Example:** 3.5 × 0.4 = 1.4
+
+### Percentages
+
+Working with percentages:
+
+- Understanding percentages as fractions of 100
+- Converting between percentages, decimals, and fractions
+- Finding percentages of amounts
+- Percentage increase and decrease
+
+**Example:** What is 15% of 80?
+
+Solution: 15% × 80 = 0.15 × 80 = 12
+
+## Practice Problems
+
+1. Calculate: (-5) + 8 - (-3)
+2. Simplify: $\frac{3}{4} \times \frac{2}{5}$
+3. Find 25% of 160
+4. Convert 0.625 to a fraction in simplest form
+
+## Resources
+
+- [Khan Academy: Integers](https://www.khanacademy.org/)
+- [NZ Maths: Number Operations](https://nzmaths.co.nz/)
