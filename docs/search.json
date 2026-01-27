@@ -1,0 +1,366 @@
+[
+  {
+    "objectID": "measurement.html",
+    "href": "measurement.html",
+    "title": "Measurement",
+    "section": "",
+    "text": "Measurement involves quantifying attributes of objects and events. We’ll learn about different units and how to measure length, area, volume, and other quantities."
+  },
+  {
+    "objectID": "measurement.html#introduction",
+    "href": "measurement.html#introduction",
+    "title": "Measurement",
+    "section": "",
+    "text": "Measurement involves quantifying attributes of objects and events. We’ll learn about different units and how to measure length, area, volume, and other quantities."
+  },
+  {
+    "objectID": "measurement.html#key-topics",
+    "href": "measurement.html#key-topics",
+    "title": "Measurement",
+    "section": "Key Topics",
+    "text": "Key Topics\n\nUnits of Measurement\nUnderstanding metric units:\n\nLength: millimetres (mm), centimetres (cm), metres (m), kilometres (km)\nMass: grams (g), kilograms (kg), tonnes (t)\nCapacity: millilitres (mL), litres (L)\nTime: seconds, minutes, hours, days\n\nExample: Convert 2.5 km to metres.\nSolution: 2.5 km = 2.5 × 1000 = 2500 m\n\n\nPerimeter\nMeasuring the distance around shapes:\n\nPerimeter of rectangles and squares\nPerimeter of triangles and other polygons\nPerimeter of composite shapes\n\nExample: Find the perimeter of a rectangle with length 8 cm and width 5 cm.\nSolution: Perimeter = 2(8 + 5) = 2(13) = 26 cm\n\n\nArea\nMeasuring the space inside shapes:\n\nArea of rectangles and squares: \\(A = l \\times w\\)\nArea of triangles: \\(A = \\frac{1}{2} \\times b \\times h\\)\nArea of circles: \\(A = \\pi r^2\\)\nArea of composite shapes\n\nExample: Find the area of a triangle with base 10 cm and height 6 cm.\nSolution: \\(A = \\frac{1}{2} \\times 10 \\times 6 = 30 \\text{ cm}^2\\)\n\n\nVolume\nMeasuring the space inside 3D objects:\n\nVolume of rectangular prisms: \\(V = l \\times w \\times h\\)\nVolume of cubes: \\(V = s^3\\)\nVolume of cylinders: \\(V = \\pi r^2 h\\)\nCapacity and volume relationship\n\nExample: Find the volume of a cube with side length 4 cm.\nSolution: \\(V = 4^3 = 64 \\text{ cm}^3\\)\n\n\nSurface Area\nMeasuring the total area of all faces:\n\nSurface area of rectangular prisms\nSurface area of cubes\nUsing nets to find surface area\n\nExample: Find the surface area of a cube with side length 3 cm.\nSolution: A cube has 6 faces, each with area \\(3^2 = 9\\) cm²\nTotal surface area = \\(6 \\times 9 = 54\\) cm²\n\n\nScale and Maps\nWorking with scaled representations:\n\nUnderstanding scale ratios\nUsing scales to find actual distances\nMap reading\n\nExample: On a map with scale 1:50000, a distance is 4 cm. What is the actual distance?\nSolution: Actual distance = 4 × 50000 = 200000 cm = 2 km"
+  },
+  {
+    "objectID": "measurement.html#practice-problems",
+    "href": "measurement.html#practice-problems",
+    "title": "Measurement",
+    "section": "Practice Problems",
+    "text": "Practice Problems\n\nConvert 3500 mL to litres\nFind the perimeter of a square with side length 7 cm\nCalculate the area of a circle with radius 5 cm (use π ≈ 3.14)\nFind the volume of a rectangular prism with dimensions 6 cm × 4 cm × 3 cm"
+  },
+  {
+    "objectID": "measurement.html#resources",
+    "href": "measurement.html#resources",
+    "title": "Measurement",
+    "section": "Resources",
+    "text": "Resources\n\nKhan Academy: Measurement\nNZ Maths: Measurement"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "The New Zealand Curriculum Online\nMathematics and Statistics Learning Area\n\n\n\n\n\nNZ Maths Homepage\nNZ Maths provides resources, activities, and games specifically designed for New Zealand mathematics curriculum"
+  },
+  {
+    "objectID": "references.html#curriculum-resources",
+    "href": "references.html#curriculum-resources",
+    "title": "References",
+    "section": "",
+    "text": "The New Zealand Curriculum Online\nMathematics and Statistics Learning Area\n\n\n\n\n\nNZ Maths Homepage\nNZ Maths provides resources, activities, and games specifically designed for New Zealand mathematics curriculum"
+  },
+  {
+    "objectID": "references.html#online-learning-platforms",
+    "href": "references.html#online-learning-platforms",
+    "title": "References",
+    "section": "Online Learning Platforms",
+    "text": "Online Learning Platforms\n\nKhan Academy\n\nKhan Academy Mathematics\nFree comprehensive video lessons and practice exercises\nTopics aligned with international mathematics standards\n\n\n\nMath is Fun\n\nMath is Fun\nClear explanations, examples, and activities\nInteractive games and puzzles"
+  },
+  {
+    "objectID": "references.html#interactive-tools",
+    "href": "references.html#interactive-tools",
+    "title": "References",
+    "section": "Interactive Tools",
+    "text": "Interactive Tools\n\nCalculators and Tools\n\nDesmos Graphing Calculator\nGeoGebra\nOnline mathematics software for geometry, algebra, and calculus\n\n\n\nPractice Websites\n\nMathigon\nInteractive mathematics lessons and activities"
+  },
+  {
+    "objectID": "references.html#books-and-textbooks",
+    "href": "references.html#books-and-textbooks",
+    "title": "References",
+    "section": "Books and Textbooks",
+    "text": "Books and Textbooks\n\nRecommended Textbooks\n\nNew Zealand Mathematics series (various publishers)\nEssential Mathematics for Year 9\nSuccessful Mathematics series\n\n\n\nLibrary Resources\nCheck your school library for:\n\nMathematics textbooks\nProblem-solving books\nMathematics magazines and journals"
+  },
+  {
+    "objectID": "references.html#study-techniques",
+    "href": "references.html#study-techniques",
+    "title": "References",
+    "section": "Study Techniques",
+    "text": "Study Techniques\n\nEffective Mathematics Study Tips\n\nPractice Regularly: Mathematics improves with consistent practice\nShow Your Working: Always write out your solution steps\nCheck Your Answers: Use estimation and inverse operations\nAsk Questions: Don’t hesitate to seek help when confused\nUse Multiple Resources: Different explanations can help understanding\nWork in Groups: Explaining to others reinforces your own learning\n\n\n\nProblem-Solving Strategies\n\nRead the problem carefully\nIdentify what you know and what you need to find\nDraw diagrams when helpful\nTry simpler cases first\nCheck if your answer makes sense"
+  },
+  {
+    "objectID": "references.html#video-resources",
+    "href": "references.html#video-resources",
+    "title": "References",
+    "section": "Video Resources",
+    "text": "Video Resources\n\nYouTube Channels\n\nKhan Academy\nNumberphile\nMathologer\nEddie Woo (Australian mathematics teacher)"
+  },
+  {
+    "objectID": "references.html#mathematics-competitions",
+    "href": "references.html#mathematics-competitions",
+    "title": "References",
+    "section": "Mathematics Competitions",
+    "text": "Mathematics Competitions\n\nAustralian Mathematics Competition (AMC)\nMathematical Olympiad\nSchool-based mathematics challenges"
+  },
+  {
+    "objectID": "references.html#additional-support",
+    "href": "references.html#additional-support",
+    "title": "References",
+    "section": "Additional Support",
+    "text": "Additional Support\n\nGetting Help\n\nAsk your teacher during class or office hours\nForm study groups with classmates\nUtilize school tutoring services\nOnline mathematics forums (with supervision)\n\n\n\nParent Resources\nResources for parents supporting students:\n\nFamily Maths\nTips for helping with mathematics homework\nUnderstanding the NZ mathematics curriculum"
+  },
+  {
+    "objectID": "references.html#mathematics-in-careers",
+    "href": "references.html#mathematics-in-careers",
+    "title": "References",
+    "section": "Mathematics in Careers",
+    "text": "Mathematics in Careers\n\nWhere is Mathematics Used?\nMathematics is essential in many careers:\n\nEngineering and technology\nFinance and banking\nScience and research\nArchitecture and design\nMedicine and healthcare\nData analysis and statistics\nEducation\nGame design and animation"
+  },
+  {
+    "objectID": "references.html#glossary",
+    "href": "references.html#glossary",
+    "title": "References",
+    "section": "Glossary",
+    "text": "Glossary\nFor mathematical terms and definitions, refer to:\n\nMath Open Reference\nYour textbook glossary\nClass notes and handouts"
+  },
+  {
+    "objectID": "references.html#attribution",
+    "href": "references.html#attribution",
+    "title": "References",
+    "section": "Attribution",
+    "text": "Attribution\nThis website was created to support Year 9 Mathematics learning in 2026. Content is aligned with the New Zealand Curriculum and draws from various educational resources.\nLast Updated: January 2026\n\nIf you find additional resources that you think would be helpful, please share them with the class!"
+  },
+  {
+    "objectID": "statistics.html",
+    "href": "statistics.html",
+    "title": "Statistics",
+    "section": "",
+    "text": "Statistics is about collecting, organizing, analyzing, and interpreting data. These skills help us make sense of information and make informed decisions."
+  },
+  {
+    "objectID": "statistics.html#introduction",
+    "href": "statistics.html#introduction",
+    "title": "Statistics",
+    "section": "",
+    "text": "Statistics is about collecting, organizing, analyzing, and interpreting data. These skills help us make sense of information and make informed decisions."
+  },
+  {
+    "objectID": "statistics.html#key-topics",
+    "href": "statistics.html#key-topics",
+    "title": "Statistics",
+    "section": "Key Topics",
+    "text": "Key Topics\n\nData Collection\nMethods of gathering information:\n\nSurveys and questionnaires\nObservations\nExperiments\nSampling methods\nPrimary vs. secondary data\n\nExample: To find out students’ favorite sports, we could conduct a survey of the class.\n\n\nOrganizing Data\nWays to arrange and present data:\n\nFrequency tables\nTally charts\nGrouping data into intervals\nCreating categories\n\nExample: Tally chart of favorite colors in class\n\n\nDisplaying Data\nVisual representations of data:\n\nBar graphs and column graphs\nLine graphs\nPie charts\nPictographs\nDot plots\nStem-and-leaf plots\n\nExample: A bar graph showing the number of students who prefer different subjects.\n\n\nMeasures of Central Tendency\nFinding typical or middle values:\n\nMean: The average of all values\n\nFormula: Sum of all values ÷ Number of values\n\nMedian: The middle value when data is ordered\nMode: The most frequent value\n\nExample: Find the mean of: 4, 7, 5, 9, 5\nSolution: Mean = (4 + 7 + 5 + 9 + 5) ÷ 5 = 30 ÷ 5 = 6\n\n\nRange and Spread\nUnderstanding how data varies:\n\nRange: Maximum value - Minimum value\nQuartiles and interquartile range\nOutliers (unusual values)\n\nExample: For the data set 3, 5, 7, 9, 11, the range is 11 - 3 = 8\n\n\nInterpreting Data\nMaking sense of statistical information:\n\nReading and understanding graphs\nDrawing conclusions from data\nIdentifying trends and patterns\nUnderstanding bias and misleading graphs\n\n\n\nBox-and-Whisker Plots\nVisualizing the distribution of data:\n\nFive-number summary (minimum, Q1, median, Q3, maximum)\nIdentifying the spread of data\nComparing data sets"
+  },
+  {
+    "objectID": "statistics.html#practice-problems",
+    "href": "statistics.html#practice-problems",
+    "title": "Statistics",
+    "section": "Practice Problems",
+    "text": "Practice Problems\n\nFind the mean, median, and mode of: 12, 15, 11, 15, 18, 13\nCalculate the range of the data: 23, 45, 32, 51, 28, 36\nCreate a frequency table for the following ages: 13, 14, 13, 15, 14, 13, 14, 15, 13\nDraw a bar graph showing: Apples-5, Oranges-8, Bananas-6, Grapes-3"
+  },
+  {
+    "objectID": "statistics.html#real-world-applications",
+    "href": "statistics.html#real-world-applications",
+    "title": "Statistics",
+    "section": "Real-World Applications",
+    "text": "Real-World Applications\n\nAnalyzing sports statistics\nUnderstanding weather patterns\nInterpreting survey results\nMaking data-driven decisions"
+  },
+  {
+    "objectID": "statistics.html#resources",
+    "href": "statistics.html#resources",
+    "title": "Statistics",
+    "section": "Resources",
+    "text": "Resources\n\nKhan Academy: Statistics\nNZ Maths: Statistics\nStatistics New Zealand"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to Year 9 Mathematics",
+    "section": "",
+    "text": "This website contains resources, lessons, and materials for our Year 9 Mathematics class. The content is organized according to the New Zealand Mathematics Curriculum.\n\n\nIn Year 9, we’ll explore the following mathematical topics:\n\nNumber and Operations: Working with integers, fractions, decimals, and percentages\nAlgebra: Patterns, equations, and algebraic thinking\nGeometry: Shapes, angles, and geometric properties\nMeasurement: Length, area, volume, and units\nStatistics: Data collection, analysis, and interpretation\nProbability: Chance, outcomes, and predictions\nRatios and Proportions: Relationships between quantities\n\n\n\n\nBy the end of Year 9, you will be able to:\n\nApply mathematical concepts to solve real-world problems\nUse mathematical reasoning to justify your solutions\nCommunicate your mathematical thinking clearly\nWork collaboratively on mathematical tasks\nDevelop confidence in your mathematical abilities\n\n\n\n\nClick on any topic in the navigation menu to begin exploring the content. Each section includes:\n\nKey concepts and definitions\nWorked examples\nPractice problems\nAdditional resources\n\n\n\n\nDon’t hesitate to ask questions during class or reach out for extra support. Mathematics is a skill that develops with practice and perseverance!\n\nThis website is designed to support your learning journey in Year 9 Mathematics."
+  },
+  {
+    "objectID": "index.html#welcome-to-year-9-maths-2026",
+    "href": "index.html#welcome-to-year-9-maths-2026",
+    "title": "Welcome to Year 9 Mathematics",
+    "section": "",
+    "text": "This website contains resources, lessons, and materials for our Year 9 Mathematics class. The content is organized according to the New Zealand Mathematics Curriculum.\n\n\nIn Year 9, we’ll explore the following mathematical topics:\n\nNumber and Operations: Working with integers, fractions, decimals, and percentages\nAlgebra: Patterns, equations, and algebraic thinking\nGeometry: Shapes, angles, and geometric properties\nMeasurement: Length, area, volume, and units\nStatistics: Data collection, analysis, and interpretation\nProbability: Chance, outcomes, and predictions\nRatios and Proportions: Relationships between quantities\n\n\n\n\nBy the end of Year 9, you will be able to:\n\nApply mathematical concepts to solve real-world problems\nUse mathematical reasoning to justify your solutions\nCommunicate your mathematical thinking clearly\nWork collaboratively on mathematical tasks\nDevelop confidence in your mathematical abilities\n\n\n\n\nClick on any topic in the navigation menu to begin exploring the content. Each section includes:\n\nKey concepts and definitions\nWorked examples\nPractice problems\nAdditional resources\n\n\n\n\nDon’t hesitate to ask questions during class or reach out for extra support. Mathematics is a skill that develops with practice and perseverance!\n\nThis website is designed to support your learning journey in Year 9 Mathematics."
+  },
+  {
+    "objectID": "ratios.html",
+    "href": "ratios.html",
+    "title": "Ratios and Proportions",
+    "section": "",
+    "text": "Ratios and proportions describe relationships between quantities. They are fundamental to understanding scaling, comparison, and many real-world applications."
+  },
+  {
+    "objectID": "ratios.html#introduction",
+    "href": "ratios.html#introduction",
+    "title": "Ratios and Proportions",
+    "section": "",
+    "text": "Ratios and proportions describe relationships between quantities. They are fundamental to understanding scaling, comparison, and many real-world applications."
+  },
+  {
+    "objectID": "ratios.html#key-topics",
+    "href": "ratios.html#key-topics",
+    "title": "Ratios and Proportions",
+    "section": "Key Topics",
+    "text": "Key Topics\n\nUnderstanding Ratios\nComparing quantities:\n\nRatios show the relationship between two or more quantities\nWritten as a:b or \\(\\frac{a}{b}\\)\nSimplifying ratios to simplest form\nPart-to-part vs. part-to-whole ratios\n\nExample: If there are 12 boys and 8 girls in a class, the ratio of boys to girls is 12:8 = 3:2\n\n\nEquivalent Ratios\nFinding equal ratios:\n\nMultiplying or dividing both parts by the same number\nUsing ratio tables\nScaling up and down\n\nExample: The ratio 4:6 is equivalent to 2:3 (dividing by 2) or 8:12 (multiplying by 2)\n\n\nProportions\nWhen ratios are equal:\n\nA proportion is an equation showing two ratios are equal\nCross multiplication to solve proportions\nDirect proportion relationships\n\nExample: Solve: \\(\\frac{3}{5} = \\frac{x}{15}\\)\nSolution: \\(5x = 3 \\times 15\\), so \\(5x = 45\\), therefore \\(x = 9\\)\n\n\nSharing in Ratios\nDividing quantities according to ratios:\n\nDividing amounts into given ratios\nFinding total parts\nCalculating each share\n\nExample: Share $60 in the ratio 2:3\nSolution: Total parts = 2 + 3 = 5\nFirst share = $ = \\(24\\)\nSecond share = $ = \\(36\\)\n\n\nRates\nSpecial ratios comparing different units:\n\nSpeed (distance per time)\nUnit rates (per 1 unit)\nPrice per item\nComparing rates\n\nExample: If you travel 180 km in 3 hours, your speed is:\n\\(\\text{Speed} = \\frac{180 \\text{ km}}{3 \\text{ hours}} = 60 \\text{ km/h}\\)\n\n\nScale Factors\nRatios in enlargement and reduction:\n\nScale drawings\nMaps and models\nEnlargement and reduction\nSimilar shapes\n\nExample: A model car has a scale of 1:24. If the model is 15 cm long, what is the actual car length?\nSolution: Actual length = 15 × 24 = 360 cm = 3.6 m\n\n\nDirect Proportion\nWhen quantities increase together:\n\nIf one doubles, the other doubles\nGraphing direct proportion (straight line through origin)\nFormula: \\(y = kx\\) where k is constant\n\nExample: If 3 pens cost $6, how much do 7 pens cost?\nSolution: Cost is proportional to number of pens\n\\(\\frac{3}{6} = \\frac{7}{x}\\), so \\(3x = 42\\), therefore \\(x = 14\\) ($14)\n\n\nPercentages as Ratios\nConnecting percentages to ratios:\n\nPercentages are ratios out of 100\nConverting between percentages and ratios\nPercentage increase and decrease"
+  },
+  {
+    "objectID": "ratios.html#practice-problems",
+    "href": "ratios.html#practice-problems",
+    "title": "Ratios and Proportions",
+    "section": "Practice Problems",
+    "text": "Practice Problems\n\nSimplify the ratio 24:36\nIf the ratio of cats to dogs is 5:3 and there are 15 cats, how many dogs are there?\nShare $120 in the ratio 3:5\nA car travels 250 km in 5 hours. What is its average speed?\nOn a map with scale 1:25000, two towns are 8 cm apart. What is the actual distance?"
+  },
+  {
+    "objectID": "ratios.html#real-world-applications",
+    "href": "ratios.html#real-world-applications",
+    "title": "Ratios and Proportions",
+    "section": "Real-World Applications",
+    "text": "Real-World Applications\n\nCooking and recipes\nCurrency exchange\nScale models and maps\nMixing paint or chemicals\nFinancial planning\nConstruction and design"
+  },
+  {
+    "objectID": "ratios.html#resources",
+    "href": "ratios.html#resources",
+    "title": "Ratios and Proportions",
+    "section": "Resources",
+    "text": "Resources\n\nKhan Academy: Ratios and Proportions\nNZ Maths: Ratios"
+  },
+  {
+    "objectID": "number.html",
+    "href": "number.html",
+    "title": "Number and Operations",
+    "section": "",
+    "text": "Number and operations form the foundation of mathematics. In this unit, we’ll develop fluency with different types of numbers and operations."
+  },
+  {
+    "objectID": "number.html#introduction",
+    "href": "number.html#introduction",
+    "title": "Number and Operations",
+    "section": "",
+    "text": "Number and operations form the foundation of mathematics. In this unit, we’ll develop fluency with different types of numbers and operations."
+  },
+  {
+    "objectID": "number.html#key-topics",
+    "href": "number.html#key-topics",
+    "title": "Number and Operations",
+    "section": "Key Topics",
+    "text": "Key Topics\n\nIntegers\nWorking with positive and negative numbers:\n\nUnderstanding the number line\nAdding and subtracting integers\nMultiplying and dividing integers\nReal-world applications of negative numbers\n\nExample: If the temperature is -3°C and it rises by 7°C, what is the new temperature?\nSolution: -3 + 7 = 4°C\n\n\nFractions\nOperations with fractions:\n\nEquivalent fractions\nAdding and subtracting fractions\nMultiplying and dividing fractions\nMixed numbers and improper fractions\n\nExample: Calculate \\(\\frac{2}{3} + \\frac{1}{4}\\)\nSolution: \\(\\frac{8}{12} + \\frac{3}{12} = \\frac{11}{12}\\)\n\n\nDecimals\nUnderstanding and using decimal numbers:\n\nPlace value\nAdding and subtracting decimals\nMultiplying and dividing decimals\nConverting between fractions and decimals\n\nExample: 3.5 × 0.4 = 1.4\n\n\nPercentages\nWorking with percentages:\n\nUnderstanding percentages as fractions of 100\nConverting between percentages, decimals, and fractions\nFinding percentages of amounts\nPercentage increase and decrease\n\nExample: What is 15% of 80?\nSolution: 15% × 80 = 0.15 × 80 = 12"
+  },
+  {
+    "objectID": "number.html#practice-problems",
+    "href": "number.html#practice-problems",
+    "title": "Number and Operations",
+    "section": "Practice Problems",
+    "text": "Practice Problems\n\nCalculate: (-5) + 8 - (-3)\nSimplify: \\(\\frac{3}{4} \\times \\frac{2}{5}\\)\nFind 25% of 160\nConvert 0.625 to a fraction in simplest form"
+  },
+  {
+    "objectID": "number.html#resources",
+    "href": "number.html#resources",
+    "title": "Number and Operations",
+    "section": "Resources",
+    "text": "Resources\n\nKhan Academy: Integers\nNZ Maths: Number Operations"
+  },
+  {
+    "objectID": "probability.html",
+    "href": "probability.html",
+    "title": "Probability",
+    "section": "",
+    "text": "Probability is the study of chance and likelihood. It helps us predict and understand uncertain events in mathematics and everyday life."
+  },
+  {
+    "objectID": "probability.html#introduction",
+    "href": "probability.html#introduction",
+    "title": "Probability",
+    "section": "",
+    "text": "Probability is the study of chance and likelihood. It helps us predict and understand uncertain events in mathematics and everyday life."
+  },
+  {
+    "objectID": "probability.html#key-topics",
+    "href": "probability.html#key-topics",
+    "title": "Probability",
+    "section": "Key Topics",
+    "text": "Key Topics\n\nBasic Probability Concepts\nUnderstanding chance:\n\nProbability measures how likely an event is to occur\nProbability scale: 0 (impossible) to 1 (certain)\nExpressing probability as fractions, decimals, and percentages\n\nExample: The probability of rolling a 3 on a standard die is \\(\\frac{1}{6}\\)\n\n\nTheoretical Probability\nCalculating probability using logic:\n\nFormula: \\(P(\\text{event}) = \\frac{\\text{number of favorable outcomes}}{\\text{total number of possible outcomes}}\\)\nSample space (all possible outcomes)\nEqually likely outcomes\n\nExample: What is the probability of drawing a heart from a standard deck of 52 cards?\nSolution: \\(P(\\text{heart}) = \\frac{13}{52} = \\frac{1}{4} = 0.25 = 25\\%\\)\n\n\nExperimental Probability\nProbability based on trials and experiments:\n\nConducting experiments\nRecording results\nCalculating relative frequency\nComparing theoretical and experimental probability\n\nExample: If you flip a coin 50 times and get 28 heads, the experimental probability is \\(\\frac{28}{50} = 0.56\\)\n\n\nProbability Language\nDescribing likelihood:\n\nImpossible (probability = 0)\nUnlikely (probability between 0 and 0.5)\nEven chance (probability = 0.5)\nLikely (probability between 0.5 and 1)\nCertain (probability = 1)\n\n\n\nSimple Events\nWorking with single outcomes:\n\nProbability of simple events\nComplementary events: \\(P(\\text{not A}) = 1 - P(\\text{A})\\)\nMutually exclusive events\n\nExample: If the probability of rain is 0.3, what is the probability it won’t rain?\nSolution: \\(P(\\text{no rain}) = 1 - 0.3 = 0.7\\)\n\n\nTree Diagrams\nVisualizing probability:\n\nRepresenting outcomes systematically\nCalculating probabilities of multiple events\nUnderstanding combined events\n\n\n\nProbability in Games\nUnderstanding fairness and strategy:\n\nFair vs. unfair games\nExpected outcomes\nMaking predictions\n\nExample: In a game where you win if you roll a 5 or 6, the probability of winning is \\(\\frac{2}{6} = \\frac{1}{3}\\)"
+  },
+  {
+    "objectID": "probability.html#practice-problems",
+    "href": "probability.html#practice-problems",
+    "title": "Probability",
+    "section": "Practice Problems",
+    "text": "Practice Problems\n\nWhat is the probability of rolling an even number on a standard die?\nA bag contains 5 red balls, 3 blue balls, and 2 green balls. What is the probability of drawing a blue ball?\nIf \\(P(\\text{event}) = 0.65\\), find \\(P(\\text{not event})\\)\nYou flip a coin twice. What is the probability of getting two heads?"
+  },
+  {
+    "objectID": "probability.html#real-world-applications",
+    "href": "probability.html#real-world-applications",
+    "title": "Probability",
+    "section": "Real-World Applications",
+    "text": "Real-World Applications\n\nWeather forecasting\nSports predictions\nInsurance calculations\nGame design\nRisk assessment"
+  },
+  {
+    "objectID": "probability.html#resources",
+    "href": "probability.html#resources",
+    "title": "Probability",
+    "section": "Resources",
+    "text": "Resources\n\nKhan Academy: Probability\nNZ Maths: Probability"
+  },
+  {
+    "objectID": "geometry.html",
+    "href": "geometry.html",
+    "title": "Geometry",
+    "section": "",
+    "text": "Geometry is the study of shapes, sizes, and positions of objects. In Year 9, we’ll explore properties of 2D and 3D shapes, angles, and transformations."
+  },
+  {
+    "objectID": "geometry.html#introduction",
+    "href": "geometry.html#introduction",
+    "title": "Geometry",
+    "section": "",
+    "text": "Geometry is the study of shapes, sizes, and positions of objects. In Year 9, we’ll explore properties of 2D and 3D shapes, angles, and transformations."
+  },
+  {
+    "objectID": "geometry.html#key-topics",
+    "href": "geometry.html#key-topics",
+    "title": "Geometry",
+    "section": "Key Topics",
+    "text": "Key Topics\n\nAngles\nUnderstanding and measuring angles:\n\nTypes of angles (acute, right, obtuse, straight, reflex)\nAngles on a straight line (sum to 180°)\nAngles around a point (sum to 360°)\nVertically opposite angles\nCorresponding, alternate, and co-interior angles\n\nExample: If two angles on a straight line are \\(x\\) and \\(2x\\), find their values.\nSolution: \\(x + 2x = 180°\\), so \\(3x = 180°\\), therefore \\(x = 60°\\)\n\n\nTriangles\nProperties of triangles:\n\nTypes of triangles (equilateral, isosceles, scalene)\nAngle sum of a triangle (180°)\nExterior angles of triangles\nCongruent triangles\n\nExample: In a triangle, two angles are 65° and 45°. Find the third angle.\nSolution: \\(180° - 65° - 45° = 70°\\)\n\n\nQuadrilaterals\nProperties of four-sided shapes:\n\nSquares, rectangles, parallelograms\nRhombus, trapezium, kite\nAngle properties\nSymmetry properties\n\n\n\nCircles\nUnderstanding circles:\n\nParts of a circle (radius, diameter, chord, arc)\nCircumference and area\nRelationship between radius and diameter\n\nExample: If a circle has a radius of 5 cm, find its diameter.\nSolution: Diameter = 2 × radius = 2 × 5 = 10 cm\n\n\nTransformations\nMoving and changing shapes:\n\nTranslation (sliding)\nReflection (flipping)\nRotation (turning)\nEnlargement (scaling)\n\n\n\n3D Shapes\nExploring three-dimensional objects:\n\nPrisms and pyramids\nFaces, edges, and vertices\nNets of 3D shapes"
+  },
+  {
+    "objectID": "geometry.html#practice-problems",
+    "href": "geometry.html#practice-problems",
+    "title": "Geometry",
+    "section": "Practice Problems",
+    "text": "Practice Problems\n\nFind the missing angle in a triangle with angles 42° and 68°\nCalculate the angles on a straight line if one angle is three times the other\nName the quadrilateral with all sides equal and all angles 90°\nFind the circumference of a circle with radius 7 cm (use π ≈ 3.14)"
+  },
+  {
+    "objectID": "geometry.html#resources",
+    "href": "geometry.html#resources",
+    "title": "Geometry",
+    "section": "Resources",
+    "text": "Resources\n\nKhan Academy: Geometry\nNZ Maths: Geometry"
+  },
+  {
+    "objectID": "algebra.html",
+    "href": "algebra.html",
+    "title": "Algebra",
+    "section": "",
+    "text": "Algebra is the language of mathematics. It allows us to describe patterns, relationships, and solve problems using symbols and variables."
+  },
+  {
+    "objectID": "algebra.html#introduction",
+    "href": "algebra.html#introduction",
+    "title": "Algebra",
+    "section": "",
+    "text": "Algebra is the language of mathematics. It allows us to describe patterns, relationships, and solve problems using symbols and variables."
+  },
+  {
+    "objectID": "algebra.html#key-topics",
+    "href": "algebra.html#key-topics",
+    "title": "Algebra",
+    "section": "Key Topics",
+    "text": "Key Topics\n\nVariables and Expressions\nUnderstanding algebraic notation:\n\nVariables represent unknown or changing values\nWriting algebraic expressions\nEvaluating expressions by substitution\n\nExample: If \\(x = 5\\), evaluate \\(3x + 7\\)\nSolution: \\(3(5) + 7 = 15 + 7 = 22\\)\n\n\nSimplifying Expressions\nWorking with algebraic terms:\n\nCollecting like terms\nExpanding brackets\nFactorizing simple expressions\n\nExample: Simplify \\(5x + 3 - 2x + 7\\)\nSolution: \\(5x - 2x + 3 + 7 = 3x + 10\\)\n\n\nSolving Linear Equations\nFinding unknown values:\n\nOne-step equations\nTwo-step equations\nEquations with brackets\nEquations with variables on both sides\n\nExample: Solve \\(2x + 5 = 13\\)\nSolution: \\[\\begin{align}\n2x + 5 &= 13 \\\\\n2x &= 8 \\\\\nx &= 4\n\\end{align}\\]\n\n\nPatterns and Sequences\nRecognizing and describing patterns:\n\nNumber patterns\nGeometric patterns\nFinding the nth term\nLinear sequences\n\nExample: Find the next term in the sequence: 3, 7, 11, 15, …\nSolution: The pattern increases by 4 each time, so the next term is 19.\n\n\nGraphing Linear Relationships\nVisualizing equations:\n\nPlotting points on a coordinate plane\nDrawing straight line graphs\nUnderstanding gradient (slope)\nFinding the equation of a line\n\nExample: Graph the equation \\(y = 2x + 1\\)"
+  },
+  {
+    "objectID": "algebra.html#practice-problems",
+    "href": "algebra.html#practice-problems",
+    "title": "Algebra",
+    "section": "Practice Problems",
+    "text": "Practice Problems\n\nSimplify: \\(4a + 3b - 2a + 5b\\)\nSolve: \\(3x - 7 = 14\\)\nFind the 10th term of the sequence: 2, 5, 8, 11, …\nExpand: \\(3(x + 4)\\)"
+  },
+  {
+    "objectID": "algebra.html#resources",
+    "href": "algebra.html#resources",
+    "title": "Algebra",
+    "section": "Resources",
+    "text": "Resources\n\nKhan Academy: Algebra Basics\nNZ Maths: Algebra"
+  }
+]
