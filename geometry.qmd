@@ -1,0 +1,86 @@
+---
+title: "Geometry"
+---
+
+## Introduction
+
+Geometry is the study of shapes, sizes, and positions of objects. In Year 9, we'll explore properties of 2D and 3D shapes, angles, and transformations.
+
+## Key Topics
+
+### Angles
+
+Understanding and measuring angles:
+
+- Types of angles (acute, right, obtuse, straight, reflex)
+- Angles on a straight line (sum to 180°)
+- Angles around a point (sum to 360°)
+- Vertically opposite angles
+- Corresponding, alternate, and co-interior angles
+
+**Example:** If two angles on a straight line are $x$ and $2x$, find their values.
+
+Solution: $x + 2x = 180°$, so $3x = 180°$, therefore $x = 60°$
+
+### Triangles
+
+Properties of triangles:
+
+- Types of triangles (equilateral, isosceles, scalene)
+- Angle sum of a triangle (180°)
+- Exterior angles of triangles
+- Congruent triangles
+
+**Example:** In a triangle, two angles are 65° and 45°. Find the third angle.
+
+Solution: $180° - 65° - 45° = 70°$
+
+### Quadrilaterals
+
+Properties of four-sided shapes:
+
+- Squares, rectangles, parallelograms
+- Rhombus, trapezium, kite
+- Angle properties
+- Symmetry properties
+
+### Circles
+
+Understanding circles:
+
+- Parts of a circle (radius, diameter, chord, arc)
+- Circumference and area
+- Relationship between radius and diameter
+
+**Example:** If a circle has a radius of 5 cm, find its diameter.
+
+Solution: Diameter = 2 × radius = 2 × 5 = 10 cm
+
+### Transformations
+
+Moving and changing shapes:
+
+- Translation (sliding)
+- Reflection (flipping)
+- Rotation (turning)
+- Enlargement (scaling)
+
+### 3D Shapes
+
+Exploring three-dimensional objects:
+
+- Prisms and pyramids
+- Faces, edges, and vertices
+- Nets of 3D shapes
+
+## Practice Problems
+
+1. Find the missing angle in a triangle with angles 42° and 68°
+2. Calculate the angles on a straight line if one angle is three times the other
+3. Name the quadrilateral with all sides equal and all angles 90°
+4. Find the circumference of a circle with radius 7 cm (use π ≈ 3.14)
+
+## Resources
+
+- [Khan Academy: Geometry](https://www.khanacademy.org/)
+- [NZ Maths: Geometry](https://nzmaths.co.nz/)

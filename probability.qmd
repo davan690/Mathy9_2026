@@ -1,0 +1,102 @@
+---
+title: "Probability"
+---
+
+## Introduction
+
+Probability is the study of chance and likelihood. It helps us predict and understand uncertain events in mathematics and everyday life.
+
+## Key Topics
+
+### Basic Probability Concepts
+
+Understanding chance:
+
+- Probability measures how likely an event is to occur
+- Probability scale: 0 (impossible) to 1 (certain)
+- Expressing probability as fractions, decimals, and percentages
+
+**Example:** The probability of rolling a 3 on a standard die is $\frac{1}{6}$
+
+### Theoretical Probability
+
+Calculating probability using logic:
+
+- Formula: $P(\text{event}) = \frac{\text{number of favorable outcomes}}{\text{total number of possible outcomes}}$
+- Sample space (all possible outcomes)
+- Equally likely outcomes
+
+**Example:** What is the probability of drawing a heart from a standard deck of 52 cards?
+
+Solution: $P(\text{heart}) = \frac{13}{52} = \frac{1}{4} = 0.25 = 25\%$
+
+### Experimental Probability
+
+Probability based on trials and experiments:
+
+- Conducting experiments
+- Recording results
+- Calculating relative frequency
+- Comparing theoretical and experimental probability
+
+**Example:** If you flip a coin 50 times and get 28 heads, the experimental probability is $\frac{28}{50} = 0.56$
+
+### Probability Language
+
+Describing likelihood:
+
+- Impossible (probability = 0)
+- Unlikely (probability between 0 and 0.5)
+- Even chance (probability = 0.5)
+- Likely (probability between 0.5 and 1)
+- Certain (probability = 1)
+
+### Simple Events
+
+Working with single outcomes:
+
+- Probability of simple events
+- Complementary events: $P(\text{not A}) = 1 - P(\text{A})$
+- Mutually exclusive events
+
+**Example:** If the probability of rain is 0.3, what is the probability it won't rain?
+
+Solution: $P(\text{no rain}) = 1 - 0.3 = 0.7$
+
+### Tree Diagrams
+
+Visualizing probability:
+
+- Representing outcomes systematically
+- Calculating probabilities of multiple events
+- Understanding combined events
+
+### Probability in Games
+
+Understanding fairness and strategy:
+
+- Fair vs. unfair games
+- Expected outcomes
+- Making predictions
+
+**Example:** In a game where you win if you roll a 5 or 6, the probability of winning is $\frac{2}{6} = \frac{1}{3}$
+
+## Practice Problems
+
+1. What is the probability of rolling an even number on a standard die?
+2. A bag contains 5 red balls, 3 blue balls, and 2 green balls. What is the probability of drawing a blue ball?
+3. If $P(\text{event}) = 0.65$, find $P(\text{not event})$
+4. You flip a coin twice. What is the probability of getting two heads?
+
+## Real-World Applications
+
+- Weather forecasting
+- Sports predictions
+- Insurance calculations
+- Game design
+- Risk assessment
+
+## Resources
+
+- [Khan Academy: Probability](https://www.khanacademy.org/)
+- [NZ Maths: Probability](https://nzmaths.co.nz/)

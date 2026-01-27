@@ -1,0 +1,128 @@
+---
+title: "Ratios and Proportions"
+---
+
+## Introduction
+
+Ratios and proportions describe relationships between quantities. They are fundamental to understanding scaling, comparison, and many real-world applications.
+
+## Key Topics
+
+### Understanding Ratios
+
+Comparing quantities:
+
+- Ratios show the relationship between two or more quantities
+- Written as a:b or $\frac{a}{b}$
+- Simplifying ratios to simplest form
+- Part-to-part vs. part-to-whole ratios
+
+**Example:** If there are 12 boys and 8 girls in a class, the ratio of boys to girls is 12:8 = 3:2
+
+### Equivalent Ratios
+
+Finding equal ratios:
+
+- Multiplying or dividing both parts by the same number
+- Using ratio tables
+- Scaling up and down
+
+**Example:** The ratio 4:6 is equivalent to 2:3 (dividing by 2) or 8:12 (multiplying by 2)
+
+### Proportions
+
+When ratios are equal:
+
+- A proportion is an equation showing two ratios are equal
+- Cross multiplication to solve proportions
+- Direct proportion relationships
+
+**Example:** Solve: $\frac{3}{5} = \frac{x}{15}$
+
+Solution: $5x = 3 \times 15$, so $5x = 45$, therefore $x = 9$
+
+### Sharing in Ratios
+
+Dividing quantities according to ratios:
+
+- Dividing amounts into given ratios
+- Finding total parts
+- Calculating each share
+
+**Example:** Share $60 in the ratio 2:3
+
+Solution: Total parts = 2 + 3 = 5
+
+First share = $\frac{2}{5} \times 60 = $24$
+
+Second share = $\frac{3}{5} \times 60 = $36$
+
+### Rates
+
+Special ratios comparing different units:
+
+- Speed (distance per time)
+- Unit rates (per 1 unit)
+- Price per item
+- Comparing rates
+
+**Example:** If you travel 180 km in 3 hours, your speed is:
+
+$\text{Speed} = \frac{180 \text{ km}}{3 \text{ hours}} = 60 \text{ km/h}$
+
+### Scale Factors
+
+Ratios in enlargement and reduction:
+
+- Scale drawings
+- Maps and models
+- Enlargement and reduction
+- Similar shapes
+
+**Example:** A model car has a scale of 1:24. If the model is 15 cm long, what is the actual car length?
+
+Solution: Actual length = 15 × 24 = 360 cm = 3.6 m
+
+### Direct Proportion
+
+When quantities increase together:
+
+- If one doubles, the other doubles
+- Graphing direct proportion (straight line through origin)
+- Formula: $y = kx$ where k is constant
+
+**Example:** If 3 pens cost $6, how much do 7 pens cost?
+
+Solution: Cost is proportional to number of pens
+
+$\frac{3}{6} = \frac{7}{x}$, so $3x = 42$, therefore $x = 14$ ($14)
+
+### Percentages as Ratios
+
+Connecting percentages to ratios:
+
+- Percentages are ratios out of 100
+- Converting between percentages and ratios
+- Percentage increase and decrease
+
+## Practice Problems
+
+1. Simplify the ratio 24:36
+2. If the ratio of cats to dogs is 5:3 and there are 15 cats, how many dogs are there?
+3. Share $120 in the ratio 3:5
+4. A car travels 250 km in 5 hours. What is its average speed?
+5. On a map with scale 1:25000, two towns are 8 cm apart. What is the actual distance?
+
+## Real-World Applications
+
+- Cooking and recipes
+- Currency exchange
+- Scale models and maps
+- Mixing paint or chemicals
+- Financial planning
+- Construction and design
+
+## Resources
+
+- [Khan Academy: Ratios and Proportions](https://www.khanacademy.org/)
+- [NZ Maths: Ratios](https://nzmaths.co.nz/)

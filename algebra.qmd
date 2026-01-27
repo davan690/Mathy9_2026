@@ -1,0 +1,87 @@
+---
+title: "Algebra"
+---
+
+## Introduction
+
+Algebra is the language of mathematics. It allows us to describe patterns, relationships, and solve problems using symbols and variables.
+
+## Key Topics
+
+### Variables and Expressions
+
+Understanding algebraic notation:
+
+- Variables represent unknown or changing values
+- Writing algebraic expressions
+- Evaluating expressions by substitution
+
+**Example:** If $x = 5$, evaluate $3x + 7$
+
+Solution: $3(5) + 7 = 15 + 7 = 22$
+
+### Simplifying Expressions
+
+Working with algebraic terms:
+
+- Collecting like terms
+- Expanding brackets
+- Factorizing simple expressions
+
+**Example:** Simplify $5x + 3 - 2x + 7$
+
+Solution: $5x - 2x + 3 + 7 = 3x + 10$
+
+### Solving Linear Equations
+
+Finding unknown values:
+
+- One-step equations
+- Two-step equations
+- Equations with brackets
+- Equations with variables on both sides
+
+**Example:** Solve $2x + 5 = 13$
+
+Solution:
+$$\begin{align}
+2x + 5 &= 13 \\
+2x &= 8 \\
+x &= 4
+\end{align}$$
+
+### Patterns and Sequences
+
+Recognizing and describing patterns:
+
+- Number patterns
+- Geometric patterns
+- Finding the nth term
+- Linear sequences
+
+**Example:** Find the next term in the sequence: 3, 7, 11, 15, ...
+
+Solution: The pattern increases by 4 each time, so the next term is 19.
+
+### Graphing Linear Relationships
+
+Visualizing equations:
+
+- Plotting points on a coordinate plane
+- Drawing straight line graphs
+- Understanding gradient (slope)
+- Finding the equation of a line
+
+**Example:** Graph the equation $y = 2x + 1$
+
+## Practice Problems
+
+1. Simplify: $4a + 3b - 2a + 5b$
+2. Solve: $3x - 7 = 14$
+3. Find the 10th term of the sequence: 2, 5, 8, 11, ...
+4. Expand: $3(x + 4)$
+
+## Resources
+
+- [Khan Academy: Algebra Basics](https://www.khanacademy.org/)
+- [NZ Maths: Algebra](https://nzmaths.co.nz/)

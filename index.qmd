@@ -1,0 +1,46 @@
+---
+title: "Welcome to Year 9 Mathematics"
+---
+
+## Welcome to Year 9 Maths 2026!
+
+This website contains resources, lessons, and materials for our Year 9 Mathematics class. The content is organized according to the New Zealand Mathematics Curriculum.
+
+### Course Overview
+
+In Year 9, we'll explore the following mathematical topics:
+
+- **[Number and Operations](number.qmd)**: Working with integers, fractions, decimals, and percentages
+- **[Algebra](algebra.qmd)**: Patterns, equations, and algebraic thinking
+- **[Geometry](geometry.qmd)**: Shapes, angles, and geometric properties
+- **[Measurement](measurement.qmd)**: Length, area, volume, and units
+- **[Statistics](statistics.qmd)**: Data collection, analysis, and interpretation
+- **[Probability](probability.qmd)**: Chance, outcomes, and predictions
+- **[Ratios and Proportions](ratios.qmd)**: Relationships between quantities
+
+### Learning Goals
+
+By the end of Year 9, you will be able to:
+
+- Apply mathematical concepts to solve real-world problems
+- Use mathematical reasoning to justify your solutions
+- Communicate your mathematical thinking clearly
+- Work collaboratively on mathematical tasks
+- Develop confidence in your mathematical abilities
+
+### Getting Started
+
+Click on any topic in the navigation menu to begin exploring the content. Each section includes:
+
+- Key concepts and definitions
+- Worked examples
+- Practice problems
+- Additional resources
+
+### Need Help?
+
+Don't hesitate to ask questions during class or reach out for extra support. Mathematics is a skill that develops with practice and perseverance!
+
+---
+
+*This website is designed to support your learning journey in Year 9 Mathematics.*

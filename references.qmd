@@ -1,0 +1,144 @@
+---
+title: "References"
+---
+
+## Curriculum Resources
+
+### New Zealand Ministry of Education
+
+- [The New Zealand Curriculum Online](https://nzcurriculum.tki.org.nz/)
+- [Mathematics and Statistics Learning Area](https://nzcurriculum.tki.org.nz/The-New-Zealand-Curriculum/Learning-areas/Mathematics-and-statistics)
+
+### NZ Maths
+
+- [NZ Maths Homepage](https://nzmaths.co.nz/)
+- NZ Maths provides resources, activities, and games specifically designed for New Zealand mathematics curriculum
+
+## Online Learning Platforms
+
+### Khan Academy
+
+- [Khan Academy Mathematics](https://www.khanacademy.org/math)
+- Free comprehensive video lessons and practice exercises
+- Topics aligned with international mathematics standards
+
+### Math is Fun
+
+- [Math is Fun](https://www.mathsisfun.com/)
+- Clear explanations, examples, and activities
+- Interactive games and puzzles
+
+## Interactive Tools
+
+### Calculators and Tools
+
+- [Desmos Graphing Calculator](https://www.desmos.com/calculator)
+- [GeoGebra](https://www.geogebra.org/)
+- Online mathematics software for geometry, algebra, and calculus
+
+### Practice Websites
+
+- [Mathigon](https://mathigon.org/)
+- Interactive mathematics lessons and activities
+
+## Books and Textbooks
+
+### Recommended Textbooks
+
+- *New Zealand Mathematics* series (various publishers)
+- *Essential Mathematics* for Year 9
+- *Successful Mathematics* series
+
+### Library Resources
+
+Check your school library for:
+
+- Mathematics textbooks
+- Problem-solving books
+- Mathematics magazines and journals
+
+## Study Techniques
+
+### Effective Mathematics Study Tips
+
+1. **Practice Regularly**: Mathematics improves with consistent practice
+2. **Show Your Working**: Always write out your solution steps
+3. **Check Your Answers**: Use estimation and inverse operations
+4. **Ask Questions**: Don't hesitate to seek help when confused
+5. **Use Multiple Resources**: Different explanations can help understanding
+6. **Work in Groups**: Explaining to others reinforces your own learning
+
+### Problem-Solving Strategies
+
+- Read the problem carefully
+- Identify what you know and what you need to find
+- Draw diagrams when helpful
+- Try simpler cases first
+- Check if your answer makes sense
+
+## Video Resources
+
+### YouTube Channels
+
+- Khan Academy
+- Numberphile
+- Mathologer
+- Eddie Woo (Australian mathematics teacher)
+
+## Mathematics Competitions
+
+- [Australian Mathematics Competition (AMC)](https://www.amt.edu.au/)
+- [Mathematical Olympiad](https://www.mathsolympiad.org.nz/)
+- School-based mathematics challenges
+
+## Additional Support
+
+### Getting Help
+
+- Ask your teacher during class or office hours
+- Form study groups with classmates
+- Utilize school tutoring services
+- Online mathematics forums (with supervision)
+
+### Parent Resources
+
+Resources for parents supporting students:
+
+- [Family Maths](https://www.familymaths.org.nz/)
+- Tips for helping with mathematics homework
+- Understanding the NZ mathematics curriculum
+
+## Mathematics in Careers
+
+### Where is Mathematics Used?
+
+Mathematics is essential in many careers:
+
+- Engineering and technology
+- Finance and banking
+- Science and research
+- Architecture and design
+- Medicine and healthcare
+- Data analysis and statistics
+- Education
+- Game design and animation
+
+## Glossary
+
+For mathematical terms and definitions, refer to:
+
+- [Math Open Reference](https://www.mathopenref.com/)
+- Your textbook glossary
+- Class notes and handouts
+
+---
+
+## Attribution
+
+This website was created to support Year 9 Mathematics learning in 2026. Content is aligned with the New Zealand Curriculum and draws from various educational resources.
+
+**Last Updated**: January 2026
+
+---
+
+*If you find additional resources that you think would be helpful, please share them with the class!*

@@ -1,0 +1,105 @@
+---
+title: "Statistics"
+---
+
+## Introduction
+
+Statistics is about collecting, organizing, analyzing, and interpreting data. These skills help us make sense of information and make informed decisions.
+
+## Key Topics
+
+### Data Collection
+
+Methods of gathering information:
+
+- Surveys and questionnaires
+- Observations
+- Experiments
+- Sampling methods
+- Primary vs. secondary data
+
+**Example:** To find out students' favorite sports, we could conduct a survey of the class.
+
+### Organizing Data
+
+Ways to arrange and present data:
+
+- Frequency tables
+- Tally charts
+- Grouping data into intervals
+- Creating categories
+
+**Example:** Tally chart of favorite colors in class
+
+### Displaying Data
+
+Visual representations of data:
+
+- Bar graphs and column graphs
+- Line graphs
+- Pie charts
+- Pictographs
+- Dot plots
+- Stem-and-leaf plots
+
+**Example:** A bar graph showing the number of students who prefer different subjects.
+
+### Measures of Central Tendency
+
+Finding typical or middle values:
+
+- **Mean**: The average of all values
+  - Formula: Sum of all values ÷ Number of values
+- **Median**: The middle value when data is ordered
+- **Mode**: The most frequent value
+
+**Example:** Find the mean of: 4, 7, 5, 9, 5
+
+Solution: Mean = (4 + 7 + 5 + 9 + 5) ÷ 5 = 30 ÷ 5 = 6
+
+### Range and Spread
+
+Understanding how data varies:
+
+- Range: Maximum value - Minimum value
+- Quartiles and interquartile range
+- Outliers (unusual values)
+
+**Example:** For the data set 3, 5, 7, 9, 11, the range is 11 - 3 = 8
+
+### Interpreting Data
+
+Making sense of statistical information:
+
+- Reading and understanding graphs
+- Drawing conclusions from data
+- Identifying trends and patterns
+- Understanding bias and misleading graphs
+
+### Box-and-Whisker Plots
+
+Visualizing the distribution of data:
+
+- Five-number summary (minimum, Q1, median, Q3, maximum)
+- Identifying the spread of data
+- Comparing data sets
+
+## Practice Problems
+
+1. Find the mean, median, and mode of: 12, 15, 11, 15, 18, 13
+2. Calculate the range of the data: 23, 45, 32, 51, 28, 36
+3. Create a frequency table for the following ages: 13, 14, 13, 15, 14, 13, 14, 15, 13
+4. Draw a bar graph showing: Apples-5, Oranges-8, Bananas-6, Grapes-3
+
+## Real-World Applications
+
+- Analyzing sports statistics
+- Understanding weather patterns
+- Interpreting survey results
+- Making data-driven decisions
+
+## Resources
+
+- [Khan Academy: Statistics](https://www.khanacademy.org/)
+- [NZ Maths: Statistics](https://nzmaths.co.nz/)
+- [Statistics New Zealand](https://www.stats.govt.nz/)
