@@ -1,0 +1,735 @@
+
+
+=== Page 1 ===
+Mathematics and Statistics Year 9 | October 2025 Page 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The New Zealand Curriculum 
+Mathematics and 
+Statistics Year 9 
+October 2025 
+ 
+ 
+ 
+ 
+ 
+
+
+=== Page 2 ===
+ 
+Mathematics and Statistics Year 9 | October 2025 Page 2 
+ 
+Purpose statement ..................................................................................................................................................... 3 
+Learning area structure .............................................................................................................................................. 4 
+Introduction ................................................................................................................................................................. 5 
+Year 9 teaching sequence .......................................................................................................................................... 6 
+Number ..................................................................................................................................................................... 7 
+Algebra ..................................................................................................................................................................... 8 
+Measurement ............................................................................................................................................................ 9 
+Geometry ................................................................................................................................................................ 10 
+Statistics ................................................................................................................................................................. 11 
+Probability ............................................................................................................................................................... 12 
+The language of Mathematics and Statistics for Year 9 ......................................................................................... 13 
+  
+Contents 
+
+=== Page 3 ===
+ 
+Mathematics and Statistics Year 9 | October 2025 Page 3 
+ 
+Ānō me he whare pūngāwerewere. 
+Behold, it is like the web of a spider. 
+ 
+This whakataukī celebrates intricacy, complexity, 
+interconnectedness, and strength. The Learning Area of 
+Mathematics and Statistics weaves together the effort 
+and creativity of many cultures that over time have used 
+mathematical and statistical ideas to understand their 
+world.
+ 
+The Mathematics and Statistics Learning Area equips students with conceptual and procedural knowledge that 
+empowers them to explore and make sense of the world. Mathematics and Statistics allows students to appreciate and 
+draw on the power of abstraction, visualisation, and symbolic representation to connect new knowledge to their current 
+understandings of quantity, space, time, data, and uncertainty. Students are taught logical reasoning and critical thinking 
+skills that help them to evaluate information, question assumptions, and express ideas clearly. 
+Through the study of mathematical and statistical reasoning, students learn how to differentiate what is probable from 
+what is possible and draw reliable conclusions about what is reasonable. As students are taught to notice patterns and 
+variation, select approaches, draw conclusions, and justify their solutions, they build confidence in their mathematical and 
+statistical abilities and problem-solving skills, applying these to new contexts. 
+The Mathematics and Statistics Learning Area provides students with concepts and tools to investigate, represent, and 
+connect situations, as well as to generalise, explain, and justify their findings. Students learn that Mathematics and 
+Statistics is a creative discipline that sparks curiosity and wonder and that it has been shaped by the contributions of 
+diverse people and cultures over time. 
+As students progress through the Learning Area, they deepen their understanding of how to use mathematics and 
+statistics accurately, efficiently, and confidently in increasingly complex ways. They are encouraged to engage with 
+important societal issues — such as ethically gathering, interpreting, and communicating data — and to observe and 
+describe similarities, patterns, and trends across natural, technological, and social contexts. 
+  
+Purpose statement 
+
+=== Page 4 ===
+ 
+Mathematics and Statistics Year 9 | October 2025 Page 4 
+ 
+The year-by-year teaching sequences for Mathematics and Statistics lay out the knowledge and practices to be taught 
+each year. The teaching sequences for Years 0–10 are organised into six strands: Number, Algebra, Measurement, 
+Geometry, Statistics, and Probability. 
+Number focuses on numerical concepts and systems. It develops students’ understanding of how numbers are used to 
+represent quantities, estimate, measure, and perform calculations, and how number systems have evolved to meet 
+practical and social needs. 
+Algebra focuses on generalisation and mathematical reasoning. It develops students’ understanding of how patterns and 
+relationships can be represented using symbols, graphs, and diagrams, and how algebraic thinking supports problem 
+solving and communication. 
+Measurement focuses on quantifying phenomena using units and systems. It develops students’ understanding of how 
+to measure tangible and intangible quantities using standard and non-standard units, and how measurement systems 
+vary across cultures and contexts. 
+Geometry focuses on shape, space, and transformation. It develops students’ understanding of how to visualise, 
+represent, and reason about objects and their position, orientation, and movement, drawing on geometric ideas used 
+across cultures and in the natural world. 
+Statistics focuses on data and uncertainty. It develops students’ understanding of how to collect, organise, and interpret 
+data in context, and how statistical thinking supports informed decision making. 
+Probability focuses on chance and likelihood. It develops students’ understanding of how to quantify uncertainty, make 
+predictions, and evaluate the likelihood of events, supporting probabilistic reasoning in everyday and applied contexts. 
+The year-by-year teaching sequences, organised through strands and elements, set out what is to be taught. Their 
+enactment is shaped by teachers, who design learning in response to their learners, adjusting the order and emphasis, 
+and adding contexts and content as appropriate. 
+  
+Learning area structure 
+
+=== Page 5 ===
+ 
+Mathematics and Statistics Year 9 | October 2025 Page 5 
+ 
+Across Years 0–10, Mathematics and Statistics takes students on a journey of increasingly sophisticated thinking about 
+number, patterns, space, and data. Through purposeful exploration and practice, students build the knowledge and 
+fluency they need to solve problems, reason logically, and make sense of the world around them. 
+The mathematical and statistical processes of investigating, representing and connecting situations, and generalising, 
+explaining, and justifying findings are fundamental to all mathematical and statistical teaching and underpin the way 
+students gain understanding of the knowledge and practices being taught.  
+Years 0–3 
+In Years 0–3, teaching focuses on building students’ ability to investigate, classify, and describe quantities, shapes, and 
+data. Teachers draw attention to properties of numbers and attributes of shapes.  Materials and pictures support 
+visualisation of these numerical and geometric concepts. Explicit teaching enables students to make connections 
+between representations and to develop their reasoning. 
+Years 4–6 
+In Years 4–6, teaching focuses on students’ use of a variety of representations to model number operations and to solve 
+word problems. They extend their understanding of whole numbers to fractions and decimals, and they visualise, classify, 
+and draw angles using benchmarks to support and justify their classifications. Students apply their knowledge of number 
+operations to reasoning about measurements and to investigating variations in patterns, shapes, probabilities, and data. 
+They begin to work with exponents, can tell the time, and convert between units of time. 
+Years 7–8 
+In Years 7 and 8, teaching focuses on students’ use of logic and reasoning to identify, clarify, and solve problems, make 
+connections between mathematical and statistical concepts, and investigate patterns and variation. They use appropriate 
+conventions, vocabulary, and algebraic notation to clearly explain solutions and justify their approaches to solving 
+problems. Students select, use, and adapt representations to visualise and extend their reasoning (e.g. number lines to 
+represent integers, and equations to represent linear patterns). They make generalisations, identify and calculate 
+unknown quantities (e.g. the size of angles), and use data visualisations to evaluate claims and make conjectures. They 
+begin to explore irrational numbers and to operate fluently with integers. 
+Years 9–10 
+In Years 9 and 10, teaching focuses on students’ use of proportional reasoning to transform numerical quantities, 
+measurements, and shapes, including right-angled triangles. They begin to generalise their understanding and 
+application of tables, equations, and graphs, including to explore patterns and the connections between different 
+representations. They extend their understanding of area, perimeter, and volume for a variety of 2D shapes, including 
+circles, and 3D shapes, including prisms. They use data visualisations to investigate, represent, and explain patterns, 
+trends, and variation, and they apply their knowledge to situations involving chance. 
+ 
+The Mathematics and Statistics learning area prepares students with the knowledge and practices they need to access 
+related curriculum subjects in Years 11–13, such as Statistics, Mathematics, and Physics. 
+  
+Introduction 
+
+=== Page 6 ===
+ 
+Mathematics and Statistics Year 9 | October 2025 Page 6 
+ 
+ 
+  
+The New Zealand Curriculum 
+Mathematics and Statistics 
+Year 9 teaching sequence 
+
+=== Page 7 ===
+ 
+Mathematics and Statistics Year 9 | October 2025 Page 7 
+Number 
+Year 9 
+ Knowledge 
+The facts, concepts, principles, and theories to teach. 
+Practices 
+The skills, strategies, and applications to teach. 
+Number 
+structures and 
+operations 
+ A number written in scientific notation has the form 
+𝑎 × 10𝑘, where 1 ≤ 𝑎 < 10 and 𝑘 is an integer. 
+ Repeated division can be summarised using 
+exponent notation with a negative exponent. 
+ There are an infinite number of rational numbers 
+between any two numbers; these can be 
+represented by terminating decimals, recurring 
+decimals, and fractions. 
+ Multiplying a fraction by an equivalent form of 1, 
+such as 
+3
+3, results in an equivalent fraction. 
+ When giving a fraction as an answer, there should 
+be a positive or negative integer in the numerator 
+and a positive integer in the denominator. 
+ Numbers, including fractions, decimals, and 
+percentages, can be represented using number 
+lines. 
+ Identifying, reading, writing, representing, 
+comparing, ordering, and converting between 
+fractions, decimals, and percentages 
+This content is to be taught across Years 9 and 10. 
+ Recording, comparing, and ordering whole and 
+decimal numbers using scientific notation 
+(e.g. 3.14 × 103) 
+ Finding equivalent fractions, simplifying fractions, 
+and converting between improper fractions and 
+mixed numbers 
+ Expressing remainders from division as fractions or 
+decimals, depending on the context 
+ Identifying powers of 2 through to 210 
+ Converting between negative powers and unit 
+fractions (e.g. 3−2  =
+1
+9 ) 
+ Approximately locating roots on the number line 
+with reference to the closest perfect square 
+(e.g. √48 is between √36 = 6 and √49 = 7, but 
+closer to 7) 
+ Rounding and estimation support efficiently 
+predicting results and checking the reasonableness 
+of calculations. 
+ Using rounding and estimation to predict results and 
+to check the reasonableness of calculations 
+ Rounding to the degree of precision required for the 
+context 
+This content is to be taught across Years 9 and 10. 
+ The order of operations is important when 
+evaluating or forming expressions. Operations are 
+done as follows: 
+1. grouped operations (e.g. expressions under a 
+square root, involving the numerator of a 
+fraction, or inside brackets) 
+2. exponents or powers 
+3. multiplication and division, from left to right 
+4. addition and subtraction, from left to right. 
+ A mnemonic, such as GEMA — Grouped 
+(e.g. √32  +  42 ), Exponents (e.g.(−2)3), 
+Multiplicative (× and ÷), Additive (+ and −) — can 
+be used to remember the order of operations. 
+ Every non-zero number has a multiplicative inverse 
+(reciprocal), and their product is 1 (e.g. 5 and 
+1
+5 are 
+reciprocals, so 5 ×
+1
+5 =
+1
+5 × 5 = 1). 
+This content is to be taught across Years 9 and 10. 
+ Generalising about exponents of 0 and 1 
+ Adding, subtracting, multiplying, and dividing 
+integers 
+ Generalising the rule for dividing by a fraction by 
+starting with dividing a whole number by a fraction 
+ Adding, subtracting, multiplying, and dividing 
+fractions and decimals 
+ Connecting multiplying or dividing decimals with 
+multiplying or dividing fractions (e.g. 0.3 ×  0.15 =
+ 
+3
+10 ×  
+15
+100). 
+ Checking for equivalence in expressions involving 
+negative numbers (e.g. (−3)2 ≠ −32, −2 + 3 = 3 +
+(−2), 2 × (−3) = (−3) × 2 = (−2) × 3,
+2
+−3 =
+−2
+3 =
+−
+2
+3) 
+ Percentages are a way of expressing a fraction of 
+100. 
+ Finding a fraction or percentage of a number 
+ Finding the whole amount, given a fraction or 
+percentage (e.g. 20% of an amount is 30. What is 
+the original amount?) 
+
+=== Page 8 ===
+ 
+Mathematics and Statistics Year 9 | October 2025 Page 8 
+Year 9 
+ Knowledge 
+The facts, concepts, principles, and theories to teach. 
+Practices 
+The skills, strategies, and applications to teach. 
+ Percentages can be used to proportionally increase 
+or decrease a quantity by multiplication and can be 
+presented as decimal multipliers. 
+o A percentage increase can be described by the 
+additional percentage or the percentage of the 
+final amount compared to the original amount 
+(e.g. a 20% increase represents 120% of the 
+original amount). 
+o A percentage decrease can be described by the 
+percentage lost or the percentage of the final 
+amount compared to the original amount (e.g. a 
+20% decrease represents 80% of the original 
+amount). 
+ Ratios show part-to-part or part-to-whole 
+comparisons of two or more quantities. 
+ Ratios can be scaled up or down or simplified. 
+ A rate proportionally compares two quantities that 
+have different units of measure; when working with 
+rates, ‘per’ means ‘for every’ in day-to-day contexts. 
+This content is to be taught across Years 9 and 10. 
+ Expressing a number as a fraction or percentage of 
+another number 
+This content is to be taught across Years 9 and 10. 
+ Increasing or decreasing a number by a given 
+proportion 
+ Representing proportional relationships using 
+whole-number ratios, including reducing the ratios 
+to their simplest form 
+ Dividing a quantity into two parts, given the part:part 
+or part:whole ratio 
+ Finding equivalent ratios and rates by scaling up or 
+down 
+Financial 
+mathematics 
+ Percentages, ratios, rates, and proportions are often 
+applied in financial situations. 
+This content is to be taught across Years 9 and 10. 
+ Applying percentage mark-ups and discounts 
+ Calculating simple interest and GST on dollar 
+amounts (e.g. finding 15% GST on $432) 
+ 
+Algebra 
+Year 9 
+ Knowledge 
+The facts, concepts, principles, and theories to teach. 
+Practices 
+The skills, strategies, and applications to teach. 
+Equations and 
+relationships  
+ The properties of operations (commutative, 
+distributive, associative, inverse, and identity) and 
+the order of operations apply to numbers and 
+variables. 
+ When operating on or writing equations with 
+fractions, fractions of magnitude greater than 1 are 
+usually written as improper fractions. 
+This content is to be taught across Years 9 and 10. 
+ Simplifying and manipulating algebraic expressions 
+involving sums, products, differences, and positive 
+integer powers, by: 
+o collecting like terms 
+o factorising using common factors 
+o expanding products, including multiplying a single 
+term by a bracketed term. 
+  Generalising the properties of operations with 
+variables (e.g. multiplication is distributive over 
+subtraction) 
+ Multiplying or dividing by −1 in inequalities 
+(e.g.−3 < 5) 
+ Forming and solving linear equations with rational 
+number coefficients and linear inequalities with 
+positive coefficients 
+ Using substitution to find the value of an expression 
+or a formula, given the values of its variables 
+ Rearranging formulae (e.g. solving P = 2𝑙 + 2𝑤 for 
+𝑤) 
+
+=== Page 9 ===
+ 
+Mathematics and Statistics Year 9 | October 2025 Page 9 
+Year 9 
+ Knowledge 
+The facts, concepts, principles, and theories to teach. 
+Practices 
+The skills, strategies, and applications to teach. 
+ For a specific straight line, the gradient, 𝑚, and 𝑦-
+intercept, 𝑐, are fixed, and 𝑥 varies with 𝑦 according 
+to the rule 𝑦 = 𝑚𝑥 + 𝑐. 
+ The 𝑦-intercept touches the 𝑦 −axis and has 
+coordinates (0, 𝑐). 
+This content is to be taught across Years 9 and 10. 
+ Interpreting rules of the form 𝑦 = 𝑚𝑥 + 𝑐 and using 
+a combination of substitution and tables to plot 
+points from the linear graph, connecting the points 
+to form a line 
+ Identifying the sign of 𝑚 from tables of values, and 
+linear graphs 
+ Identifying the value of 𝑐 for a straight line, from 
+tables of values and from linear graphs 
+ Using tables and graphs in the coordinate plane 
+(showing all four quadrants), and diagrams to 
+recognise the relationship between the ordinal 
+position and its corresponding element in a linear 
+pattern; developing a rule for the pattern in words; 
+and making conjectures about further elements in 
+the pattern 
+ Identifying the constant increase or decrease in a 
+linear pattern, using variables and algebraic 
+notation to represent the rule in an equation, and 
+drawing on the rule to make conjectures 
+ In the equation of a line 𝑦 = 𝑚𝑥 + 𝑐, 𝑚 and 𝑐 
+represent constants (they are unchanging), 𝑦 and 𝑥 
+can vary, and all the values of 𝑥 and 𝑦 that satisfy 
+the equation create an infinite number of points that 
+form the line. 
+ The gradient is a ratio that can be interpreted as the 
+‘steepness’ of a linear graph. 
+o A positive gradient slopes upwards when the 
+graph is read from left to right. 
+o A negative gradient slopes downwards when the 
+graph is read from left to right. 
+o A horizontal line has a gradient equal to zero. Its 
+equation will be 𝑦 = 𝑐. 
+ 
+Measurement 
+Year 9 
+ Knowledge 
+The facts, concepts, principles, and theories to teach. 
+Practices 
+The skills, strategies, and applications to teach. 
+Measuring  A solution to a calculation cannot be more precise 
+than the least precise number used in that 
+calculation. 
+This content is to be taught across Years 9 and 10. 
+ Estimating, calculating, converting, and accurately 
+representing measurements 
+ Conversions between different-sized metric units 
+may be needed to give the appropriate units for a 
+measurement or calculation. 
+ The metric prefixes ‘kilo–’, ‘mega–’, ‘giga–’, and 
+‘tera–’ signify a unit that is one thousand, one 
+million, one billion, and one trillion times larger than 
+the base unit. 
+ The metric prefixes ‘centi–’, ‘milli–’, ‘micro–’, and 
+‘nano–’ signify a unit one hundredth, one 
+thousandth, one millionth, and one billionth the size 
+of the base unit. 
+ Derived units (e.g. cm2, km/h) reflect a relationship 
+— a product or quotient — between two different 
+measurements. 
+This content is to be taught across Years 9 and 10. 
+ Selecting and using appropriate measurement units 
+for a given context, converting between metric units 
+if necessary and using appropriate prefixes 
+ The constant 𝜋 is found by dividing a circle’s 
+circumference by its diameter. 
+ For a circle of radius 𝑟, the circumference is 2𝜋𝑟. 
+ Finding: 
+o the perimeter of 2D shapes 
+o the circumference of circles 
+
+=== Page 10 ===
+ 
+Mathematics and Statistics Year 9 | October 2025 Page 10 
+Year 9 
+ Knowledge 
+The facts, concepts, principles, and theories to teach. 
+Practices 
+The skills, strategies, and applications to teach. 
+o the area of parallelograms, trapeziums, and kites, 
+relating the formulae used to the formula for a 
+rectangle 
+ Deriving the formulae for the perimeter of half and 
+quarter circles from the formula for a full circle 
+ Calculating the perimeter of half circles and quarter 
+circles 
+ For right-angled triangles, Pythagoras’ theorem 
+states that the square of the hypotenuse (longest 
+side) is equal to the sum of the squares of the other 
+two sides. 
+ If (𝑎, 𝑏, 𝑐) is a Pythagorean triple, then so is 
+(𝑘𝑎, 𝑘𝑏, 𝑘𝑐), where 𝑘 is a positive integer. 
+This content is to be taught across Years 9 and 10. 
+ Using Pythagoras’ theorem to: 
+o verify that given side lengths in a right-angled 
+triangle satisfy the theorem 
+o find the length of the hypotenuse in a right-angled 
+triangle, given the lengths of the other two sides 
+ Proving Pythagoras’ theorem (e.g. by rearranging 
+four congruent right-angled triangles into a square) 
+ Finding another Pythagorean triple from a given 
+Pythagorean triple 
+ There is a fixed relationship between speed, 
+distance, and time: speed =  
+distance
+time . 
+ In position-time graphs, the gradient represents 
+speed. 
+This content is to be taught across Years 9 and 10. 
+ Finding distance, given speed and time 
+ Finding time, given distance and speed 
+ Decimal measures are used for very small durations 
+(e.g. milliseconds); the rest of time measurement 
+uses a different system, based principally on 12 and 
+60. 
+This content is to be taught across Years 9 and 10. 
+ Reasoning about duration using different units of 
+time, including decimal fractions of milliseconds 
+where appropriate 
+This content is to be taught across Years 9 and 10. 
+ 
+Geometry 
+Year 9 
+ Knowledge 
+The facts, concepts, principles, and theories to teach. 
+Practices 
+The skills, strategies, and applications to teach. 
+Shapes  A circle is the path traced out by a point moving in a 
+plane and always a fixed distance (the radius) from 
+a central point. 
+ Angles between parallel lines and a transversal can 
+be corresponding, co-interior, or alternate; 
+corresponding angles are equal, and alternate 
+angles are equal. 
+ Identifying and describing parts of a circle (e.g. a 
+chord; the diameter, radius, and circumference) and 
+how they relate to each other 
+ Reasoning about unknown angles in situations 
+involving intersecting and parallel lines and 
+transversals. 
+ Verifying that two lines are parallel, using angles at 
+the intersections of a transversal 
+Spatial 
+reasoning 
+ A set of points in a plane can be transformed by 
+translation, reflection about a line, and rotation 
+about a fixed point. 
+This content is to be taught across Years 9 and 10. 
+ Representing and constructing 3D shapes, including 
+rectangular and triangular prisms and pyramids, 
+from nets and plan views drawings 
+ Transforming 2D shapes in the coordinate plane by 
+translation, reflection about a given line of 
+symmetry, and rotation about a given point by a 
+multiple of 90 degrees 
+ 
+
+=== Page 11 ===
+ 
+Mathematics and Statistics Year 9 | October 2025 Page 11 
+Statistics 
+Year 9 
+ Knowledge 
+The facts, concepts, principles, and theories to teach. 
+Practices 
+The skills, strategies, and applications to teach. 
+Developing 
+knowledge 
+from data 
+ Multivariate data is data in a set that has more than 
+two variables. 
+ Data can be collected from observational studies in 
+which the observers do not alter or control the 
+behaviour of the subjects. 
+ Statistical questions clearly identify the variable, 
+group of interest, and the intent of an investigation. 
+o A summary investigation is about a group. 
+o A comparison investigation compares a variable 
+across two clearly identified groups. 
+o A relationship investigation looks for a connection 
+between paired numerical or paired categorical 
+variables. 
+o A time-series investigation looks at a variable 
+over time. 
+ Primary data is data that is collected first-hand. 
+ Secondary data is data collected by someone else. 
+ Planning and collecting multivariate data to respond 
+to a statistical question and where at least one 
+variable is categorical and at least one is numerical 
+ Calculating the five-point-summary for numerical 
+data: 
+o the minimum value 
+o the value of quartile 1, or 𝑄1 
+o the value of the median or quartile 2, or 𝑄2 
+o the value of quartile 3, or 𝑄3 
+o the maximum value 
+ Calculating the interquartile range as 𝐼𝑄𝑅 = 𝑄3 − 𝑄1 
+Visualisation 
+of data 
+ A distribution is formed from all the possible values 
+of a variable and their frequencies. It can be shown 
+using data visualisations that show patterns, trends, 
+and variations and that include dot plots, bar 
+graphs, frequency tables, box plots, histograms, 
+time-series graphs, scatter plots, and two-way 
+tables. 
+ A good data visualisation should allow viewers to 
+discern the variable(s) and who the data was 
+collected from, and then, depending on the type of 
+visualisation, additional information such as 
+frequency, proportions, patterns or trends, and units 
+for numerical variables. 
+This content is to be taught across Years 9 and 10. 
+ Creating multiple data visualisations for an 
+investigation 
+ Selecting appropriate scales for data 
+This content is to be taught across Years 9 and 10. 
+ In relationship investigations: 
+o sometimes one variable is thought of as 
+predictive of the other variable; then the response 
+or dependent variable is on the 𝑦-axis, and the 
+‘predictive’, explanatory, or independent variable 
+is on the 𝑥-axis 
+o an eyeballed line or curve of best fit can be added 
+for paired numerical data. 
+This content is to be taught across Years 9 and 10. 
+ For relationship investigations, drawing an 
+eyeballed line or curve of best fit to predict possible 
+𝑦-values (the response variable) for given 𝑥-values 
+(the explanatory variable) 
+This content is to be taught across Years 9 and 10. 
+Interpretation 
+of data 
+ Elements of chance affect the certainty of results 
+from observational studies and experiments. 
+ Uncertainty should be taken into account when 
+making claims. 
+This content is to be taught across Years 9 and 10. 
+ Critically considering data visualisations, including 
+those from contemporary media, to see if they 
+support or misrepresent the data 
+This content is to be taught across Years 9 and 10. 
+ Data visualisations need to be critically assessed to 
+see if they support or misrepresent the data. 
+ Communicating findings in context to answer an 
+investigative question, using evidence 
+ Providing possible explanations for findings 
+
+=== Page 12 ===
+ 
+Mathematics and Statistics Year 9 | October 2025 Page 12 
+Year 9 
+ Knowledge 
+The facts, concepts, principles, and theories to teach. 
+Practices 
+The skills, strategies, and applications to teach. 
+ Comparing findings to initial conjectures or 
+assertions and existing knowledge 
+ Evaluating findings and data-collection methods to 
+check whether claims or statements are supported 
+by the data 
+ 
+Probability 
+Year 9 
+ Knowledge 
+The facts, concepts, principles, and theories to teach. 
+Practices 
+The skills, strategies, and applications to teach. 
+Experimental 
+and theoretical 
+probability 
+ Some chance-based situations, such as tossing a 
+non-regular 3D shape, can only be explored through 
+probability experiments. 
+ Results from sets of repeated trials for the same 
+experiment may vary. 
+ The Law of Large Numbers states that as the 
+number of trials in a chance experiment increases, 
+the experimental probability will approach the 
+experiment’s theoretical probability. 
+ Lists, tables, two-way tables, and tree diagrams are 
+useful systematic methods for generating all 
+possible outcomes. 
+ In joint events, events can be dependent or 
+independent. 
+ Probabilities for joint events cannot simply be 
+added, because doing so would double-count 
+outcomes that are common to both events. 
+ Mutually exclusive events cannot occur together. 
+ The estimated probability of an event from an 
+experiment is the number of times the event 
+happens divided by the total number of trials in the 
+experiment (i.e. the relative frequency for that 
+event). 
+This content is to be taught across Years 9 and 10. 
+ Carrying out a chance experiment, including running 
+simulations for a large number of trials using digital 
+tools 
+ Systematically listing outcomes for the sample 
+space 
+ Comparing experimental probability (from at least 
+30 trials) to theoretical probability for a chance 
+experiment, and explaining why they differ and how 
+increasing the number of trials reduces this 
+difference 
+ Carrying out chance experiments of at least 100 
+trials and comparing the experimental probability of 
+each individual outcome to its theoretical probability, 
+in order to demonstrate the Law of Large Numbers 
+ Creating and describing data visualisations for the 
+distribution of observed outcomes from a chance 
+experiment  
+ Calculating probability estimates for different 
+outcomes 
+This content is to be taught across Years 9 and 10. 
+ 
+
+=== Page 13 ===
+ 
+Mathematics and Statistics Year 9 | October 2025 Page 13 
+The language of Mathematics and Statistics for Year 9 
+ Year 9 
+Students will be taught the following new words: 
+Number  GST 
+ index 
+ irrational number 
+ like roots 
+ original amount 
+ precision  
+ rate 
+ reciprocal 
+ recurring 
+ scientific notation 
+ simple interest 
+Algebra  expanding 
+ gradient, slope 
+ intercept 
+ linear relationship  
+ rate of change 
+Measurement  accuracy 
+ chord 
+ congruent 
+ derived unit 
+ hypotenuse 
+ mega–, giga–, tera– 
+ micro–, nano– 
+ Pythagorean triple 
+ speed 
+Geometry  alternate, co-interior, or corresponding angles 
+ intersect 
+  transversal 
+Statistics  comparison investigation, relationship 
+investigation, summary investigation, time-series 
+investigation  
+ distribution  
+ explanatory variable 
+ line or curve of best fit 
+ multivariate data 
+ population 
+ quartile 
+Probability  elements of chance 
+ joint events 
+ mutually exclusive 
+ probability estimate 
+ simulation 
+ 
+ 

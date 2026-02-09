@@ -33,6 +33,11 @@ quarto render
 
 The rendered website will be in the `docs/` directory.
 
+### Security and Repo Protection
+
+For security scanning, protection steps, and tamper-resistance guidance, see:
+- [SECURITY_AUDIT.md](SECURITY_AUDIT.md)
+
 ### Deployment
 
 The website can be deployed to:

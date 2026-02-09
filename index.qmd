@@ -41,6 +41,10 @@ Click on any topic in the navigation menu to begin exploring the content. Each s
 
 Don't hesitate to ask questions during class or reach out for extra support. Mathematics is a skill that develops with practice and perseverance!
 
+### Site Integrity
+
+This site is backed by automated security checks and protected changes in the project repository. See [SECURITY_AUDIT.md](SECURITY_AUDIT.md) for details on scanning and protection steps.
+
 ---
 
 *This website is designed to support your learning journey in Year 9 Mathematics.*
