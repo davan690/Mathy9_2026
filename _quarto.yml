@@ -8,6 +8,8 @@ website:
     left:
       - text: "Home"
         href: index.qmd
+      - text: "Applied Mathematics"
+        href: farm/index.Rmd
       - text: "Topics"
         menu:
           - text: "Number and Operations"
@@ -24,8 +26,18 @@ website:
             href: probability.qmd
           - text: "Ratios and Proportions"
             href: ratios.qmd
-      - text: "References"
-        href: references.qmd
+      - text: "Resources"
+        menu:
+          - text: "References"
+            href: references.qmd
+          - text: "Number Curriculum Table"
+            href: number-curriculum.qmd
+          - text: "Security Audit"
+            href: SECURITY_AUDIT.md
+          - text: "NZQA"
+            href: https://www.nzqa.govt.nz
+          - text: "NCEA"
+            href: https://www.ncea.education.govt.nz
   sidebar: false
   page-footer:
     center: "Year 9 Mathematics Resources © 2026"

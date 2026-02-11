@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -94,6 +114,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./farm/index.html"> 
+<span class="menu-text">Applied Mathematics</span></a>
+  </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-topics" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Topics</span>
@@ -129,10 +153,33 @@ ul.task-list li input[type="checkbox"] {
   </li>  
     </ul>
   </li>
-  <li class="nav-item">
-    <a class="nav-link active" href="./references.html" aria-current="page"> 
-<span class="menu-text">References</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resources" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Resources</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-resources">    
+        <li>
+    <a class="dropdown-item" href="./references.html">
+ <span class="dropdown-text">References</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./number-curriculum.html">
+ <span class="dropdown-text">Number Curriculum Table</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./SECURITY_AUDIT.html">
+ <span class="dropdown-text">Security Audit</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://www.nzqa.govt.nz">
+ <span class="dropdown-text">NZQA</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://www.ncea.education.govt.nz">
+ <span class="dropdown-text">NCEA</span></a>
+  </li>  
+    </ul>
+  </li>
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -149,47 +196,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#curriculum-resources" id="toc-curriculum-resources" class="nav-link active" data-scroll-target="#curriculum-resources">Curriculum Resources</a>
-  <ul class="collapse">
-  <li><a href="#new-zealand-ministry-of-education" id="toc-new-zealand-ministry-of-education" class="nav-link" data-scroll-target="#new-zealand-ministry-of-education">New Zealand Ministry of Education</a></li>
-  <li><a href="#nz-maths" id="toc-nz-maths" class="nav-link" data-scroll-target="#nz-maths">NZ Maths</a></li>
-  </ul></li>
-  <li><a href="#online-learning-platforms" id="toc-online-learning-platforms" class="nav-link" data-scroll-target="#online-learning-platforms">Online Learning Platforms</a>
-  <ul class="collapse">
-  <li><a href="#khan-academy" id="toc-khan-academy" class="nav-link" data-scroll-target="#khan-academy">Khan Academy</a></li>
-  <li><a href="#math-is-fun" id="toc-math-is-fun" class="nav-link" data-scroll-target="#math-is-fun">Math is Fun</a></li>
-  </ul></li>
-  <li><a href="#interactive-tools" id="toc-interactive-tools" class="nav-link" data-scroll-target="#interactive-tools">Interactive Tools</a>
-  <ul class="collapse">
-  <li><a href="#calculators-and-tools" id="toc-calculators-and-tools" class="nav-link" data-scroll-target="#calculators-and-tools">Calculators and Tools</a></li>
-  <li><a href="#practice-websites" id="toc-practice-websites" class="nav-link" data-scroll-target="#practice-websites">Practice Websites</a></li>
-  </ul></li>
-  <li><a href="#books-and-textbooks" id="toc-books-and-textbooks" class="nav-link" data-scroll-target="#books-and-textbooks">Books and Textbooks</a>
-  <ul class="collapse">
-  <li><a href="#recommended-textbooks" id="toc-recommended-textbooks" class="nav-link" data-scroll-target="#recommended-textbooks">Recommended Textbooks</a></li>
-  <li><a href="#library-resources" id="toc-library-resources" class="nav-link" data-scroll-target="#library-resources">Library Resources</a></li>
-  </ul></li>
-  <li><a href="#study-techniques" id="toc-study-techniques" class="nav-link" data-scroll-target="#study-techniques">Study Techniques</a>
-  <ul class="collapse">
-  <li><a href="#effective-mathematics-study-tips" id="toc-effective-mathematics-study-tips" class="nav-link" data-scroll-target="#effective-mathematics-study-tips">Effective Mathematics Study Tips</a></li>
-  <li><a href="#problem-solving-strategies" id="toc-problem-solving-strategies" class="nav-link" data-scroll-target="#problem-solving-strategies">Problem-Solving Strategies</a></li>
-  </ul></li>
-  <li><a href="#video-resources" id="toc-video-resources" class="nav-link" data-scroll-target="#video-resources">Video Resources</a>
-  <ul class="collapse">
-  <li><a href="#youtube-channels" id="toc-youtube-channels" class="nav-link" data-scroll-target="#youtube-channels">YouTube Channels</a></li>
-  </ul></li>
-  <li><a href="#mathematics-competitions" id="toc-mathematics-competitions" class="nav-link" data-scroll-target="#mathematics-competitions">Mathematics Competitions</a></li>
-  <li><a href="#additional-support" id="toc-additional-support" class="nav-link" data-scroll-target="#additional-support">Additional Support</a>
-  <ul class="collapse">
-  <li><a href="#getting-help" id="toc-getting-help" class="nav-link" data-scroll-target="#getting-help">Getting Help</a></li>
-  <li><a href="#parent-resources" id="toc-parent-resources" class="nav-link" data-scroll-target="#parent-resources">Parent Resources</a></li>
-  </ul></li>
-  <li><a href="#mathematics-in-careers" id="toc-mathematics-in-careers" class="nav-link" data-scroll-target="#mathematics-in-careers">Mathematics in Careers</a>
-  <ul class="collapse">
-  <li><a href="#where-is-mathematics-used" id="toc-where-is-mathematics-used" class="nav-link" data-scroll-target="#where-is-mathematics-used">Where is Mathematics Used?</a></li>
-  </ul></li>
-  <li><a href="#glossary" id="toc-glossary" class="nav-link" data-scroll-target="#glossary">Glossary</a></li>
-  <li><a href="#attribution" id="toc-attribution" class="nav-link" data-scroll-target="#attribution">Attribution</a></li>
+  <li><a href="#curriculum-resources-local-files" id="toc-curriculum-resources-local-files" class="nav-link active" data-scroll-target="#curriculum-resources-local-files">Curriculum resources (local files)</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   </ul>
 </nav>
     </div>
@@ -215,178 +223,51 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="curriculum-resources" class="level2">
-<h2 class="anchored" data-anchor-id="curriculum-resources">Curriculum Resources</h2>
-<section id="new-zealand-ministry-of-education" class="level3">
-<h3 class="anchored" data-anchor-id="new-zealand-ministry-of-education">New Zealand Ministry of Education</h3>
+<section id="curriculum-resources-local-files" class="level2">
+<h2 class="anchored" data-anchor-id="curriculum-resources-local-files">Curriculum resources (local files)</h2>
 <ul>
-<li><a href="https://nzcurriculum.tki.org.nz/">The New Zealand Curriculum Online</a></li>
-<li><a href="https://nzcurriculum.tki.org.nz/The-New-Zealand-Curriculum/Learning-areas/Mathematics-and-statistics">Mathematics and Statistics Learning Area</a></li>
+<li><a href="resources/-Mathematics-and-Statistics-Yr-9-Teaching-Sequence-.pdf">Mathematics and Statistics Year 9 Teaching Sequence</a> <span class="citation" data-cites="moe2025-y9-teaching-sequence">(<a href="#ref-moe2025-y9-teaching-sequence" role="doc-biblioref">New Zealand Ministry of Education 2025c</a>)</span></li>
+<li><a href="resources/-Mathematics-and-Statistics-Yr-10-Teaching-Sequence-.pdf">Mathematics and Statistics Year 10 Teaching Sequence</a> <span class="citation" data-cites="moe2025-y10-teaching-sequence">(<a href="#ref-moe2025-y10-teaching-sequence" role="doc-biblioref">New Zealand Ministry of Education 2025b</a>)</span></li>
+<li><a href="resources/NZC - Mathematics and Statistics Phase 4 (Years 9–10).htm">NZC - Mathematics and Statistics Phase 4 (Years 9–10)</a> <span class="citation" data-cites="moe-nzc-phase4">(<a href="#ref-moe-nzc-phase4" role="doc-biblioref">New Zealand Ministry of Education, n.d.c</a>)</span></li>
+<li><a href="resources/-Mathematics–and–Statistics.pdf">Mathematics and Statistics</a> <span class="citation" data-cites="moe-maths-stats-overview">(<a href="#ref-moe-maths-stats-overview" role="doc-biblioref">New Zealand Ministry of Education, n.d.b</a>)</span></li>
+<li><a href="resources/Infosheet_Mathematics_and_Statistics_Learning_Area_Years0-10.pdf">Infosheet: Mathematics and Statistics Learning Area (Years 0–10)</a> <span class="citation" data-cites="moe-infosheet-years0-10">(<a href="#ref-moe-infosheet-years0-10" role="doc-biblioref">New Zealand Ministry of Education, n.d.a</a>)</span></li>
+<li><a href="resources/NZC-Subject-Descriptions-Years-11-13-2025.pdf">NZC Subject Descriptions Years 11–13 (2025)</a> <span class="citation" data-cites="moe-subject-descriptions-2025">(<a href="#ref-moe-subject-descriptions-2025" role="doc-biblioref">New Zealand Ministry of Education 2025a</a>)</span></li>
+<li><a href="resources/NZCER-Report-Feedback-on-the-draft-Years-9-13-Mathematics-an.pdf">NZCER Report: Feedback on the draft Years 9–13 Mathematics and Statistics</a> <span class="citation" data-cites="nzcer-feedback-report">(<a href="#ref-nzcer-feedback-report" role="doc-biblioref">New Zealand Council for Educational Research, n.d.</a>)</span></li>
+<li><a href="resources/What-you-told-us-report--Maths-and-stats-Years-9-10.pdf">What you told us report: Maths and Stats Years 9–10</a> <span class="citation" data-cites="moe-what-you-told-us">(<a href="#ref-moe-what-you-told-us" role="doc-biblioref">New Zealand Ministry of Education, n.d.e</a>)</span></li>
+<li><a href="resources/Whats-New-in-Mathematics-and-Statistics–Years-0–8.pdf">What’s New in Mathematics and Statistics – Years 0–8</a> <span class="citation" data-cites="moe-whats-new-years0-8">(<a href="#ref-moe-whats-new-years0-8" role="doc-biblioref">New Zealand Ministry of Education, n.d.d</a>)</span></li>
 </ul>
 </section>
-<section id="nz-maths" class="level3">
-<h3 class="anchored" data-anchor-id="nz-maths">NZ Maths</h3>
-<ul>
-<li><a href="https://nzmaths.co.nz/">NZ Maths Homepage</a></li>
-<li>NZ Maths provides resources, activities, and games specifically designed for New Zealand mathematics curriculum</li>
-</ul>
-</section>
-</section>
-<section id="online-learning-platforms" class="level2">
-<h2 class="anchored" data-anchor-id="online-learning-platforms">Online Learning Platforms</h2>
-<section id="khan-academy" class="level3">
-<h3 class="anchored" data-anchor-id="khan-academy">Khan Academy</h3>
-<ul>
-<li><a href="https://www.khanacademy.org/math">Khan Academy Mathematics</a></li>
-<li>Free comprehensive video lessons and practice exercises</li>
-<li>Topics aligned with international mathematics standards</li>
-</ul>
-</section>
-<section id="math-is-fun" class="level3">
-<h3 class="anchored" data-anchor-id="math-is-fun">Math is Fun</h3>
-<ul>
-<li><a href="https://www.mathsisfun.com/">Math is Fun</a></li>
-<li>Clear explanations, examples, and activities</li>
-<li>Interactive games and puzzles</li>
-</ul>
-</section>
-</section>
-<section id="interactive-tools" class="level2">
-<h2 class="anchored" data-anchor-id="interactive-tools">Interactive Tools</h2>
-<section id="calculators-and-tools" class="level3">
-<h3 class="anchored" data-anchor-id="calculators-and-tools">Calculators and Tools</h3>
-<ul>
-<li><a href="https://www.desmos.com/calculator">Desmos Graphing Calculator</a></li>
-<li><a href="https://www.geogebra.org/">GeoGebra</a></li>
-<li>Online mathematics software for geometry, algebra, and calculus</li>
-</ul>
-</section>
-<section id="practice-websites" class="level3">
-<h3 class="anchored" data-anchor-id="practice-websites">Practice Websites</h3>
-<ul>
-<li><a href="https://mathigon.org/">Mathigon</a></li>
-<li>Interactive mathematics lessons and activities</li>
-</ul>
-</section>
-</section>
-<section id="books-and-textbooks" class="level2">
-<h2 class="anchored" data-anchor-id="books-and-textbooks">Books and Textbooks</h2>
-<section id="recommended-textbooks" class="level3">
-<h3 class="anchored" data-anchor-id="recommended-textbooks">Recommended Textbooks</h3>
-<ul>
-<li><em>New Zealand Mathematics</em> series (various publishers)</li>
-<li><em>Essential Mathematics</em> for Year 9</li>
-<li><em>Successful Mathematics</em> series</li>
-</ul>
-</section>
-<section id="library-resources" class="level3">
-<h3 class="anchored" data-anchor-id="library-resources">Library Resources</h3>
-<p>Check your school library for:</p>
-<ul>
-<li>Mathematics textbooks</li>
-<li>Problem-solving books</li>
-<li>Mathematics magazines and journals</li>
-</ul>
-</section>
-</section>
-<section id="study-techniques" class="level2">
-<h2 class="anchored" data-anchor-id="study-techniques">Study Techniques</h2>
-<section id="effective-mathematics-study-tips" class="level3">
-<h3 class="anchored" data-anchor-id="effective-mathematics-study-tips">Effective Mathematics Study Tips</h3>
-<ol type="1">
-<li><strong>Practice Regularly</strong>: Mathematics improves with consistent practice</li>
-<li><strong>Show Your Working</strong>: Always write out your solution steps</li>
-<li><strong>Check Your Answers</strong>: Use estimation and inverse operations</li>
-<li><strong>Ask Questions</strong>: Don’t hesitate to seek help when confused</li>
-<li><strong>Use Multiple Resources</strong>: Different explanations can help understanding</li>
-<li><strong>Work in Groups</strong>: Explaining to others reinforces your own learning</li>
-</ol>
-</section>
-<section id="problem-solving-strategies" class="level3">
-<h3 class="anchored" data-anchor-id="problem-solving-strategies">Problem-Solving Strategies</h3>
-<ul>
-<li>Read the problem carefully</li>
-<li>Identify what you know and what you need to find</li>
-<li>Draw diagrams when helpful</li>
-<li>Try simpler cases first</li>
-<li>Check if your answer makes sense</li>
-</ul>
-</section>
-</section>
-<section id="video-resources" class="level2">
-<h2 class="anchored" data-anchor-id="video-resources">Video Resources</h2>
-<section id="youtube-channels" class="level3">
-<h3 class="anchored" data-anchor-id="youtube-channels">YouTube Channels</h3>
-<ul>
-<li>Khan Academy</li>
-<li>Numberphile</li>
-<li>Mathologer</li>
-<li>Eddie Woo (Australian mathematics teacher)</li>
-</ul>
-</section>
-</section>
-<section id="mathematics-competitions" class="level2">
-<h2 class="anchored" data-anchor-id="mathematics-competitions">Mathematics Competitions</h2>
-<ul>
-<li><a href="https://www.amt.edu.au/">Australian Mathematics Competition (AMC)</a></li>
-<li><a href="https://www.mathsolympiad.org.nz/">Mathematical Olympiad</a></li>
-<li>School-based mathematics challenges</li>
-</ul>
-</section>
-<section id="additional-support" class="level2">
-<h2 class="anchored" data-anchor-id="additional-support">Additional Support</h2>
-<section id="getting-help" class="level3">
-<h3 class="anchored" data-anchor-id="getting-help">Getting Help</h3>
-<ul>
-<li>Ask your teacher during class or office hours</li>
-<li>Form study groups with classmates</li>
-<li>Utilize school tutoring services</li>
-<li>Online mathematics forums (with supervision)</li>
-</ul>
-</section>
-<section id="parent-resources" class="level3">
-<h3 class="anchored" data-anchor-id="parent-resources">Parent Resources</h3>
-<p>Resources for parents supporting students:</p>
-<ul>
-<li><a href="https://www.familymaths.org.nz/">Family Maths</a></li>
-<li>Tips for helping with mathematics homework</li>
-<li>Understanding the NZ mathematics curriculum</li>
-</ul>
-</section>
-</section>
-<section id="mathematics-in-careers" class="level2">
-<h2 class="anchored" data-anchor-id="mathematics-in-careers">Mathematics in Careers</h2>
-<section id="where-is-mathematics-used" class="level3">
-<h3 class="anchored" data-anchor-id="where-is-mathematics-used">Where is Mathematics Used?</h3>
-<p>Mathematics is essential in many careers:</p>
-<ul>
-<li>Engineering and technology</li>
-<li>Finance and banking</li>
-<li>Science and research</li>
-<li>Architecture and design</li>
-<li>Medicine and healthcare</li>
-<li>Data analysis and statistics</li>
-<li>Education</li>
-<li>Game design and animation</li>
-</ul>
-</section>
-</section>
-<section id="glossary" class="level2">
-<h2 class="anchored" data-anchor-id="glossary">Glossary</h2>
-<p>For mathematical terms and definitions, refer to:</p>
-<ul>
-<li><a href="https://www.mathopenref.com/">Math Open Reference</a></li>
-<li>Your textbook glossary</li>
-<li>Class notes and handouts</li>
-</ul>
-<hr>
-</section>
-<section id="attribution" class="level2">
-<h2 class="anchored" data-anchor-id="attribution">Attribution</h2>
-<p>This website was created to support Year 9 Mathematics learning in 2026. Content is aligned with the New Zealand Curriculum and draws from various educational resources.</p>
-<p><strong>Last Updated</strong>: January 2026</p>
-<hr>
-<p><em>If you find additional resources that you think would be helpful, please share them with the class!</em></p>
+<section id="references" class="level2">
+<h2 class="anchored" data-anchor-id="references">References</h2>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-nzcer-feedback-report" class="csl-entry" role="listitem">
+New Zealand Council for Educational Research. n.d. <span>“NZCER Report: Feedback on the Draft Years 9–13 Mathematics and Statistics.”</span> New Zealand Council for Educational Research. <a href="https://resources/NZCER-Report-Feedback-on-the-draft-Years-9-13-Mathematics-an.pdf">resources/NZCER-Report-Feedback-on-the-draft-Years-9-13-Mathematics-an.pdf</a>.
+</div>
+<div id="ref-moe-subject-descriptions-2025" class="csl-entry" role="listitem">
+New Zealand Ministry of Education. 2025a. <span>“NZC Subject Descriptions Years 11–13 (2025).”</span> New Zealand Ministry of Education. <a href="https://resources/NZC-Subject-Descriptions-Years-11-13-2025.pdf">resources/NZC-Subject-Descriptions-Years-11-13-2025.pdf</a>.
+</div>
+<div id="ref-moe2025-y10-teaching-sequence" class="csl-entry" role="listitem">
+———. 2025b. <span>“Mathematics and Statistics Year 10 Teaching Sequence.”</span> New Zealand Ministry of Education. <a href="https://resources/-Mathematics-and-Statistics-Yr-10-Teaching-Sequence-.pdf">resources/-Mathematics-and-Statistics-Yr-10-Teaching-Sequence-.pdf</a>.
+</div>
+<div id="ref-moe2025-y9-teaching-sequence" class="csl-entry" role="listitem">
+———. 2025c. <span>“Mathematics and Statistics Year 9 Teaching Sequence.”</span> New Zealand Ministry of Education. <a href="https://resources/-Mathematics-and-Statistics-Yr-9-Teaching-Sequence-.pdf">resources/-Mathematics-and-Statistics-Yr-9-Teaching-Sequence-.pdf</a>.
+</div>
+<div id="ref-moe-infosheet-years0-10" class="csl-entry" role="listitem">
+———. n.d.a. <span>“Infosheet: Mathematics and Statistics Learning Area (Years 0–10).”</span> New Zealand Ministry of Education. <a href="https://resources/Infosheet_Mathematics_and_Statistics_Learning_Area_Years0-10.pdf">resources/Infosheet_Mathematics_and_Statistics_Learning_Area_Years0-10.pdf</a>.
+</div>
+<div id="ref-moe-maths-stats-overview" class="csl-entry" role="listitem">
+———. n.d.b. <span>“Mathematics and Statistics.”</span> New Zealand Ministry of Education. <a href="https://resources/-Mathematics%E2%80%93and%E2%80%93Statistics.pdf">resources/-Mathematics%E2%80%93and%E2%80%93Statistics.pdf</a>.
+</div>
+<div id="ref-moe-nzc-phase4" class="csl-entry" role="listitem">
+———. n.d.c. <span>“NZC - Mathematics and Statistics Phase 4 (Years 9–10).”</span> <a href="https://resources/NZC%20-%20Mathematics%20and%20Statistics%20Phase%204%20(Years%209%E2%80%9310).htm">resources/NZC%20-%20Mathematics%20and%20Statistics%20Phase%204%20(Years%209%E2%80%9310).htm</a>.
+</div>
+<div id="ref-moe-whats-new-years0-8" class="csl-entry" role="listitem">
+———. n.d.d. <span>“What’s New in Mathematics and Statistics – Years 0–8.”</span> New Zealand Ministry of Education. <a href="https://resources/Whats-New-in-Mathematics-and-Statistics%E2%80%93Years-0%E2%80%938.pdf">resources/Whats-New-in-Mathematics-and-Statistics%E2%80%93Years-0%E2%80%938.pdf</a>.
+</div>
+<div id="ref-moe-what-you-told-us" class="csl-entry" role="listitem">
+———. n.d.e. <span>“What You Told Us Report: Maths and Stats Years 9–10.”</span> New Zealand Ministry of Education. <a href="https://resources/What-you-told-us-report--Maths-and-stats-Years-9-10.pdf">resources/What-you-told-us-report--Maths-and-stats-Years-9-10.pdf</a>.
+</div>
+</div>
 
 
 </section>

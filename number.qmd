@@ -2,28 +2,318 @@
 title: "Number and Operations"
 ---
 
+In this unit we build confident number sense for Year 9 by connecting place value, rounding, and scientific notation with efficient operations and clear mathematical language.
+
+## Unit timetable (first three weeks)
+
+| Week | Day | Lesson focus | Curriculum link (Phase 4) | Notes |
+|---|---|---|---|---|
+| Week 1 | Thu | Unit launch, number line warm-up, baseline check | Number structures and operations | School year began on Thursday. |
+| Week 1 | Fri | Place value review, decimals as parts of a whole | Number structures and operations | Establish common language. |
+| Week 2 | Mon | Rounding decimals to place value | Rounding, estimation, and precision | Apply rounding to context. |
+| Week 2 | Tue | Significant figures | Rounding, estimation, and precision | Link to precision in calculations. |
+| Week 2 | Wed | Recurring decimals and notation | Number structures and operations | Connect fractions, decimals, and recurring. |
+| Week 2 | Thu | Scientific notation and powers of 10 | Number structures and operations | Use standard form in context. |
+| Week 2 | Fri | No school | -- | Public holiday. |
+| Week 3 | Mon | Mixed practice: rounding and significant figures | Rounding, estimation, and precision | Consolidation tasks. |
+| Week 3 | Tue | Scientific notation and calculator checks | Number structures and operations | Build accuracy and estimation. |
+| Week 3 | Wed | Words for +, -, x, / | Number structures and operations | Yesterday's lesson focus. |
+| Week 3 | Thu | Integers | Number structures and operations | Today’s focus. |
+| Week 4 | Mon | Order of operations | Number structures and operations | Next steps for fluency. |
+
+## Lesson notes and practice
+
+### Week 1 Thu - Unit launch, number line warm-up, baseline check
+
+**Notes**
+
+- Review integer placement on a number line and compare values using <, >, and =.
+- Emphasize direction: right is greater, left is smaller.
+- Baseline check focuses on place value and simple operations.
+
+**Worked examples**
+
+1. Place and compare: $-3$ and $2$.
+	- $-3$ is left of $2$, so $-3 < 2$.
+2. Distance from zero: compare $-7$ and $5$.
+	- $|-7| = 7$ and $|5| = 5$, so $-7$ is further from zero.
+3. Order these: $4, -1, 0, -5$.
+	- $-5, -1, 0, 4$.
+
+**Practice questions**
+
+1. Plot $-6, -2, 0, 3, 7$ on a number line.
+2. Which is greater: $-4$ or $-9$?
+3. Order: $6, -3, -8, 1$ from least to greatest.
+4. Write a number between $-2$ and $3$.
+5. True or false: $-1 > -3$.
+6. What is the distance between $-4$ and $2$?
+7. Place value: in $54.203$, what is the value of the 2?
+8. Evaluate: $3 + (-5)$.
+
+### Week 1 Fri - Place value review, decimals as parts of a whole
+
+**Notes**
+
+- Place value extends to tenths, hundredths, thousandths.
+- Decimals represent parts of a whole and can be compared by place value.
+
+**Worked examples**
+
+1. Write $3$ tenths and $7$ hundredths as a decimal: $0.37$.
+2. Compare $0.5$ and $0.47$: $0.50 > 0.47$.
+3. Expand $12.304$ by place value: $10 + 2 + 0.3 + 0.004$.
+
+**Practice questions**
+
+1. Write $6$ tenths and $2$ thousandths as a decimal.
+2. Which is larger: $0.209$ or $0.29$?
+3. Expand $4.508$ by place value.
+4. Write $7.03$ in words.
+5. Compare using <, >, =: $1.25$ and $1.205$.
+6. What is the value of the 8 in $3.081$?
+7. Order: $0.4, 0.04, 0.44, 0.404$.
+8. Convert $3$ and $5$ tenths to a decimal.
+
+### Week 2 Mon - Rounding decimals to place value
+
+**Notes**
+
+- Identify the rounding digit and look one place to the right.
+- If the next digit is 5 or more, round up; otherwise round down.
+
+**Worked examples**
+
+1. Round $6.247$ to the nearest tenth: $6.2$.
+2. Round $12.995$ to the nearest hundredth: $13.00$.
+3. Round $0.0499$ to the nearest hundredth: $0.05$.
+
+**Practice questions**
+
+1. Round $4.738$ to the nearest tenth.
+2. Round $9.995$ to the nearest hundredth.
+3. Round $15.039$ to the nearest hundredth.
+4. Round $0.504$ to the nearest tenth.
+5. Round $3.14159$ to the nearest thousandth.
+6. Round $62.499$ to the nearest whole number.
+7. Round $1.205$ to the nearest tenth.
+8. Round $7.444$ to the nearest hundredth.
+
+### Week 2 Tue - Significant figures
+
+**Notes**
+
+- All non-zero digits are significant.
+- Zeros between non-zero digits are significant.
+- Leading zeros are not significant.
+- Trailing zeros are significant only if a decimal point is shown.
+
+**Worked examples**
+
+1. $0.00450$ has 3 significant figures.
+2. $1200$ has 2 significant figures; $1200.$ has 4 significant figures.
+3. Round $0.06749$ to 2 significant figures: $0.067$.
+
+**Practice questions**
+
+1. How many significant figures are in $0.03040$?
+2. How many significant figures are in $7050$?
+3. Round $3.4567$ to 3 significant figures.
+4. Round $98.76$ to 2 significant figures.
+5. Round $0.009912$ to 2 significant figures.
+6. Write $0.004560$ with 3 significant figures.
+7. True or false: $100.0$ has 4 significant figures.
+8. Round $12,450$ to 3 significant figures.
+
+### Week 2 Wed - Recurring decimals and notation
+
+**Notes**
+
+- Recurring decimals repeat forever; use a dot or bar to show the repeat.
+- Convert fractions to decimals by division.
+- Recognize common recurring forms like $\frac{1}{3} = 0.\overline{3}$.
+
+**Worked examples**
+
+1. $\frac{1}{3} = 0.\overline{3}$.
+2. $\frac{2}{11} = 0.\overline{18}$.
+3. $0.\overline{6} = \frac{2}{3}$.
+
+**Practice questions**
+
+1. Convert $\frac{1}{6}$ to a decimal (recurring).
+2. Convert $\frac{5}{9}$ to a decimal.
+3. Write $0.\overline{72}$ as a fraction in simplest form.
+4. Which is larger: $0.\overline{4}$ or $0.\overline{5}$?
+5. Convert $0.\overline{3}$ to a fraction.
+6. Convert $\frac{7}{12}$ to a decimal (recurring or terminating).
+7. Identify the repeating block in $0.142857142857...$.
+8. True or false: every fraction gives a terminating decimal.
+
+### Week 2 Thu - Scientific notation and powers of 10
+
+**Notes**
+
+- Scientific notation is $a \times 10^n$ where $1 \le a < 10$.
+- Moving the decimal left makes $n$ positive; right makes $n$ negative.
+
+**Worked examples**
+
+1. $3,500,000 = 3.5 \times 10^6$.
+2. $0.00072 = 7.2 \times 10^{-4}$.
+3. $4.2 \times 10^3 = 4200$.
+
+**Practice questions**
+
+1. Write $56,000$ in scientific notation.
+2. Write $0.0045$ in scientific notation.
+3. Convert $9.1 \times 10^2$ to standard form.
+4. Convert $3.07 \times 10^{-3}$ to standard form.
+5. Which is larger: $6.2 \times 10^5$ or $8.1 \times 10^4$?
+6. Write $12,300,000$ in scientific notation.
+7. Write $0.0000005$ in scientific notation.
+8. Estimate $4.9 \times 10^3 + 3.1 \times 10^3$.
+
+### Week 2 Fri - No school
+
+**Notes**
+
+- No lesson (public holiday).
+
+**Optional practice**
+
+1. Review rounding to the nearest tenth.
+2. Convert $0.\overline{3}$ to a fraction.
+3. Write $45,000$ in scientific notation.
+4. Round $0.0999$ to 2 significant figures.
+
+### Week 3 Mon - Mixed practice: rounding and significant figures
+
+**Notes**
+
+- Choose rounding to place value or significant figures based on the question.
+- Check reasonableness after rounding.
+
+**Worked examples**
+
+1. Round $0.006789$ to 2 significant figures: $0.0068$.
+2. Round $45.376$ to the nearest tenth: $45.4$.
+3. Round $98,650$ to 3 significant figures: $98,700$.
+
+**Practice questions**
+
+1. Round $2.149$ to the nearest hundredth.
+2. Round $0.0009401$ to 2 significant figures.
+3. Round $65.05$ to 3 significant figures.
+4. Round $4.995$ to the nearest hundredth.
+5. Round $3.0049$ to 2 significant figures.
+6. Round $12,340$ to 2 significant figures.
+7. Round $0.05199$ to the nearest thousandth.
+8. Round $8.888$ to 2 significant figures.
+
+### Week 3 Tue - Scientific notation and calculator checks
+
+**Notes**
+
+- Use calculator EXP or EE button for powers of 10.
+- Check if answers are reasonable by comparing magnitude.
+
+**Worked examples**
+
+1. $6.5 \times 10^4 = 65,000$.
+2. $0.0000092 = 9.2 \times 10^{-6}$.
+3. $3.1 \times 10^5 + 2.4 \times 10^5 = 5.5 \times 10^5$.
+
+**Practice questions**
+
+1. Convert $8.03 \times 10^7$ to standard form.
+2. Write $0.000120$ in scientific notation.
+3. Calculate: $2.5 \times 10^3 + 4.8 \times 10^3$.
+4. Calculate: $7.2 \times 10^2 - 3.5 \times 10^2$.
+5. Which is larger: $1.2 \times 10^{-3}$ or $9.5 \times 10^{-4}$?
+6. Convert $4,600,000$ to scientific notation.
+7. Convert $6.7 \times 10^{-2}$ to standard form.
+8. Estimate $9.9 \times 10^6 - 1.1 \times 10^6$.
+
+### Week 3 Wed - Words for +, -, x, /
+
+**Notes**
+
+- Identify operation words: add, sum, total; subtract, difference; multiply, product; divide, quotient.
+- Translate word problems into number sentences.
+
+**Worked examples**
+
+1. "The sum of 7 and 9" is $7 + 9$.
+2. "The difference between 15 and 6" is $15 - 6$.
+3. "The quotient of 48 and 6" is $48 \div 6$.
+
+**Practice questions**
+
+1. Write a number sentence for: "The product of 8 and 5".
+2. Write a number sentence for: "The sum of 3, 7, and 12".
+3. Write a number sentence for: "12 less than 40".
+4. Write a number sentence for: "The quotient of 54 and 9".
+5. Write a number sentence for: "The difference between 100 and 35".
+6. Solve: "A packet has 24 stickers shared equally among 6 students".
+7. Solve: "A total of 45 apples are packed into 5 boxes equally".
+8. Solve: "A $12 discount is taken from a $65 item".
+
+### Week 3 Thu - Integers
+
+**Notes**
+
+- Use the number line to model integer addition and subtraction.
+- Adding a negative moves left; subtracting a negative moves right.
+
+**Worked examples**
+
+1. $-4 + 7 = 3$.
+2. $-6 - 5 = -11$.
+3. $8 + (-12) = -4$.
+
+**Practice questions**
+
+1. $-3 + 9$
+2. $5 + (-8)$
+3. $-12 + 7$
+4. $-6 - 4$
+5. $9 - (-2)$
+6. $-15 - (-5)$
+7. $-7 + (-6)$
+8. $14 + (-20)$
+
+### Week 4 Mon - Order of operations
+
+**Notes**
+
+- Use BEDMAS: Brackets, Exponents, Division/Multiplication, Addition/Subtraction.
+- Division and multiplication are done left to right, same for addition and subtraction.
+
+**Worked examples**
+
+1. $3 + 4 \times 2 = 3 + 8 = 11$.
+2. $(5 + 7) \div 3 = 12 \div 3 = 4$.
+3. $2^3 + 6 \times 2 = 8 + 12 = 20$.
+
+**Practice questions**
+
+1. $8 + 2 \times 5$
+2. $(18 - 6) \div 3$
+3. $4^2 + 3 \times 4$
+4. $20 - 6 \div 2$
+5. $(7 + 3) \times 4$
+6. $5 + 12 \div 3$
+7. $30 \div 5 + 6$
+8. $2(3 + 5) - 4$
+
 ## Introduction
 
 Number and operations form the foundation of mathematics. In this unit, we'll develop fluency with different types of numbers and operations.
 
-### Curriculum alignment (Phase 4, Years 9–10)
+### Curriculum alignment (Phase 4, Years 9-10)
 
-The summary below draws on the Phase 4 Number table and the Year 9–10 teaching sequences in the resources folder: [resources/NZC - Mathematics and Statistics Phase 4 (Years 9–10).htm](resources/NZC%20-%20Mathematics%20and%20Statistics%20Phase%204%20(Years%209%E2%80%9310).htm), [resources/-Mathematics-and-Statistics-Yr-9-Teaching-Sequence-.pdf](resources/-Mathematics-and-Statistics-Yr-9-Teaching-Sequence-.pdf), [resources/-Mathematics-and-Statistics-Yr-10-Teaching-Sequence-.pdf](resources/-Mathematics-and-Statistics-Yr-10-Teaching-Sequence-.pdf).
-
-| Focus area | Year 9 emphasis | Year 10 emphasis |
-|---|---|---|
-| Number structures and operations | Scientific notation form; negative exponents; rational numbers between any two numbers; equivalent fractions; number line representations; convert and compare fractions/decimals/percentages; rounding and estimation for reasonableness; order of operations; reciprocals; integer and fraction/decimal operations; negative number equivalence. | Irrational numbers and special symbols; exponent rules; rules for roots and like roots; calculation with scientific notation; exact calculations with fractions, roots, and multiples of $\pi$; significant figures; integer exponents with positive/negative numbers. |
-| Rounding, estimation, and precision | Use rounding and estimation to predict results and check reasonableness; round to context. | Use rounding to specified significant figures; apply significant-figure rules in calculations and scientific notation. |
-| Percentages, ratios, rates, and proportion | Percentages as fractions of 100; find parts/wholes from percentages; proportional increase/decrease; ratios (part–part, part–whole), rates, and scaling; divide quantities using ratios. | Percentage increase/decrease between two numbers; apply proportional change; compare and use ratios and rates (e.g. speed). |
-| Financial mathematics | Apply mark-ups, discounts, simple interest, and GST in context. | Convert currencies; unit-cost/proportion problems; compound interest via repeated simple-interest calculations over short periods. |
-
-**Key vocabulary focus (Phase 4):** GST, index, irrational number, like roots, original amount, precision, rate, reciprocal, recurring, scientific notation, simple interest, compound interest, principal square root, significant figures (see [resources/NZC - Mathematics and Statistics Phase 4 (Years 9–10).htm](resources/NZC%20-%20Mathematics%20and%20Statistics%20Phase%204%20(Years%209%E2%80%9310).htm) and the Year 9–10 teaching sequences).
-
-**Sources:**
-
-- [resources/NZC - Mathematics and Statistics Phase 4 (Years 9–10).htm](resources/NZC%20-%20Mathematics%20and%20Statistics%20Phase%204%20(Years%209%E2%80%9310).htm)
-- [resources/-Mathematics-and-Statistics-Yr-9-Teaching-Sequence-.pdf](resources/-Mathematics-and-Statistics-Yr-9-Teaching-Sequence-.pdf)
-- [resources/-Mathematics-and-Statistics-Yr-10-Teaching-Sequence-.pdf](resources/-Mathematics-and-Statistics-Yr-10-Teaching-Sequence-.pdf)
+The full curriculum table and sources are now on a separate page for easy reference: [Number curriculum table](number-curriculum.qmd).
 
 ## Key Topics
 

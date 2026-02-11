@@ -1,0 +1,22 @@
+---
+title: "Number Curriculum Table"
+---
+
+## Curriculum alignment (Phase 4, Years 9-10)
+
+The summary below draws on the Phase 4 Number table and the Year 9-10 teaching sequences in the resources folder: [resources/NZC - Mathematics and Statistics Phase 4 (Years 9–10).htm](resources/NZC%20-%20Mathematics%20and%20Statistics%20Phase%204%20(Years%209%E2%80%9310).htm), [resources/-Mathematics-and-Statistics-Yr-9-Teaching-Sequence-.pdf](resources/-Mathematics-and-Statistics-Yr-9-Teaching-Sequence-.pdf), [resources/-Mathematics-and-Statistics-Yr-10-Teaching-Sequence-.pdf](resources/-Mathematics-and-Statistics-Yr-10-Teaching-Sequence-.pdf).
+
+| Focus area | Year 9 emphasis | Year 10 emphasis |
+|---|---|---|
+| Number structures and operations | Scientific notation form; negative exponents; rational numbers between any two numbers; equivalent fractions; number line representations; convert and compare fractions/decimals/percentages; rounding and estimation for reasonableness; order of operations; reciprocals; integer and fraction/decimal operations; negative number equivalence. | Irrational numbers and special symbols; exponent rules; rules for roots and like roots; calculation with scientific notation; exact calculations with fractions, roots, and multiples of $\pi$; significant figures; integer exponents with positive/negative numbers. |
+| Rounding, estimation, and precision | Use rounding and estimation to predict results and check reasonableness; round to context. | Use rounding to specified significant figures; apply significant-figure rules in calculations and scientific notation. |
+| Percentages, ratios, rates, and proportion | Percentages as fractions of 100; find parts/wholes from percentages; proportional increase/decrease; ratios (part-part, part-whole), rates, and scaling; divide quantities using ratios. | Percentage increase/decrease between two numbers; apply proportional change; compare and use ratios and rates (e.g. speed). |
+| Financial mathematics | Apply mark-ups, discounts, simple interest, and GST in context. | Convert currencies; unit-cost/proportion problems; compound interest via repeated simple-interest calculations over short periods. |
+
+**Key vocabulary focus (Phase 4):** GST, index, irrational number, like roots, original amount, precision, rate, reciprocal, recurring, scientific notation, simple interest, compound interest, principal square root, significant figures (see [resources/NZC - Mathematics and Statistics Phase 4 (Years 9–10).htm](resources/NZC%20-%20Mathematics%20and%20Statistics%20Phase%204%20(Years%209%E2%80%9310).htm) and the Year 9-10 teaching sequences).
+
+**Sources:**
+
+- [resources/NZC - Mathematics and Statistics Phase 4 (Years 9–10).htm](resources/NZC%20-%20Mathematics%20and%20Statistics%20Phase%204%20(Years%209%E2%80%9310).htm)
+- [resources/-Mathematics-and-Statistics-Yr-9-Teaching-Sequence-.pdf](resources/-Mathematics-and-Statistics-Yr-9-Teaching-Sequence-.pdf)
+- [resources/-Mathematics-and-Statistics-Yr-10-Teaching-Sequence-.pdf](resources/-Mathematics-and-Statistics-Yr-10-Teaching-Sequence-.pdf)

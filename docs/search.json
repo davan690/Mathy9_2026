@@ -42,81 +42,81 @@
     "text": "Resources\n\nKhan Academy: Statistics\nNZ Maths: Statistics\nStatistics New Zealand"
   },
   {
-    "objectID": "ratios.html",
-    "href": "ratios.html",
-    "title": "Ratios and Proportions",
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
     "section": "",
-    "text": "Ratios and proportions describe relationships between quantities. They are fundamental to understanding scaling, comparison, and many real-world applications."
+    "text": "Mathematics and Statistics Year 9 Teaching Sequence (New Zealand Ministry of Education 2025c)\nMathematics and Statistics Year 10 Teaching Sequence (New Zealand Ministry of Education 2025b)\nNZC - Mathematics and Statistics Phase 4 (Years 9–10) (New Zealand Ministry of Education, n.d.c)\nMathematics and Statistics (New Zealand Ministry of Education, n.d.b)\nInfosheet: Mathematics and Statistics Learning Area (Years 0–10) (New Zealand Ministry of Education, n.d.a)\nNZC Subject Descriptions Years 11–13 (2025) (New Zealand Ministry of Education 2025a)\nNZCER Report: Feedback on the draft Years 9–13 Mathematics and Statistics (New Zealand Council for Educational Research, n.d.)\nWhat you told us report: Maths and Stats Years 9–10 (New Zealand Ministry of Education, n.d.e)\nWhat’s New in Mathematics and Statistics – Years 0–8 (New Zealand Ministry of Education, n.d.d)"
   },
   {
-    "objectID": "ratios.html#introduction",
-    "href": "ratios.html#introduction",
-    "title": "Ratios and Proportions",
+    "objectID": "references.html#curriculum-resources-local-files",
+    "href": "references.html#curriculum-resources-local-files",
+    "title": "References",
     "section": "",
-    "text": "Ratios and proportions describe relationships between quantities. They are fundamental to understanding scaling, comparison, and many real-world applications."
+    "text": "Mathematics and Statistics Year 9 Teaching Sequence (New Zealand Ministry of Education 2025c)\nMathematics and Statistics Year 10 Teaching Sequence (New Zealand Ministry of Education 2025b)\nNZC - Mathematics and Statistics Phase 4 (Years 9–10) (New Zealand Ministry of Education, n.d.c)\nMathematics and Statistics (New Zealand Ministry of Education, n.d.b)\nInfosheet: Mathematics and Statistics Learning Area (Years 0–10) (New Zealand Ministry of Education, n.d.a)\nNZC Subject Descriptions Years 11–13 (2025) (New Zealand Ministry of Education 2025a)\nNZCER Report: Feedback on the draft Years 9–13 Mathematics and Statistics (New Zealand Council for Educational Research, n.d.)\nWhat you told us report: Maths and Stats Years 9–10 (New Zealand Ministry of Education, n.d.e)\nWhat’s New in Mathematics and Statistics – Years 0–8 (New Zealand Ministry of Education, n.d.d)"
   },
   {
-    "objectID": "ratios.html#key-topics",
-    "href": "ratios.html#key-topics",
-    "title": "Ratios and Proportions",
+    "objectID": "references.html#references",
+    "href": "references.html#references",
+    "title": "References",
+    "section": "References",
+    "text": "References\n\n\nNew Zealand Council for Educational Research. n.d. “NZCER Report: Feedback on the Draft Years 9–13 Mathematics and Statistics.” New Zealand Council for Educational Research. resources/NZCER-Report-Feedback-on-the-draft-Years-9-13-Mathematics-an.pdf.\n\n\nNew Zealand Ministry of Education. 2025a. “NZC Subject Descriptions Years 11–13 (2025).” New Zealand Ministry of Education. resources/NZC-Subject-Descriptions-Years-11-13-2025.pdf.\n\n\n———. 2025b. “Mathematics and Statistics Year 10 Teaching Sequence.” New Zealand Ministry of Education. resources/-Mathematics-and-Statistics-Yr-10-Teaching-Sequence-.pdf.\n\n\n———. 2025c. “Mathematics and Statistics Year 9 Teaching Sequence.” New Zealand Ministry of Education. resources/-Mathematics-and-Statistics-Yr-9-Teaching-Sequence-.pdf.\n\n\n———. n.d.a. “Infosheet: Mathematics and Statistics Learning Area (Years 0–10).” New Zealand Ministry of Education. resources/Infosheet_Mathematics_and_Statistics_Learning_Area_Years0-10.pdf.\n\n\n———. n.d.b. “Mathematics and Statistics.” New Zealand Ministry of Education. resources/-Mathematics%E2%80%93and%E2%80%93Statistics.pdf.\n\n\n———. n.d.c. “NZC - Mathematics and Statistics Phase 4 (Years 9–10).” resources/NZC%20-%20Mathematics%20and%20Statistics%20Phase%204%20(Years%209%E2%80%9310).htm.\n\n\n———. n.d.d. “What’s New in Mathematics and Statistics – Years 0–8.” New Zealand Ministry of Education. resources/Whats-New-in-Mathematics-and-Statistics%E2%80%93Years-0%E2%80%938.pdf.\n\n\n———. n.d.e. “What You Told Us Report: Maths and Stats Years 9–10.” New Zealand Ministry of Education. resources/What-you-told-us-report--Maths-and-stats-Years-9-10.pdf."
+  },
+  {
+    "objectID": "probability.html",
+    "href": "probability.html",
+    "title": "Probability",
+    "section": "",
+    "text": "Probability is the study of chance and likelihood. It helps us predict and understand uncertain events in mathematics and everyday life."
+  },
+  {
+    "objectID": "probability.html#introduction",
+    "href": "probability.html#introduction",
+    "title": "Probability",
+    "section": "",
+    "text": "Probability is the study of chance and likelihood. It helps us predict and understand uncertain events in mathematics and everyday life."
+  },
+  {
+    "objectID": "probability.html#key-topics",
+    "href": "probability.html#key-topics",
+    "title": "Probability",
     "section": "Key Topics",
-    "text": "Key Topics\n\nUnderstanding Ratios\nComparing quantities:\n\nRatios show the relationship between two or more quantities\nWritten as a:b or \\(\\frac{a}{b}\\)\nSimplifying ratios to simplest form\nPart-to-part vs. part-to-whole ratios\n\nExample: If there are 12 boys and 8 girls in a class, the ratio of boys to girls is 12:8 = 3:2\n\n\nEquivalent Ratios\nFinding equal ratios:\n\nMultiplying or dividing both parts by the same number\nUsing ratio tables\nScaling up and down\n\nExample: The ratio 4:6 is equivalent to 2:3 (dividing by 2) or 8:12 (multiplying by 2)\n\n\nProportions\nWhen ratios are equal:\n\nA proportion is an equation showing two ratios are equal\nCross multiplication to solve proportions\nDirect proportion relationships\n\nExample: Solve: \\(\\frac{3}{5} = \\frac{x}{15}\\)\nSolution: \\(5x = 3 \\times 15\\), so \\(5x = 45\\), therefore \\(x = 9\\)\n\n\nSharing in Ratios\nDividing quantities according to ratios:\n\nDividing amounts into given ratios\nFinding total parts\nCalculating each share\n\nExample: Share $60 in the ratio 2:3\nSolution: Total parts = 2 + 3 = 5\nFirst share = $ = \\(24\\)\nSecond share = $ = \\(36\\)\n\n\nRates\nSpecial ratios comparing different units:\n\nSpeed (distance per time)\nUnit rates (per 1 unit)\nPrice per item\nComparing rates\n\nExample: If you travel 180 km in 3 hours, your speed is:\n\\(\\text{Speed} = \\frac{180 \\text{ km}}{3 \\text{ hours}} = 60 \\text{ km/h}\\)\n\n\nScale Factors\nRatios in enlargement and reduction:\n\nScale drawings\nMaps and models\nEnlargement and reduction\nSimilar shapes\n\nExample: A model car has a scale of 1:24. If the model is 15 cm long, what is the actual car length?\nSolution: Actual length = 15 × 24 = 360 cm = 3.6 m\n\n\nDirect Proportion\nWhen quantities increase together:\n\nIf one doubles, the other doubles\nGraphing direct proportion (straight line through origin)\nFormula: \\(y = kx\\) where k is constant\n\nExample: If 3 pens cost $6, how much do 7 pens cost?\nSolution: Cost is proportional to number of pens\n\\(\\frac{3}{6} = \\frac{7}{x}\\), so \\(3x = 42\\), therefore \\(x = 14\\) ($14)\n\n\nPercentages as Ratios\nConnecting percentages to ratios:\n\nPercentages are ratios out of 100\nConverting between percentages and ratios\nPercentage increase and decrease"
+    "text": "Key Topics\n\nBasic Probability Concepts\nUnderstanding chance:\n\nProbability measures how likely an event is to occur\nProbability scale: 0 (impossible) to 1 (certain)\nExpressing probability as fractions, decimals, and percentages\n\nExample: The probability of rolling a 3 on a standard die is \\(\\frac{1}{6}\\)\n\n\nTheoretical Probability\nCalculating probability using logic:\n\nFormula: \\(P(\\text{event}) = \\frac{\\text{number of favorable outcomes}}{\\text{total number of possible outcomes}}\\)\nSample space (all possible outcomes)\nEqually likely outcomes\n\nExample: What is the probability of drawing a heart from a standard deck of 52 cards?\nSolution: \\(P(\\text{heart}) = \\frac{13}{52} = \\frac{1}{4} = 0.25 = 25\\%\\)\n\n\nExperimental Probability\nProbability based on trials and experiments:\n\nConducting experiments\nRecording results\nCalculating relative frequency\nComparing theoretical and experimental probability\n\nExample: If you flip a coin 50 times and get 28 heads, the experimental probability is \\(\\frac{28}{50} = 0.56\\)\n\n\nProbability Language\nDescribing likelihood:\n\nImpossible (probability = 0)\nUnlikely (probability between 0 and 0.5)\nEven chance (probability = 0.5)\nLikely (probability between 0.5 and 1)\nCertain (probability = 1)\n\n\n\nSimple Events\nWorking with single outcomes:\n\nProbability of simple events\nComplementary events: \\(P(\\text{not A}) = 1 - P(\\text{A})\\)\nMutually exclusive events\n\nExample: If the probability of rain is 0.3, what is the probability it won’t rain?\nSolution: \\(P(\\text{no rain}) = 1 - 0.3 = 0.7\\)\n\n\nTree Diagrams\nVisualizing probability:\n\nRepresenting outcomes systematically\nCalculating probabilities of multiple events\nUnderstanding combined events\n\n\n\nProbability in Games\nUnderstanding fairness and strategy:\n\nFair vs. unfair games\nExpected outcomes\nMaking predictions\n\nExample: In a game where you win if you roll a 5 or 6, the probability of winning is \\(\\frac{2}{6} = \\frac{1}{3}\\)"
   },
   {
-    "objectID": "ratios.html#practice-problems",
-    "href": "ratios.html#practice-problems",
-    "title": "Ratios and Proportions",
+    "objectID": "probability.html#practice-problems",
+    "href": "probability.html#practice-problems",
+    "title": "Probability",
     "section": "Practice Problems",
-    "text": "Practice Problems\n\nSimplify the ratio 24:36\nIf the ratio of cats to dogs is 5:3 and there are 15 cats, how many dogs are there?\nShare $120 in the ratio 3:5\nA car travels 250 km in 5 hours. What is its average speed?\nOn a map with scale 1:25000, two towns are 8 cm apart. What is the actual distance?"
+    "text": "Practice Problems\n\nWhat is the probability of rolling an even number on a standard die?\nA bag contains 5 red balls, 3 blue balls, and 2 green balls. What is the probability of drawing a blue ball?\nIf \\(P(\\text{event}) = 0.65\\), find \\(P(\\text{not event})\\)\nYou flip a coin twice. What is the probability of getting two heads?"
   },
   {
-    "objectID": "ratios.html#real-world-applications",
-    "href": "ratios.html#real-world-applications",
-    "title": "Ratios and Proportions",
+    "objectID": "probability.html#real-world-applications",
+    "href": "probability.html#real-world-applications",
+    "title": "Probability",
     "section": "Real-World Applications",
-    "text": "Real-World Applications\n\nCooking and recipes\nCurrency exchange\nScale models and maps\nMixing paint or chemicals\nFinancial planning\nConstruction and design"
+    "text": "Real-World Applications\n\nWeather forecasting\nSports predictions\nInsurance calculations\nGame design\nRisk assessment"
   },
   {
-    "objectID": "ratios.html#resources",
-    "href": "ratios.html#resources",
-    "title": "Ratios and Proportions",
+    "objectID": "probability.html#resources",
+    "href": "probability.html#resources",
+    "title": "Probability",
     "section": "Resources",
-    "text": "Resources\n\nKhan Academy: Ratios and Proportions\nNZ Maths: Ratios"
+    "text": "Resources\n\nKhan Academy: Probability\nNZ Maths: Probability"
   },
   {
-    "objectID": "number.html",
-    "href": "number.html",
-    "title": "Number and Operations",
+    "objectID": "number-curriculum.html",
+    "href": "number-curriculum.html",
+    "title": "Number Curriculum Table",
     "section": "",
-    "text": "Number and operations form the foundation of mathematics. In this unit, we’ll develop fluency with different types of numbers and operations.\n\n\nThe summary below draws on the Phase 4 Number table and the Year 9–10 teaching sequences in the resources folder: resources/NZC - Mathematics and Statistics Phase 4 (Years 9–10).htm, resources/-Mathematics-and-Statistics-Yr-9-Teaching-Sequence-.pdf, resources/-Mathematics-and-Statistics-Yr-10-Teaching-Sequence-.pdf.\n\n\n\n\n\n\n\n\nFocus area\nYear 9 emphasis\nYear 10 emphasis\n\n\n\n\nNumber structures and operations\nScientific notation form; negative exponents; rational numbers between any two numbers; equivalent fractions; number line representations; convert and compare fractions/decimals/percentages; rounding and estimation for reasonableness; order of operations; reciprocals; integer and fraction/decimal operations; negative number equivalence.\nIrrational numbers and special symbols; exponent rules; rules for roots and like roots; calculation with scientific notation; exact calculations with fractions, roots, and multiples of \\(\\pi\\); significant figures; integer exponents with positive/negative numbers.\n\n\nRounding, estimation, and precision\nUse rounding and estimation to predict results and check reasonableness; round to context.\nUse rounding to specified significant figures; apply significant-figure rules in calculations and scientific notation.\n\n\nPercentages, ratios, rates, and proportion\nPercentages as fractions of 100; find parts/wholes from percentages; proportional increase/decrease; ratios (part–part, part–whole), rates, and scaling; divide quantities using ratios.\nPercentage increase/decrease between two numbers; apply proportional change; compare and use ratios and rates (e.g. speed).\n\n\nFinancial mathematics\nApply mark-ups, discounts, simple interest, and GST in context.\nConvert currencies; unit-cost/proportion problems; compound interest via repeated simple-interest calculations over short periods.\n\n\n\nKey vocabulary focus (Phase 4): GST, index, irrational number, like roots, original amount, precision, rate, reciprocal, recurring, scientific notation, simple interest, compound interest, principal square root, significant figures (see resources/NZC - Mathematics and Statistics Phase 4 (Years 9–10).htm and the Year 9–10 teaching sequences).\nSources:\n\nresources/NZC - Mathematics and Statistics Phase 4 (Years 9–10).htm\nresources/-Mathematics-and-Statistics-Yr-9-Teaching-Sequence-.pdf\nresources/-Mathematics-and-Statistics-Yr-10-Teaching-Sequence-.pdf"
+    "text": "The summary below draws on the Phase 4 Number table and the Year 9-10 teaching sequences in the resources folder: resources/NZC - Mathematics and Statistics Phase 4 (Years 9–10).htm, resources/-Mathematics-and-Statistics-Yr-9-Teaching-Sequence-.pdf, resources/-Mathematics-and-Statistics-Yr-10-Teaching-Sequence-.pdf.\n\n\n\n\n\n\n\n\nFocus area\nYear 9 emphasis\nYear 10 emphasis\n\n\n\n\nNumber structures and operations\nScientific notation form; negative exponents; rational numbers between any two numbers; equivalent fractions; number line representations; convert and compare fractions/decimals/percentages; rounding and estimation for reasonableness; order of operations; reciprocals; integer and fraction/decimal operations; negative number equivalence.\nIrrational numbers and special symbols; exponent rules; rules for roots and like roots; calculation with scientific notation; exact calculations with fractions, roots, and multiples of \\(\\pi\\); significant figures; integer exponents with positive/negative numbers.\n\n\nRounding, estimation, and precision\nUse rounding and estimation to predict results and check reasonableness; round to context.\nUse rounding to specified significant figures; apply significant-figure rules in calculations and scientific notation.\n\n\nPercentages, ratios, rates, and proportion\nPercentages as fractions of 100; find parts/wholes from percentages; proportional increase/decrease; ratios (part-part, part-whole), rates, and scaling; divide quantities using ratios.\nPercentage increase/decrease between two numbers; apply proportional change; compare and use ratios and rates (e.g. speed).\n\n\nFinancial mathematics\nApply mark-ups, discounts, simple interest, and GST in context.\nConvert currencies; unit-cost/proportion problems; compound interest via repeated simple-interest calculations over short periods.\n\n\n\nKey vocabulary focus (Phase 4): GST, index, irrational number, like roots, original amount, precision, rate, reciprocal, recurring, scientific notation, simple interest, compound interest, principal square root, significant figures (see resources/NZC - Mathematics and Statistics Phase 4 (Years 9–10).htm and the Year 9-10 teaching sequences).\nSources:\n\nresources/NZC - Mathematics and Statistics Phase 4 (Years 9–10).htm\nresources/-Mathematics-and-Statistics-Yr-9-Teaching-Sequence-.pdf\nresources/-Mathematics-and-Statistics-Yr-10-Teaching-Sequence-.pdf"
   },
   {
-    "objectID": "number.html#introduction",
-    "href": "number.html#introduction",
-    "title": "Number and Operations",
+    "objectID": "number-curriculum.html#curriculum-alignment-phase-4-years-9-10",
+    "href": "number-curriculum.html#curriculum-alignment-phase-4-years-9-10",
+    "title": "Number Curriculum Table",
     "section": "",
-    "text": "Number and operations form the foundation of mathematics. In this unit, we’ll develop fluency with different types of numbers and operations.\n\n\nThe summary below draws on the Phase 4 Number table and the Year 9–10 teaching sequences in the resources folder: resources/NZC - Mathematics and Statistics Phase 4 (Years 9–10).htm, resources/-Mathematics-and-Statistics-Yr-9-Teaching-Sequence-.pdf, resources/-Mathematics-and-Statistics-Yr-10-Teaching-Sequence-.pdf.\n\n\n\n\n\n\n\n\nFocus area\nYear 9 emphasis\nYear 10 emphasis\n\n\n\n\nNumber structures and operations\nScientific notation form; negative exponents; rational numbers between any two numbers; equivalent fractions; number line representations; convert and compare fractions/decimals/percentages; rounding and estimation for reasonableness; order of operations; reciprocals; integer and fraction/decimal operations; negative number equivalence.\nIrrational numbers and special symbols; exponent rules; rules for roots and like roots; calculation with scientific notation; exact calculations with fractions, roots, and multiples of \\(\\pi\\); significant figures; integer exponents with positive/negative numbers.\n\n\nRounding, estimation, and precision\nUse rounding and estimation to predict results and check reasonableness; round to context.\nUse rounding to specified significant figures; apply significant-figure rules in calculations and scientific notation.\n\n\nPercentages, ratios, rates, and proportion\nPercentages as fractions of 100; find parts/wholes from percentages; proportional increase/decrease; ratios (part–part, part–whole), rates, and scaling; divide quantities using ratios.\nPercentage increase/decrease between two numbers; apply proportional change; compare and use ratios and rates (e.g. speed).\n\n\nFinancial mathematics\nApply mark-ups, discounts, simple interest, and GST in context.\nConvert currencies; unit-cost/proportion problems; compound interest via repeated simple-interest calculations over short periods.\n\n\n\nKey vocabulary focus (Phase 4): GST, index, irrational number, like roots, original amount, precision, rate, reciprocal, recurring, scientific notation, simple interest, compound interest, principal square root, significant figures (see resources/NZC - Mathematics and Statistics Phase 4 (Years 9–10).htm and the Year 9–10 teaching sequences).\nSources:\n\nresources/NZC - Mathematics and Statistics Phase 4 (Years 9–10).htm\nresources/-Mathematics-and-Statistics-Yr-9-Teaching-Sequence-.pdf\nresources/-Mathematics-and-Statistics-Yr-10-Teaching-Sequence-.pdf"
-  },
-  {
-    "objectID": "number.html#key-topics",
-    "href": "number.html#key-topics",
-    "title": "Number and Operations",
-    "section": "Key Topics",
-    "text": "Key Topics\n\nIntegers\nWorking with positive and negative numbers:\n\nUnderstanding the number line\nAdding and subtracting integers\nMultiplying and dividing integers\nReal-world applications of negative numbers\n\nExample: If the temperature is -3°C and it rises by 7°C, what is the new temperature?\nSolution: -3 + 7 = 4°C\n\n\nFractions\nOperations with fractions:\n\nEquivalent fractions\nAdding and subtracting fractions\nMultiplying and dividing fractions\nMixed numbers and improper fractions\n\nExample: Calculate \\(\\frac{2}{3} + \\frac{1}{4}\\)\nSolution: \\(\\frac{8}{12} + \\frac{3}{12} = \\frac{11}{12}\\)\n\n\nDecimals\nUnderstanding and using decimal numbers:\n\nPlace value\nAdding and subtracting decimals\nMultiplying and dividing decimals\nConverting between fractions and decimals\n\nExample: 3.5 × 0.4 = 1.4\n\n\nPercentages\nWorking with percentages:\n\nUnderstanding percentages as fractions of 100\nConverting between percentages, decimals, and fractions\nFinding percentages of amounts\nPercentage increase and decrease\n\nExample: What is 15% of 80?\nSolution: 15% × 80 = 0.15 × 80 = 12"
-  },
-  {
-    "objectID": "number.html#practice-problems",
-    "href": "number.html#practice-problems",
-    "title": "Number and Operations",
-    "section": "Practice Problems",
-    "text": "Practice Problems\n\nCalculate: (-5) + 8 - (-3)\nSimplify: \\(\\frac{3}{4} \\times \\frac{2}{5}\\)\nFind 25% of 160\nConvert 0.625 to a fraction in simplest form"
-  },
-  {
-    "objectID": "number.html#resources",
-    "href": "number.html#resources",
-    "title": "Number and Operations",
-    "section": "Resources",
-    "text": "Resources\n\nKhan Academy: Integers\nNZ Maths: Number Operations"
+    "text": "The summary below draws on the Phase 4 Number table and the Year 9-10 teaching sequences in the resources folder: resources/NZC - Mathematics and Statistics Phase 4 (Years 9–10).htm, resources/-Mathematics-and-Statistics-Yr-9-Teaching-Sequence-.pdf, resources/-Mathematics-and-Statistics-Yr-10-Teaching-Sequence-.pdf.\n\n\n\n\n\n\n\n\nFocus area\nYear 9 emphasis\nYear 10 emphasis\n\n\n\n\nNumber structures and operations\nScientific notation form; negative exponents; rational numbers between any two numbers; equivalent fractions; number line representations; convert and compare fractions/decimals/percentages; rounding and estimation for reasonableness; order of operations; reciprocals; integer and fraction/decimal operations; negative number equivalence.\nIrrational numbers and special symbols; exponent rules; rules for roots and like roots; calculation with scientific notation; exact calculations with fractions, roots, and multiples of \\(\\pi\\); significant figures; integer exponents with positive/negative numbers.\n\n\nRounding, estimation, and precision\nUse rounding and estimation to predict results and check reasonableness; round to context.\nUse rounding to specified significant figures; apply significant-figure rules in calculations and scientific notation.\n\n\nPercentages, ratios, rates, and proportion\nPercentages as fractions of 100; find parts/wholes from percentages; proportional increase/decrease; ratios (part-part, part-whole), rates, and scaling; divide quantities using ratios.\nPercentage increase/decrease between two numbers; apply proportional change; compare and use ratios and rates (e.g. speed).\n\n\nFinancial mathematics\nApply mark-ups, discounts, simple interest, and GST in context.\nConvert currencies; unit-cost/proportion problems; compound interest via repeated simple-interest calculations over short periods.\n\n\n\nKey vocabulary focus (Phase 4): GST, index, irrational number, like roots, original amount, precision, rate, reciprocal, recurring, scientific notation, simple interest, compound interest, principal square root, significant figures (see resources/NZC - Mathematics and Statistics Phase 4 (Years 9–10).htm and the Year 9-10 teaching sequences).\nSources:\n\nresources/NZC - Mathematics and Statistics Phase 4 (Years 9–10).htm\nresources/-Mathematics-and-Statistics-Yr-9-Teaching-Sequence-.pdf\nresources/-Mathematics-and-Statistics-Yr-10-Teaching-Sequence-.pdf"
   },
   {
     "objectID": "index.html",
@@ -131,6 +131,97 @@
     "title": "Welcome to Year 9 Mathematics",
     "section": "",
     "text": "This website contains resources, lessons, and materials for our Year 9 Mathematics class. The content is organized according to the New Zealand Mathematics Curriculum.\n\n\nIn Year 9, we’ll explore the following mathematical topics:\n\nNumber and Operations: Working with integers, fractions, decimals, and percentages\nAlgebra: Patterns, equations, and algebraic thinking\nGeometry: Shapes, angles, and geometric properties\nMeasurement: Length, area, volume, and units\nStatistics: Data collection, analysis, and interpretation\nProbability: Chance, outcomes, and predictions\nRatios and Proportions: Relationships between quantities\n\n\n\n\nBy the end of Year 9, you will be able to:\n\nApply mathematical concepts to solve real-world problems\nUse mathematical reasoning to justify your solutions\nCommunicate your mathematical thinking clearly\nWork collaboratively on mathematical tasks\nDevelop confidence in your mathematical abilities\n\n\n\n\nClick on any topic in the navigation menu to begin exploring the content. Each section includes:\n\nKey concepts and definitions\nWorked examples\nPractice problems\nAdditional resources\n\n\n\n\nDon’t hesitate to ask questions during class or reach out for extra support. Mathematics is a skill that develops with practice and perseverance!\n\n\n\nThis site is backed by automated security checks and protected changes in the project repository. See SECURITY_AUDIT.md for details on scanning and protection steps.\n\nThis website is designed to support your learning journey in Year 9 Mathematics."
+  },
+  {
+    "objectID": "farm/index.html",
+    "href": "farm/index.html",
+    "title": "Mapping the School Farm",
+    "section": "",
+    "text": "Google My Maps is a free tool for creating a farm plan, measuring distances and areas, and recording work done on the property. This guide helps you map our school farm features and plan future work."
+  },
+  {
+    "objectID": "farm/index.html#introduction",
+    "href": "farm/index.html#introduction",
+    "title": "Mapping the School Farm",
+    "section": "",
+    "text": "Google My Maps is a free tool for creating a farm plan, measuring distances and areas, and recording work done on the property. This guide helps you map our school farm features and plan future work."
+  },
+  {
+    "objectID": "farm/index.html#learning-goals",
+    "href": "farm/index.html#learning-goals",
+    "title": "Mapping the School Farm",
+    "section": "Learning Goals",
+    "text": "Learning Goals\n\nCreate a digital farm map using layers.\nAdd points, lines, and areas with clear labels.\nMeasure distances and paddock areas accurately.\nExport or print a clean map for your workbook."
+  },
+  {
+    "objectID": "farm/index.html#getting-started",
+    "href": "farm/index.html#getting-started",
+    "title": "Mapping the School Farm",
+    "section": "1. Getting Started",
+    "text": "1. Getting Started\n\nGo to https://www.google.co.nz/mymaps and sign in to your Google account. If you do not have an account, create one.\nClick “Create a new map”.\nClick “Untitled map” to rename your map (for example, “Kaikorai Valley College School Farm”)."
+  },
+  {
+    "objectID": "farm/index.html#set-up-layers",
+    "href": "farm/index.html#set-up-layers",
+    "title": "Mapping the School Farm",
+    "section": "2. Set Up Layers",
+    "text": "2. Set Up Layers\nLayers let you separate existing features from proposed work. You can turn layers on or off using the checkbox next to each layer.\n\nRename the first layer to Existing. Use this for current paddocks, dams, fences, buildings, and water points.\nClick “Add layer” and name it Proposed for future work such as new planting or fencing."
+  },
+  {
+    "objectID": "farm/index.html#locate-the-farm",
+    "href": "farm/index.html#locate-the-farm",
+    "title": "Mapping the School Farm",
+    "section": "3. Locate the Farm",
+    "text": "3. Locate the Farm\n\nUse the search bar to type in the school address, or zoom using the mouse wheel and the + / - buttons.\nClick the arrow next to Base map and choose Satellite for a clear aerial view."
+  },
+  {
+    "objectID": "farm/index.html#add-farm-features",
+    "href": "farm/index.html#add-farm-features",
+    "title": "Mapping the School Farm",
+    "section": "4. Add Farm Features",
+    "text": "4. Add Farm Features\n\nA. Markers (Point Features)\nUse markers for water tanks, sheds, gates, troughs, or trees.\n\nClick the Marker icon under the search bar.\nClick the exact spot on the map.\nGive the marker a clear title, then save.\n\n\n\n\nB. Lines (Fences, Tracks, Waterways)\n\nClick the Line icon (right of the marker icon) and choose “Add line or shape”.\nClick along the path of the fence or creek.\nPress Enter to finish the line and add a title.\n\n\n\n\nC. Areas (Paddocks, Orchards, Bush)\n\nStart the same way as a line.\nClick around the boundary and then click the starting point to close the shape.\nAdd a title and save.\n\n\n\nD. Edit or Delete Features\nAfter saving a feature, a popup lets you edit color, line width, transparency, and description. You can also attach a photo or delete the feature using the trash bin icon."
+  },
+  {
+    "objectID": "farm/index.html#measure-distances-and-areas",
+    "href": "farm/index.html#measure-distances-and-areas",
+    "title": "Mapping the School Farm",
+    "section": "5. Measure Distances and Areas",
+    "text": "5. Measure Distances and Areas\nThe Measurement tool (ruler icon) helps you check distances or paddock sizes.\n\nClick the ruler icon on the far right of the toolbar.\nClick a starting point, then add points to measure a path.\nFor a polygon, close the shape to see both perimeter and area (in hectares).\nPress Enter to finish a straight line measurement.\nTo stop measuring, click the hand icon or click anywhere on the screen."
+  },
+  {
+    "objectID": "farm/index.html#export-or-print-your-map",
+    "href": "farm/index.html#export-or-print-your-map",
+    "title": "Mapping the School Farm",
+    "section": "6. Export or Print Your Map",
+    "text": "6. Export or Print Your Map\n\nOption A: Print Map (Recommended)\n\nClick the three vertical dots next to your map name.\nChoose “Print map”.\nPick paper size, orientation, and output type, then click Print.\nA new PDF preview opens in your browser. Use the print icon to save as PDF or print.\n\n\n\n\nOption B: Screenshot (Snipping Tool)\nWindows\n\nOpen Snipping Tool from the Start menu search.\nClick New, then drag to select the area.\nSave the image and insert it into your workbook.\n\nMac\n\nPress Shift + Command + 4.\nDrag to select the area.\nThe screenshot saves to the desktop for inserting into your workbook."
+  },
+  {
+    "objectID": "farm/index.html#map-checklist",
+    "href": "farm/index.html#map-checklist",
+    "title": "Mapping the School Farm",
+    "section": "Map Checklist",
+    "text": "Map Checklist\n\nYour map has a clear title.\nLayers include Existing and Proposed.\nFeatures are labeled with correct names.\nAt least one line and one area are mapped.\nMeasurements are used to check a distance or area.\nExport is clean and readable."
+  },
+  {
+    "objectID": "farm/index.html#source-and-further-help",
+    "href": "farm/index.html#source-and-further-help",
+    "title": "Mapping the School Farm",
+    "section": "Source and Further Help",
+    "text": "Source and Further Help\n\nAdapted from Beef + Lamb New Zealand User Guide (July 2021). PDF: resources/use-google-my-maps-map-your-farm.pdf. Site: https://www.beeflambnz.com\nExtra help video: https://www.landcare.org.nz/resource-item/mapping\nGoogle My Maps support: https://support.google.com/mymaps"
+  },
+  {
+    "objectID": "farm/farm-homework/index.html",
+    "href": "farm/farm-homework/index.html",
+    "title": "Farm Mapping Homework",
+    "section": "",
+    "text": "In this homework assignment, you will create a PDF map of the school farm using Google My Maps. You will learn how to add important features to your map, including an arrow, scale, and legend.\n\n\n\n\nCreate Your Map:\n\nFollow the instructions provided in the index.Rmd file to create your farm map using Google My Maps.\n\nAdd Features:\n\nOnce your map is created, you need to add the following features:\n\nArrow: Indicate a specific direction on your map.\nScale: Show the scale of your map to help viewers understand distances.\nLegend: Create a legend that explains the symbols and colors used on your map.\n\n\nExport Your Map:\n\nAfter adding the features, export your map as a PDF. Make sure the arrow, scale, and legend are clearly visible in the exported document.\n\n\n\n\n\n\nExplain why it is important to include a scale on your map. How does it help the viewer?\nDescribe the purpose of a legend in a map. What information should be included in your legend for the school farm map?\n\n\n\n\nThis homework aligns with the following areas of the New Zealand Curriculum:\n\nGeography: Understand how to represent geographical information using maps.\nMathematics: Apply measurement concepts in real-world contexts.\n\nFor more information, visit the New Zealand Curriculum website: New Zealand Curriculum\n\nNote: Ensure you follow the guidelines and submit your homework by the due date. Happy mapping!"
+  },
+  {
+    "objectID": "farm/farm-homework/index.html#homework-assignment-mapping-the-school-farm",
+    "href": "farm/farm-homework/index.html#homework-assignment-mapping-the-school-farm",
+    "title": "Farm Mapping Homework",
+    "section": "",
+    "text": "In this homework assignment, you will create a PDF map of the school farm using Google My Maps. You will learn how to add important features to your map, including an arrow, scale, and legend.\n\n\n\n\nCreate Your Map:\n\nFollow the instructions provided in the index.Rmd file to create your farm map using Google My Maps.\n\nAdd Features:\n\nOnce your map is created, you need to add the following features:\n\nArrow: Indicate a specific direction on your map.\nScale: Show the scale of your map to help viewers understand distances.\nLegend: Create a legend that explains the symbols and colors used on your map.\n\n\nExport Your Map:\n\nAfter adding the features, export your map as a PDF. Make sure the arrow, scale, and legend are clearly visible in the exported document.\n\n\n\n\n\n\nExplain why it is important to include a scale on your map. How does it help the viewer?\nDescribe the purpose of a legend in a map. What information should be included in your legend for the school farm map?\n\n\n\n\nThis homework aligns with the following areas of the New Zealand Curriculum:\n\nGeography: Understand how to represent geographical information using maps.\nMathematics: Apply measurement concepts in real-world contexts.\n\nFor more information, visit the New Zealand Curriculum website: New Zealand Curriculum\n\nNote: Ensure you follow the guidelines and submit your homework by the due date. Happy mapping!"
   },
   {
     "objectID": "algebra.html",
@@ -166,6 +257,125 @@
     "title": "Algebra",
     "section": "Resources",
     "text": "Resources\n\nKhan Academy: Algebra Basics\nNZ Maths: Algebra"
+  },
+  {
+    "objectID": "farm/farm-homework/homework.html",
+    "href": "farm/farm-homework/homework.html",
+    "title": "Farm Mapping Homework",
+    "section": "",
+    "text": "In this homework assignment, you will create a PDF map of the school farm using Google My Maps. Use the class guide in farm/index.Rmd for full instructions. Follow the steps below to complete your task.\n\n\n\nGo to https://www.google.co.nz/mymaps and sign in to your Google account.\nCreate a new map and name it “Kaikorai Valley College School Farm”.\nSet up two layers:\n\nExisting for current features (paddocks, dams, fences, buildings, water points).\nProposed for planned work (new planting, new fencing, new water lines).\n\nAdd features using the toolbar:\n\nMarkers for points (sheds, tanks, troughs, gates).\nLines for fences, tracks, or waterways.\nAreas for paddocks or blocks.\n\nUse the Measurement tool (ruler icon) to check at least one distance and one paddock area.\nAdd these map elements:\n\nArrow (north) for direction.\nScale to show distances.\nLegend that explains your symbols and colors.\n\n\n\n\n\nOnce you have completed your map, export it as a PDF. To do this: 1. Click the three vertical dots next to the map name. 2. Select “Print map” and choose the PDF option.\n\n\n\nUse these images as a guide while you work.\nLayers and map setup\n\nAdd markers and lines\n\n\nMeasurement tool\n\nPrint map to PDF\n\n\n\n\nAfter completing your map, please answer the following questions:\n\nWhat features did you include on your map, and why did you choose them?\nHow does adding a scale and legend enhance the usability of your map?\n\n\n\n\nThis homework aligns with the following New Zealand Curriculum areas:\n\nGeography: Understand how people interact with their environment.\nMathematics: Use measurement and scale in practical contexts.\n\nFor more information, visit the New Zealand Curriculum website: New Zealand Curriculum.\n\nMake sure to submit your completed homework by the due date. Happy mapping!"
+  },
+  {
+    "objectID": "farm/farm-homework/homework.html#homework-instructions",
+    "href": "farm/farm-homework/homework.html#homework-instructions",
+    "title": "Farm Mapping Homework",
+    "section": "",
+    "text": "In this homework assignment, you will create a PDF map of the school farm using Google My Maps. Use the class guide in farm/index.Rmd for full instructions. Follow the steps below to complete your task.\n\n\n\nGo to https://www.google.co.nz/mymaps and sign in to your Google account.\nCreate a new map and name it “Kaikorai Valley College School Farm”.\nSet up two layers:\n\nExisting for current features (paddocks, dams, fences, buildings, water points).\nProposed for planned work (new planting, new fencing, new water lines).\n\nAdd features using the toolbar:\n\nMarkers for points (sheds, tanks, troughs, gates).\nLines for fences, tracks, or waterways.\nAreas for paddocks or blocks.\n\nUse the Measurement tool (ruler icon) to check at least one distance and one paddock area.\nAdd these map elements:\n\nArrow (north) for direction.\nScale to show distances.\nLegend that explains your symbols and colors.\n\n\n\n\n\nOnce you have completed your map, export it as a PDF. To do this: 1. Click the three vertical dots next to the map name. 2. Select “Print map” and choose the PDF option.\n\n\n\nUse these images as a guide while you work.\nLayers and map setup\n\nAdd markers and lines\n\n\nMeasurement tool\n\nPrint map to PDF\n\n\n\n\nAfter completing your map, please answer the following questions:\n\nWhat features did you include on your map, and why did you choose them?\nHow does adding a scale and legend enhance the usability of your map?\n\n\n\n\nThis homework aligns with the following New Zealand Curriculum areas:\n\nGeography: Understand how people interact with their environment.\nMathematics: Use measurement and scale in practical contexts.\n\nFor more information, visit the New Zealand Curriculum website: New Zealand Curriculum.\n\nMake sure to submit your completed homework by the due date. Happy mapping!"
+  },
+  {
+    "objectID": "farm/farm-homework/test.html",
+    "href": "farm/farm-homework/test.html",
+    "title": "Year 9 Mathematics: Basics Consolidation",
+    "section": "",
+    "text": "Complete the following sets to consolidate your understanding of key mathematical terms. Read the Worked Example carefully before starting the questions.\n\n\n\n\n\n\n\n\n\n\nTerm\nDefinition\nPicture/Example\n\n\n\n\nBEDMAS\nThe order of operations used to solve equations.\nBrackets, Exponents, Division, Multiplication, Addition, Subtraction.\n\n\nIntegers\nAll whole numbers, including positive, negative, and zero.\n\\(... -3, -2, -1, 0, 1, 2, 3 ...\\)\n\n\nMultiple\nThe result of multiplying a number by an integer.\nMultiples of 5: \\(5, 10, 15, 20...\\)\n\n\nFactor\nA number that divides into another number exactly (without a remainder).\nFactors of 10: \\(1, 2, 5, 10\\).\n\n\nPower\nThe product of multiplying a number by itself several times.\n\\(2^3\\) (which is \\(2 \\times 2 \\times 2 = 8\\)).\n\n\nExponent\nThe small number written above a base that tells you how many times to use the base in a multiplication.\nIn \\(5^2\\), the 2 is the exponent.\n\n\nIndex\nAnother name for an exponent or power. (The plural is “Indices”).\n\\(x^4\\) — the 4 is the index.\n\n\nSquare root\nA number that, when multiplied by itself, gives the original number.\n\\(\\sqrt{25} = 5\\) (because \\(5 \\times 5 = 25\\)).\n\n\nNumerator\nThe top number in a fraction. It shows how many parts you have.\nIn \\(\\frac{3}{4}\\), the 3 is the numerator.\n\n\nDenominator\nThe bottom number in a fraction. It shows how many equal parts the whole is divided into.\nIn \\(\\frac{3}{4}\\), the 4 is the denominator.\n\n\nMixed fraction\nA number consisting of an integer and a proper fraction.\n\\(2\\frac{1}{2}\\)\n\n\nImproper fraction\nA fraction where the numerator is larger than (or equal to) the denominator.\n\\(\\frac{5}{2}\\)\n\n\nEquivalent fraction\nFractions that look different but have the same value.\n\\(\\frac{1}{2} = \\frac{2}{4} = \\frac{4}{8}\\)\n\n\nPlace value\nThe value of a digit based on its position in a number.\nIn \\(3\\mathbf{4}2\\), the 4 is in the ‘tens’ place (value = 40).\n\n\nDecimal place\nThe position of a digit to the right of a decimal point.\nIn \\(3.1\\mathbf{4}\\), the 4 is in the second decimal place (hundredths).\n\n\nScientific Notation\nA way of writing very large or very small numbers using a number between 1 and 10 multiplied by a power of 10.\n\\(3 \\times 10^8\\)\n\n\nRecurring Decimal\nA decimal number that has digits that repeat forever.\n\\(0.333...\\) or \\(0.\\dot{3}\\)\n\n\n\n\n\n\n\nConcept: A Decimal place refers to the position of a digit to the right of the decimal point.\n\n\nQuestion: How many decimal places are in the number \\(3.14\\)? Answer: There are two digits after the point (1 and 4), so there are 2 decimal places.\n\n\n\n\nHow many decimal places are in the number \\(4.5\\)?\nHow many decimal places are in the number \\(10.123\\)?\nIdentify the digit in the first decimal place in \\(0.75\\).\nIdentify the digit in the second decimal place in \\(12.89\\).\nRound \\(4.56\\) to one decimal place.\nRound \\(3.333\\) to two decimal places.\nWhich number has more decimal places: \\(5.1\\) or \\(5.01\\)?\nWrite the number \\(\\frac{1}{2}\\) as a number with one decimal place.\nWrite the number \\(\\frac{1}{4}\\) as a number with two decimal places.\nIf you add \\(1.2\\) and \\(0.05\\), how many decimal places will the answer have?\n\n\n\n\n\n\nConcept: Integers are whole numbers. They can be positive, negative, or zero. When ordering them, remember that larger negative numbers are “colder” (further to the left on the number line).\n\n\nQuestion: Arrange the following integers from smallest to largest: \\(3, -5, 0, -2, 7\\) Answer: \\(-5, -2, 0, 3, 7\\)\n\n\n\n\nList the integers in this set: \\(\\{ 4.5, -2, 10, \\frac{1}{2}, 0 \\}\\)\nArrange these integers from smallest to largest: \\(-7, 4, -1, 0, 9\\)\nArrange these integers from smallest to largest: \\(-10, -15, 2, -2, 5\\)\nWrite the integer that is 5 less than 2.\nWrite the integer that is 3 more than -5.\nWhich integer represents a colder temperature: \\(-4^\\circ\\text{C}\\) or \\(-12^\\circ\\text{C}\\)?\nCalculate the new integer: \\(5 - 8\\)\nCalculate the new integer: \\(-3 + 7\\)\nInsert \\(&lt;\\) or \\(&gt;\\) between these integers: \\(-5\\) ___ \\(-2\\)\nInsert \\(&lt;\\) or \\(&gt;\\) between these integers: \\(0\\) ___ \\(-8\\)\n\n\n\n\n\n\nConcept: The Place value of a digit tells you its value based on its position (e.g., Hundreds, Tens, Units).\n\n\nQuestion: What is the place value of the digit 6 in the number \\(462\\)? Answer: The 6 is in the Tens column. Its place value is 60.\n\n\n\n\nWhat is the place value of the 7 in \\(725\\)?\nWhat is the place value of the 3 in \\(139\\)?\nWhat is the place value of the 1 in \\(1,200\\)?\nWhich digit has a place value of 40 in \\(445\\)?\nWrite the number: Five hundreds, zero tens, and six units.\nWhat is the place value of the 9 in \\(90\\)?\nIn the number \\(3,456\\), which digit is in the thousands place?\nMultiply \\(45\\) by \\(10\\). How does the place value of the 4 change?\nDivide \\(320\\) by \\(10\\).\nHow many tens are there in the number \\(140\\)?\n\n\n\n\n\n\nConcept: Factors are Few. They are whole numbers that fit exactly inside another number (no remainder).\n\n\nQuestion: List all factors of 12. Answer: \\(1 \\times 12 = 12\\), \\(2 \\times 6 = 12\\), \\(3 \\times 4 = 12\\). Factors: \\(1, 2, 3, 4, 6, 12\\)\n\n\n\n\nList all factors of 6.\nList all factors of 10.\nList all factors of 15.\nList all factors of 20.\nIs 5 a factor of 25?\nIs 4 a factor of 14?\nWhat is the largest factor of 8 (excluding 8 itself)?\nTrue or False: 1 is a factor of every number.\nFind a number that has exactly two factors (a prime number) between 1 and 10.\nCircle the factors of 18 in this list: \\(2, 4, 6, 8, 9, 10\\).\n\n\n\n\n\n\nConcept: Multiples are Many. They are the result of multiplying a number by an integer. They go up like times tables.\n\n\nQuestion: List the first four multiples of 5. Answer: \\(5 \\times 1 = 5\\), \\(5 \\times 2 = 10\\), \\(5 \\times 3 = 15\\), \\(5 \\times 4 = 20\\). Multiples: \\(5, 10, 15, 20\\)\n\n\n\n\nList the first four multiples of 2.\nList the first four multiples of 3.\nList the first four multiples of 10.\nWhat is the 5th multiple of 4?\nIs 24 a multiple of 6?\nIs 25 a multiple of 4?\nList a common multiple of 2 and 3.\nTrue or False: Multiples can be smaller than the original number.\nWhat is the multiple of 7 that comes after 21?\nCircle the multiples of 8 in this list: \\(4, 8, 12, 16, 20, 24\\).\n\n\n\n\n\n\nConcept: An Exponent (or Index) tells you how many times to multiply the base by itself to create a Power.\n\n\nQuestion: Identify the exponent in \\(4^3\\) and calculate the power. Answer: The exponent (or index) is 3. Expanded: \\(4 \\times 4 \\times 4 = 64\\).\n\n\n\n\nWrite \\(2^3\\) in expanded form. What is the exponent?\nWrite \\(5 \\times 5\\) as a power using an index.\nCalculate the value of the power \\(3^2\\).\nWhat is the index in the expression \\(y^4\\)?\nCalculate the value of \\(10^2\\).\nCalculate the value of \\(1^5\\).\nIn the expression \\(x^6\\), what is the base and what is the exponent?\nWrite “six to the power of two” in math notation.\nCalculate \\(5^2 + 2^2\\).\nIf the index is 1, what does the number equal?\n\n\n\n\n\n\nConcept: The Square root asks “Which number times itself equals this?” It is the opposite of squaring a number.\n\n\nQuestion: Find the square root of 49 (\\(\\sqrt{49}\\)). Answer: Since \\(7 \\times 7 = 49\\), the square root is 7.\n\n\n\n\nFind the square root of 9.\nFind the square root of 16.\nFind the square root of 25.\nFind the square root of 64.\nFind the square root of 81.\nFind the square root of 100.\nFind the square root of 1.\nFind the square root of 144.\nTrue or False: The square root of 36 is 18.\nCalculate \\(\\sqrt{4} + \\sqrt{9}\\).\n\n\n\n\n\n\nConcept: BEDMAS is the order of operations: Brackets, Exponents, Division/Multiplication, Addition/Subtraction.\n\n\nQuestion: Use BEDMAS to solve \\(3 + 4 \\times 2\\). Answer: Multiplication first (\\(4 \\times 2 = 8\\)). Then Addition (\\(3 + 8 = 11\\)). Answer: 11.\n\n\n\n\nUsing BEDMAS, solve: \\(2 + 3 \\times 4\\)\nUsing BEDMAS, solve: \\(10 - 2 \\times 3\\)\nSolve: \\((5 + 5) \\times 2\\)\nSolve: \\(20 \\div 2 + 3\\)\nSolve: \\(3 \\times 3 + 2 \\times 4\\)\nSolve: \\(10 - 3^2\\)\nSolve: \\(2 \\times (10 - 5)\\)\nSolve: \\(4 + 4 \\div 4\\)\nSolve: \\(5^2 - 10\\)\nSolve: \\((2 + 3)^2\\)\n\n\n\n\n\n\nConcept: Numerator is North (Up). Denominator is Down.\n\n\nQuestion: Identify the numerator and denominator in \\(\\frac{3}{5}\\). Answer: Numerator = 3, Denominator = 5.\n\n\n\n\nWhat is the numerator in \\(\\frac{1}{2}\\)?\nWhat is the denominator in \\(\\frac{4}{9}\\)?\nWhich number is the denominator in \\(\\frac{7}{8}\\)?\nWhich number is the numerator in \\(\\frac{2}{3}\\)?\nWrite a fraction with numerator 2 and denominator 3.\nWrite the fraction: Three quarters. Identify the denominator.\nIn \\(\\frac{1}{4}\\), does the denominator tell you the number of parts shaded or the total parts?\nIf the denominator is 10 and the numerator is 7, write the fraction.\nWhat fraction of a shape is shaded if 2 out of 5 pieces are colored?\nTrue or False: The denominator can never be 0.\n\n\n\n\n\n\nConcept: An Improper fraction is “top-heavy”. A Mixed fraction has a whole number part and a fraction part.\n\n\nQuestion: Convert the improper fraction \\(\\frac{5}{2}\\) to a mixed fraction. Answer: How many 2s go into 5? (2 whole times, remainder 1). Answer: \\(2\\frac{1}{2}\\).\n\n\n\n\nIs \\(\\frac{4}{3}\\) an improper fraction or a mixed fraction?\nIs \\(1\\frac{1}{2}\\) an improper fraction or a mixed fraction?\nConvert \\(\\frac{3}{2}\\) to a mixed fraction.\nConvert \\(\\frac{5}{3}\\) to a mixed fraction.\nConvert \\(\\frac{7}{4}\\) to a mixed fraction.\nConvert the mixed fraction \\(1\\frac{1}{4}\\) to an improper fraction.\nConvert the mixed fraction \\(2\\frac{1}{2}\\) to an improper fraction.\nWhich is larger: the improper fraction \\(\\frac{3}{2}\\) or the number \\(1\\)?\nWrite “two and a half” as a mixed fraction.\nWrite “three halves” as an improper fraction.\n\n\n\n\n\n\nConcept: Equivalent fractions have the same value but different numbers. Multiply or divide the top and bottom by the same number.\n\n\nQuestion: Find the equivalent fraction: \\(\\frac{1}{2} = \\frac{?}{8}\\) Answer: To get from 2 to 8, we multiply by 4. So we multiply the top by 4 as well. \\(1 \\times 4 = 4\\). Answer: \\(\\frac{4}{8}\\).\n\n\n\n\nFind the equivalent fraction: \\(\\frac{1}{2} = \\frac{?}{4}\\)\nFind the equivalent fraction: \\(\\frac{1}{3} = \\frac{?}{6}\\)\nFind the equivalent fraction: \\(\\frac{2}{5} = \\frac{4}{?}\\)\nFind the equivalent fraction: \\(\\frac{3}{4} = \\frac{?}{8}\\)\nSimplify \\(\\frac{2}{4}\\) to find the simplest equivalent fraction.\nSimplify \\(\\frac{5}{10}\\) to find the simplest equivalent fraction.\nFind an equivalent fraction for \\(\\frac{6}{8}\\) by dividing top and bottom by 2.\nAre \\(\\frac{1}{2}\\) and \\(\\frac{5}{10}\\) equivalent fractions?\nAre \\(\\frac{2}{3}\\) and \\(\\frac{4}{5}\\) equivalent fractions?\nFill in the blank: \\(\\frac{10}{20} = \\frac{1}{?}\\)\n\n\n\n\n\n\nConcept: Scientific Notation is a way to write numbers as \\(a \\times 10^n\\), where \\(1 \\le a &lt; 10\\) and \\(n\\) is an integer.\n\n\nQuestion: Write 4500 in scientific notation. Answer: Move the decimal point to get a number between 1 and 10 (4.5). Count how many places it moved (3 places). Answer: \\(4.5 \\times 10^3\\).\n\n\n\n\nWrite 3000 in scientific notation.\nWrite 2,500,000 in scientific notation.\nWrite \\(5 \\times 10^2\\) as a standard number.\nWrite \\(1.2 \\times 10^3\\) as a standard number.\nIn \\(3.4 \\times 10^5\\), which number is the base?\nIn \\(3.4 \\times 10^5\\), which number is the exponent?\nWrite 0.004 in scientific notation (remember negative exponents for small numbers).\nWrite \\(2 \\times 10^{-2}\\) as a decimal.\nWhich is larger: \\(1 \\times 10^4\\) or \\(9 \\times 10^3\\)?\nTrue or False: In scientific notation, the first number must be between 1 and 10.\n\n\n\n\n\n\nConcept: A Recurring decimal has a digit (or group of digits) that repeats forever. We use a dot (or a bar) over the repeating part.\n\n\nQuestion: Write the fraction \\(\\frac{1}{3}\\) as a recurring decimal. Answer: \\(1 \\div 3 = 0.3333...\\) which is written as \\(0.\\dot{3}\\).\n\n\n\n\nWhat does the dot in \\(0.\\dot{5}\\) mean?\nWrite \\(0.666...\\) using dot notation.\nWrite the fraction \\(\\frac{2}{3}\\) as a recurring decimal.\nIs \\(0.5\\) a recurring decimal?\nWrite \\(0.\\dot{1}\\) as a decimal with three digits showing.\nConvert \\(\\frac{1}{9}\\) to a recurring decimal (\\(1 \\div 9\\)).\nTrue or False: \\(0.\\dot{9}\\) is equal to 1.\nWhich notation represents \\(0.121212...\\)? (A) \\(0.\\dot{1}\\dot{2}\\) or (B) \\(0.1\\dot{2}\\)?\nDoes \\(\\frac{1}{2}\\) result in a recurring decimal?\nWrite the number that is exactly double \\(0.\\dot{3}\\)."
+  },
+  {
+    "objectID": "farm/farm-homework/test.html#glossary-of-terms",
+    "href": "farm/farm-homework/test.html#glossary-of-terms",
+    "title": "Year 9 Mathematics: Basics Consolidation",
+    "section": "",
+    "text": "Term\nDefinition\nPicture/Example\n\n\n\n\nBEDMAS\nThe order of operations used to solve equations.\nBrackets, Exponents, Division, Multiplication, Addition, Subtraction.\n\n\nIntegers\nAll whole numbers, including positive, negative, and zero.\n\\(... -3, -2, -1, 0, 1, 2, 3 ...\\)\n\n\nMultiple\nThe result of multiplying a number by an integer.\nMultiples of 5: \\(5, 10, 15, 20...\\)\n\n\nFactor\nA number that divides into another number exactly (without a remainder).\nFactors of 10: \\(1, 2, 5, 10\\).\n\n\nPower\nThe product of multiplying a number by itself several times.\n\\(2^3\\) (which is \\(2 \\times 2 \\times 2 = 8\\)).\n\n\nExponent\nThe small number written above a base that tells you how many times to use the base in a multiplication.\nIn \\(5^2\\), the 2 is the exponent.\n\n\nIndex\nAnother name for an exponent or power. (The plural is “Indices”).\n\\(x^4\\) — the 4 is the index.\n\n\nSquare root\nA number that, when multiplied by itself, gives the original number.\n\\(\\sqrt{25} = 5\\) (because \\(5 \\times 5 = 25\\)).\n\n\nNumerator\nThe top number in a fraction. It shows how many parts you have.\nIn \\(\\frac{3}{4}\\), the 3 is the numerator.\n\n\nDenominator\nThe bottom number in a fraction. It shows how many equal parts the whole is divided into.\nIn \\(\\frac{3}{4}\\), the 4 is the denominator.\n\n\nMixed fraction\nA number consisting of an integer and a proper fraction.\n\\(2\\frac{1}{2}\\)\n\n\nImproper fraction\nA fraction where the numerator is larger than (or equal to) the denominator.\n\\(\\frac{5}{2}\\)\n\n\nEquivalent fraction\nFractions that look different but have the same value.\n\\(\\frac{1}{2} = \\frac{2}{4} = \\frac{4}{8}\\)\n\n\nPlace value\nThe value of a digit based on its position in a number.\nIn \\(3\\mathbf{4}2\\), the 4 is in the ‘tens’ place (value = 40).\n\n\nDecimal place\nThe position of a digit to the right of a decimal point.\nIn \\(3.1\\mathbf{4}\\), the 4 is in the second decimal place (hundredths).\n\n\nScientific Notation\nA way of writing very large or very small numbers using a number between 1 and 10 multiplied by a power of 10.\n\\(3 \\times 10^8\\)\n\n\nRecurring Decimal\nA decimal number that has digits that repeat forever.\n\\(0.333...\\) or \\(0.\\dot{3}\\)"
+  },
+  {
+    "objectID": "farm/farm-homework/test.html#set-1-decimal-places",
+    "href": "farm/farm-homework/test.html#set-1-decimal-places",
+    "title": "Year 9 Mathematics: Basics Consolidation",
+    "section": "",
+    "text": "Concept: A Decimal place refers to the position of a digit to the right of the decimal point.\n\n\nQuestion: How many decimal places are in the number \\(3.14\\)? Answer: There are two digits after the point (1 and 4), so there are 2 decimal places.\n\n\n\n\nHow many decimal places are in the number \\(4.5\\)?\nHow many decimal places are in the number \\(10.123\\)?\nIdentify the digit in the first decimal place in \\(0.75\\).\nIdentify the digit in the second decimal place in \\(12.89\\).\nRound \\(4.56\\) to one decimal place.\nRound \\(3.333\\) to two decimal places.\nWhich number has more decimal places: \\(5.1\\) or \\(5.01\\)?\nWrite the number \\(\\frac{1}{2}\\) as a number with one decimal place.\nWrite the number \\(\\frac{1}{4}\\) as a number with two decimal places.\nIf you add \\(1.2\\) and \\(0.05\\), how many decimal places will the answer have?"
+  },
+  {
+    "objectID": "farm/farm-homework/test.html#set-2-integers",
+    "href": "farm/farm-homework/test.html#set-2-integers",
+    "title": "Year 9 Mathematics: Basics Consolidation",
+    "section": "",
+    "text": "Concept: Integers are whole numbers. They can be positive, negative, or zero. When ordering them, remember that larger negative numbers are “colder” (further to the left on the number line).\n\n\nQuestion: Arrange the following integers from smallest to largest: \\(3, -5, 0, -2, 7\\) Answer: \\(-5, -2, 0, 3, 7\\)\n\n\n\n\nList the integers in this set: \\(\\{ 4.5, -2, 10, \\frac{1}{2}, 0 \\}\\)\nArrange these integers from smallest to largest: \\(-7, 4, -1, 0, 9\\)\nArrange these integers from smallest to largest: \\(-10, -15, 2, -2, 5\\)\nWrite the integer that is 5 less than 2.\nWrite the integer that is 3 more than -5.\nWhich integer represents a colder temperature: \\(-4^\\circ\\text{C}\\) or \\(-12^\\circ\\text{C}\\)?\nCalculate the new integer: \\(5 - 8\\)\nCalculate the new integer: \\(-3 + 7\\)\nInsert \\(&lt;\\) or \\(&gt;\\) between these integers: \\(-5\\) ___ \\(-2\\)\nInsert \\(&lt;\\) or \\(&gt;\\) between these integers: \\(0\\) ___ \\(-8\\)"
+  },
+  {
+    "objectID": "farm/farm-homework/test.html#set-3-place-value",
+    "href": "farm/farm-homework/test.html#set-3-place-value",
+    "title": "Year 9 Mathematics: Basics Consolidation",
+    "section": "",
+    "text": "Concept: The Place value of a digit tells you its value based on its position (e.g., Hundreds, Tens, Units).\n\n\nQuestion: What is the place value of the digit 6 in the number \\(462\\)? Answer: The 6 is in the Tens column. Its place value is 60.\n\n\n\n\nWhat is the place value of the 7 in \\(725\\)?\nWhat is the place value of the 3 in \\(139\\)?\nWhat is the place value of the 1 in \\(1,200\\)?\nWhich digit has a place value of 40 in \\(445\\)?\nWrite the number: Five hundreds, zero tens, and six units.\nWhat is the place value of the 9 in \\(90\\)?\nIn the number \\(3,456\\), which digit is in the thousands place?\nMultiply \\(45\\) by \\(10\\). How does the place value of the 4 change?\nDivide \\(320\\) by \\(10\\).\nHow many tens are there in the number \\(140\\)?"
+  },
+  {
+    "objectID": "farm/farm-homework/test.html#set-4-factors",
+    "href": "farm/farm-homework/test.html#set-4-factors",
+    "title": "Year 9 Mathematics: Basics Consolidation",
+    "section": "",
+    "text": "Concept: Factors are Few. They are whole numbers that fit exactly inside another number (no remainder).\n\n\nQuestion: List all factors of 12. Answer: \\(1 \\times 12 = 12\\), \\(2 \\times 6 = 12\\), \\(3 \\times 4 = 12\\). Factors: \\(1, 2, 3, 4, 6, 12\\)\n\n\n\n\nList all factors of 6.\nList all factors of 10.\nList all factors of 15.\nList all factors of 20.\nIs 5 a factor of 25?\nIs 4 a factor of 14?\nWhat is the largest factor of 8 (excluding 8 itself)?\nTrue or False: 1 is a factor of every number.\nFind a number that has exactly two factors (a prime number) between 1 and 10.\nCircle the factors of 18 in this list: \\(2, 4, 6, 8, 9, 10\\)."
+  },
+  {
+    "objectID": "farm/farm-homework/test.html#set-5-multiples",
+    "href": "farm/farm-homework/test.html#set-5-multiples",
+    "title": "Year 9 Mathematics: Basics Consolidation",
+    "section": "",
+    "text": "Concept: Multiples are Many. They are the result of multiplying a number by an integer. They go up like times tables.\n\n\nQuestion: List the first four multiples of 5. Answer: \\(5 \\times 1 = 5\\), \\(5 \\times 2 = 10\\), \\(5 \\times 3 = 15\\), \\(5 \\times 4 = 20\\). Multiples: \\(5, 10, 15, 20\\)\n\n\n\n\nList the first four multiples of 2.\nList the first four multiples of 3.\nList the first four multiples of 10.\nWhat is the 5th multiple of 4?\nIs 24 a multiple of 6?\nIs 25 a multiple of 4?\nList a common multiple of 2 and 3.\nTrue or False: Multiples can be smaller than the original number.\nWhat is the multiple of 7 that comes after 21?\nCircle the multiples of 8 in this list: \\(4, 8, 12, 16, 20, 24\\)."
+  },
+  {
+    "objectID": "farm/farm-homework/test.html#set-6-powers-exponents-indices",
+    "href": "farm/farm-homework/test.html#set-6-powers-exponents-indices",
+    "title": "Year 9 Mathematics: Basics Consolidation",
+    "section": "",
+    "text": "Concept: An Exponent (or Index) tells you how many times to multiply the base by itself to create a Power.\n\n\nQuestion: Identify the exponent in \\(4^3\\) and calculate the power. Answer: The exponent (or index) is 3. Expanded: \\(4 \\times 4 \\times 4 = 64\\).\n\n\n\n\nWrite \\(2^3\\) in expanded form. What is the exponent?\nWrite \\(5 \\times 5\\) as a power using an index.\nCalculate the value of the power \\(3^2\\).\nWhat is the index in the expression \\(y^4\\)?\nCalculate the value of \\(10^2\\).\nCalculate the value of \\(1^5\\).\nIn the expression \\(x^6\\), what is the base and what is the exponent?\nWrite “six to the power of two” in math notation.\nCalculate \\(5^2 + 2^2\\).\nIf the index is 1, what does the number equal?"
+  },
+  {
+    "objectID": "farm/farm-homework/test.html#set-7-square-roots",
+    "href": "farm/farm-homework/test.html#set-7-square-roots",
+    "title": "Year 9 Mathematics: Basics Consolidation",
+    "section": "",
+    "text": "Concept: The Square root asks “Which number times itself equals this?” It is the opposite of squaring a number.\n\n\nQuestion: Find the square root of 49 (\\(\\sqrt{49}\\)). Answer: Since \\(7 \\times 7 = 49\\), the square root is 7.\n\n\n\n\nFind the square root of 9.\nFind the square root of 16.\nFind the square root of 25.\nFind the square root of 64.\nFind the square root of 81.\nFind the square root of 100.\nFind the square root of 1.\nFind the square root of 144.\nTrue or False: The square root of 36 is 18.\nCalculate \\(\\sqrt{4} + \\sqrt{9}\\)."
+  },
+  {
+    "objectID": "farm/farm-homework/test.html#set-8-bedmas",
+    "href": "farm/farm-homework/test.html#set-8-bedmas",
+    "title": "Year 9 Mathematics: Basics Consolidation",
+    "section": "",
+    "text": "Concept: BEDMAS is the order of operations: Brackets, Exponents, Division/Multiplication, Addition/Subtraction.\n\n\nQuestion: Use BEDMAS to solve \\(3 + 4 \\times 2\\). Answer: Multiplication first (\\(4 \\times 2 = 8\\)). Then Addition (\\(3 + 8 = 11\\)). Answer: 11.\n\n\n\n\nUsing BEDMAS, solve: \\(2 + 3 \\times 4\\)\nUsing BEDMAS, solve: \\(10 - 2 \\times 3\\)\nSolve: \\((5 + 5) \\times 2\\)\nSolve: \\(20 \\div 2 + 3\\)\nSolve: \\(3 \\times 3 + 2 \\times 4\\)\nSolve: \\(10 - 3^2\\)\nSolve: \\(2 \\times (10 - 5)\\)\nSolve: \\(4 + 4 \\div 4\\)\nSolve: \\(5^2 - 10\\)\nSolve: \\((2 + 3)^2\\)"
+  },
+  {
+    "objectID": "farm/farm-homework/test.html#set-9-numerator-denominator",
+    "href": "farm/farm-homework/test.html#set-9-numerator-denominator",
+    "title": "Year 9 Mathematics: Basics Consolidation",
+    "section": "",
+    "text": "Concept: Numerator is North (Up). Denominator is Down.\n\n\nQuestion: Identify the numerator and denominator in \\(\\frac{3}{5}\\). Answer: Numerator = 3, Denominator = 5.\n\n\n\n\nWhat is the numerator in \\(\\frac{1}{2}\\)?\nWhat is the denominator in \\(\\frac{4}{9}\\)?\nWhich number is the denominator in \\(\\frac{7}{8}\\)?\nWhich number is the numerator in \\(\\frac{2}{3}\\)?\nWrite a fraction with numerator 2 and denominator 3.\nWrite the fraction: Three quarters. Identify the denominator.\nIn \\(\\frac{1}{4}\\), does the denominator tell you the number of parts shaded or the total parts?\nIf the denominator is 10 and the numerator is 7, write the fraction.\nWhat fraction of a shape is shaded if 2 out of 5 pieces are colored?\nTrue or False: The denominator can never be 0."
+  },
+  {
+    "objectID": "farm/farm-homework/test.html#set-10-improper-mixed-fractions",
+    "href": "farm/farm-homework/test.html#set-10-improper-mixed-fractions",
+    "title": "Year 9 Mathematics: Basics Consolidation",
+    "section": "",
+    "text": "Concept: An Improper fraction is “top-heavy”. A Mixed fraction has a whole number part and a fraction part.\n\n\nQuestion: Convert the improper fraction \\(\\frac{5}{2}\\) to a mixed fraction. Answer: How many 2s go into 5? (2 whole times, remainder 1). Answer: \\(2\\frac{1}{2}\\).\n\n\n\n\nIs \\(\\frac{4}{3}\\) an improper fraction or a mixed fraction?\nIs \\(1\\frac{1}{2}\\) an improper fraction or a mixed fraction?\nConvert \\(\\frac{3}{2}\\) to a mixed fraction.\nConvert \\(\\frac{5}{3}\\) to a mixed fraction.\nConvert \\(\\frac{7}{4}\\) to a mixed fraction.\nConvert the mixed fraction \\(1\\frac{1}{4}\\) to an improper fraction.\nConvert the mixed fraction \\(2\\frac{1}{2}\\) to an improper fraction.\nWhich is larger: the improper fraction \\(\\frac{3}{2}\\) or the number \\(1\\)?\nWrite “two and a half” as a mixed fraction.\nWrite “three halves” as an improper fraction."
+  },
+  {
+    "objectID": "farm/farm-homework/test.html#set-11-equivalent-fractions",
+    "href": "farm/farm-homework/test.html#set-11-equivalent-fractions",
+    "title": "Year 9 Mathematics: Basics Consolidation",
+    "section": "",
+    "text": "Concept: Equivalent fractions have the same value but different numbers. Multiply or divide the top and bottom by the same number.\n\n\nQuestion: Find the equivalent fraction: \\(\\frac{1}{2} = \\frac{?}{8}\\) Answer: To get from 2 to 8, we multiply by 4. So we multiply the top by 4 as well. \\(1 \\times 4 = 4\\). Answer: \\(\\frac{4}{8}\\).\n\n\n\n\nFind the equivalent fraction: \\(\\frac{1}{2} = \\frac{?}{4}\\)\nFind the equivalent fraction: \\(\\frac{1}{3} = \\frac{?}{6}\\)\nFind the equivalent fraction: \\(\\frac{2}{5} = \\frac{4}{?}\\)\nFind the equivalent fraction: \\(\\frac{3}{4} = \\frac{?}{8}\\)\nSimplify \\(\\frac{2}{4}\\) to find the simplest equivalent fraction.\nSimplify \\(\\frac{5}{10}\\) to find the simplest equivalent fraction.\nFind an equivalent fraction for \\(\\frac{6}{8}\\) by dividing top and bottom by 2.\nAre \\(\\frac{1}{2}\\) and \\(\\frac{5}{10}\\) equivalent fractions?\nAre \\(\\frac{2}{3}\\) and \\(\\frac{4}{5}\\) equivalent fractions?\nFill in the blank: \\(\\frac{10}{20} = \\frac{1}{?}\\)"
+  },
+  {
+    "objectID": "farm/farm-homework/test.html#set-12-scientific-notation",
+    "href": "farm/farm-homework/test.html#set-12-scientific-notation",
+    "title": "Year 9 Mathematics: Basics Consolidation",
+    "section": "",
+    "text": "Concept: Scientific Notation is a way to write numbers as \\(a \\times 10^n\\), where \\(1 \\le a &lt; 10\\) and \\(n\\) is an integer.\n\n\nQuestion: Write 4500 in scientific notation. Answer: Move the decimal point to get a number between 1 and 10 (4.5). Count how many places it moved (3 places). Answer: \\(4.5 \\times 10^3\\).\n\n\n\n\nWrite 3000 in scientific notation.\nWrite 2,500,000 in scientific notation.\nWrite \\(5 \\times 10^2\\) as a standard number.\nWrite \\(1.2 \\times 10^3\\) as a standard number.\nIn \\(3.4 \\times 10^5\\), which number is the base?\nIn \\(3.4 \\times 10^5\\), which number is the exponent?\nWrite 0.004 in scientific notation (remember negative exponents for small numbers).\nWrite \\(2 \\times 10^{-2}\\) as a decimal.\nWhich is larger: \\(1 \\times 10^4\\) or \\(9 \\times 10^3\\)?\nTrue or False: In scientific notation, the first number must be between 1 and 10."
+  },
+  {
+    "objectID": "farm/farm-homework/test.html#set-13-recurring-decimals",
+    "href": "farm/farm-homework/test.html#set-13-recurring-decimals",
+    "title": "Year 9 Mathematics: Basics Consolidation",
+    "section": "",
+    "text": "Concept: A Recurring decimal has a digit (or group of digits) that repeats forever. We use a dot (or a bar) over the repeating part.\n\n\nQuestion: Write the fraction \\(\\frac{1}{3}\\) as a recurring decimal. Answer: \\(1 \\div 3 = 0.3333...\\) which is written as \\(0.\\dot{3}\\).\n\n\n\n\nWhat does the dot in \\(0.\\dot{5}\\) mean?\nWrite \\(0.666...\\) using dot notation.\nWrite the fraction \\(\\frac{2}{3}\\) as a recurring decimal.\nIs \\(0.5\\) a recurring decimal?\nWrite \\(0.\\dot{1}\\) as a decimal with three digits showing.\nConvert \\(\\frac{1}{9}\\) to a recurring decimal (\\(1 \\div 9\\)).\nTrue or False: \\(0.\\dot{9}\\) is equal to 1.\nWhich notation represents \\(0.121212...\\)? (A) \\(0.\\dot{1}\\dot{2}\\) or (B) \\(0.1\\dot{2}\\)?\nDoes \\(\\frac{1}{2}\\) result in a recurring decimal?\nWrite the number that is exactly double \\(0.\\dot{3}\\)."
   },
   {
     "objectID": "geometry.html",
@@ -238,269 +448,164 @@
     "text": "Resources\n\nKhan Academy: Measurement\nNZ Maths: Measurement"
   },
   {
-    "objectID": "probability.html",
-    "href": "probability.html",
-    "title": "Probability",
+    "objectID": "number.html",
+    "href": "number.html",
+    "title": "Number and Operations",
     "section": "",
-    "text": "Probability is the study of chance and likelihood. It helps us predict and understand uncertain events in mathematics and everyday life."
+    "text": "In this unit we build confident number sense for Year 9 by connecting place value, rounding, and scientific notation with efficient operations and clear mathematical language."
   },
   {
-    "objectID": "probability.html#introduction",
-    "href": "probability.html#introduction",
-    "title": "Probability",
-    "section": "",
-    "text": "Probability is the study of chance and likelihood. It helps us predict and understand uncertain events in mathematics and everyday life."
+    "objectID": "number.html#unit-timetable-first-three-weeks",
+    "href": "number.html#unit-timetable-first-three-weeks",
+    "title": "Number and Operations",
+    "section": "Unit timetable (first three weeks)",
+    "text": "Unit timetable (first three weeks)\n\n\n\n\n\n\n\n\n\n\nWeek\nDay\nLesson focus\nCurriculum link (Phase 4)\nNotes\n\n\n\n\nWeek 1\nThu\nUnit launch, number line warm-up, baseline check\nNumber structures and operations\nSchool year began on Thursday.\n\n\nWeek 1\nFri\nPlace value review, decimals as parts of a whole\nNumber structures and operations\nEstablish common language.\n\n\nWeek 2\nMon\nRounding decimals to place value\nRounding, estimation, and precision\nApply rounding to context.\n\n\nWeek 2\nTue\nSignificant figures\nRounding, estimation, and precision\nLink to precision in calculations.\n\n\nWeek 2\nWed\nRecurring decimals and notation\nNumber structures and operations\nConnect fractions, decimals, and recurring.\n\n\nWeek 2\nThu\nScientific notation and powers of 10\nNumber structures and operations\nUse standard form in context.\n\n\nWeek 2\nFri\nNo school\n–\nPublic holiday.\n\n\nWeek 3\nMon\nMixed practice: rounding and significant figures\nRounding, estimation, and precision\nConsolidation tasks.\n\n\nWeek 3\nTue\nScientific notation and calculator checks\nNumber structures and operations\nBuild accuracy and estimation.\n\n\nWeek 3\nWed\nWords for +, -, x, /\nNumber structures and operations\nYesterday’s lesson focus.\n\n\nWeek 3\nThu\nIntegers\nNumber structures and operations\nToday’s focus.\n\n\nWeek 4\nMon\nOrder of operations\nNumber structures and operations\nNext steps for fluency."
   },
   {
-    "objectID": "probability.html#key-topics",
-    "href": "probability.html#key-topics",
-    "title": "Probability",
+    "objectID": "number.html#lesson-notes-and-practice",
+    "href": "number.html#lesson-notes-and-practice",
+    "title": "Number and Operations",
+    "section": "Lesson notes and practice",
+    "text": "Lesson notes and practice\n\nWeek 1 Thu - Unit launch, number line warm-up, baseline check\nNotes\n\nReview integer placement on a number line and compare values using &lt;, &gt;, and =.\nEmphasize direction: right is greater, left is smaller.\nBaseline check focuses on place value and simple operations.\n\nWorked examples\n\nPlace and compare: \\(-3\\) and \\(2\\).\n\n\\(-3\\) is left of \\(2\\), so \\(-3 &lt; 2\\).\n\nDistance from zero: compare \\(-7\\) and \\(5\\).\n\n\\(|-7| = 7\\) and \\(|5| = 5\\), so \\(-7\\) is further from zero.\n\nOrder these: \\(4, -1, 0, -5\\).\n\n\\(-5, -1, 0, 4\\).\n\n\nPractice questions\n\nPlot \\(-6, -2, 0, 3, 7\\) on a number line.\nWhich is greater: \\(-4\\) or \\(-9\\)?\nOrder: \\(6, -3, -8, 1\\) from least to greatest.\nWrite a number between \\(-2\\) and \\(3\\).\nTrue or false: \\(-1 &gt; -3\\).\nWhat is the distance between \\(-4\\) and \\(2\\)?\nPlace value: in \\(54.203\\), what is the value of the 2?\nEvaluate: \\(3 + (-5)\\).\n\n\n\nWeek 1 Fri - Place value review, decimals as parts of a whole\nNotes\n\nPlace value extends to tenths, hundredths, thousandths.\nDecimals represent parts of a whole and can be compared by place value.\n\nWorked examples\n\nWrite \\(3\\) tenths and \\(7\\) hundredths as a decimal: \\(0.37\\).\nCompare \\(0.5\\) and \\(0.47\\): \\(0.50 &gt; 0.47\\).\nExpand \\(12.304\\) by place value: \\(10 + 2 + 0.3 + 0.004\\).\n\nPractice questions\n\nWrite \\(6\\) tenths and \\(2\\) thousandths as a decimal.\nWhich is larger: \\(0.209\\) or \\(0.29\\)?\nExpand \\(4.508\\) by place value.\nWrite \\(7.03\\) in words.\nCompare using &lt;, &gt;, =: \\(1.25\\) and \\(1.205\\).\nWhat is the value of the 8 in \\(3.081\\)?\nOrder: \\(0.4, 0.04, 0.44, 0.404\\).\nConvert \\(3\\) and \\(5\\) tenths to a decimal.\n\n\n\nWeek 2 Mon - Rounding decimals to place value\nNotes\n\nIdentify the rounding digit and look one place to the right.\nIf the next digit is 5 or more, round up; otherwise round down.\n\nWorked examples\n\nRound \\(6.247\\) to the nearest tenth: \\(6.2\\).\nRound \\(12.995\\) to the nearest hundredth: \\(13.00\\).\nRound \\(0.0499\\) to the nearest hundredth: \\(0.05\\).\n\nPractice questions\n\nRound \\(4.738\\) to the nearest tenth.\nRound \\(9.995\\) to the nearest hundredth.\nRound \\(15.039\\) to the nearest hundredth.\nRound \\(0.504\\) to the nearest tenth.\nRound \\(3.14159\\) to the nearest thousandth.\nRound \\(62.499\\) to the nearest whole number.\nRound \\(1.205\\) to the nearest tenth.\nRound \\(7.444\\) to the nearest hundredth.\n\n\n\nWeek 2 Tue - Significant figures\nNotes\n\nAll non-zero digits are significant.\nZeros between non-zero digits are significant.\nLeading zeros are not significant.\nTrailing zeros are significant only if a decimal point is shown.\n\nWorked examples\n\n\\(0.00450\\) has 3 significant figures.\n\\(1200\\) has 2 significant figures; \\(1200.\\) has 4 significant figures.\nRound \\(0.06749\\) to 2 significant figures: \\(0.067\\).\n\nPractice questions\n\nHow many significant figures are in \\(0.03040\\)?\nHow many significant figures are in \\(7050\\)?\nRound \\(3.4567\\) to 3 significant figures.\nRound \\(98.76\\) to 2 significant figures.\nRound \\(0.009912\\) to 2 significant figures.\nWrite \\(0.004560\\) with 3 significant figures.\nTrue or false: \\(100.0\\) has 4 significant figures.\nRound \\(12,450\\) to 3 significant figures.\n\n\n\nWeek 2 Wed - Recurring decimals and notation\nNotes\n\nRecurring decimals repeat forever; use a dot or bar to show the repeat.\nConvert fractions to decimals by division.\nRecognize common recurring forms like \\(\\frac{1}{3} = 0.\\overline{3}\\).\n\nWorked examples\n\n\\(\\frac{1}{3} = 0.\\overline{3}\\).\n\\(\\frac{2}{11} = 0.\\overline{18}\\).\n\\(0.\\overline{6} = \\frac{2}{3}\\).\n\nPractice questions\n\nConvert \\(\\frac{1}{6}\\) to a decimal (recurring).\nConvert \\(\\frac{5}{9}\\) to a decimal.\nWrite \\(0.\\overline{72}\\) as a fraction in simplest form.\nWhich is larger: \\(0.\\overline{4}\\) or \\(0.\\overline{5}\\)?\nConvert \\(0.\\overline{3}\\) to a fraction.\nConvert \\(\\frac{7}{12}\\) to a decimal (recurring or terminating).\nIdentify the repeating block in \\(0.142857142857...\\).\nTrue or false: every fraction gives a terminating decimal.\n\n\n\nWeek 2 Thu - Scientific notation and powers of 10\nNotes\n\nScientific notation is \\(a \\times 10^n\\) where \\(1 \\le a &lt; 10\\).\nMoving the decimal left makes \\(n\\) positive; right makes \\(n\\) negative.\n\nWorked examples\n\n\\(3,500,000 = 3.5 \\times 10^6\\).\n\\(0.00072 = 7.2 \\times 10^{-4}\\).\n\\(4.2 \\times 10^3 = 4200\\).\n\nPractice questions\n\nWrite \\(56,000\\) in scientific notation.\nWrite \\(0.0045\\) in scientific notation.\nConvert \\(9.1 \\times 10^2\\) to standard form.\nConvert \\(3.07 \\times 10^{-3}\\) to standard form.\nWhich is larger: \\(6.2 \\times 10^5\\) or \\(8.1 \\times 10^4\\)?\nWrite \\(12,300,000\\) in scientific notation.\nWrite \\(0.0000005\\) in scientific notation.\nEstimate \\(4.9 \\times 10^3 + 3.1 \\times 10^3\\).\n\n\n\nWeek 2 Fri - No school\nNotes\n\nNo lesson (public holiday).\n\nOptional practice\n\nReview rounding to the nearest tenth.\nConvert \\(0.\\overline{3}\\) to a fraction.\nWrite \\(45,000\\) in scientific notation.\nRound \\(0.0999\\) to 2 significant figures.\n\n\n\nWeek 3 Mon - Mixed practice: rounding and significant figures\nNotes\n\nChoose rounding to place value or significant figures based on the question.\nCheck reasonableness after rounding.\n\nWorked examples\n\nRound \\(0.006789\\) to 2 significant figures: \\(0.0068\\).\nRound \\(45.376\\) to the nearest tenth: \\(45.4\\).\nRound \\(98,650\\) to 3 significant figures: \\(98,700\\).\n\nPractice questions\n\nRound \\(2.149\\) to the nearest hundredth.\nRound \\(0.0009401\\) to 2 significant figures.\nRound \\(65.05\\) to 3 significant figures.\nRound \\(4.995\\) to the nearest hundredth.\nRound \\(3.0049\\) to 2 significant figures.\nRound \\(12,340\\) to 2 significant figures.\nRound \\(0.05199\\) to the nearest thousandth.\nRound \\(8.888\\) to 2 significant figures.\n\n\n\nWeek 3 Tue - Scientific notation and calculator checks\nNotes\n\nUse calculator EXP or EE button for powers of 10.\nCheck if answers are reasonable by comparing magnitude.\n\nWorked examples\n\n\\(6.5 \\times 10^4 = 65,000\\).\n\\(0.0000092 = 9.2 \\times 10^{-6}\\).\n\\(3.1 \\times 10^5 + 2.4 \\times 10^5 = 5.5 \\times 10^5\\).\n\nPractice questions\n\nConvert \\(8.03 \\times 10^7\\) to standard form.\nWrite \\(0.000120\\) in scientific notation.\nCalculate: \\(2.5 \\times 10^3 + 4.8 \\times 10^3\\).\nCalculate: \\(7.2 \\times 10^2 - 3.5 \\times 10^2\\).\nWhich is larger: \\(1.2 \\times 10^{-3}\\) or \\(9.5 \\times 10^{-4}\\)?\nConvert \\(4,600,000\\) to scientific notation.\nConvert \\(6.7 \\times 10^{-2}\\) to standard form.\nEstimate \\(9.9 \\times 10^6 - 1.1 \\times 10^6\\).\n\n\n\nWeek 3 Wed - Words for +, -, x, /\nNotes\n\nIdentify operation words: add, sum, total; subtract, difference; multiply, product; divide, quotient.\nTranslate word problems into number sentences.\n\nWorked examples\n\n“The sum of 7 and 9” is \\(7 + 9\\).\n“The difference between 15 and 6” is \\(15 - 6\\).\n“The quotient of 48 and 6” is \\(48 \\div 6\\).\n\nPractice questions\n\nWrite a number sentence for: “The product of 8 and 5”.\nWrite a number sentence for: “The sum of 3, 7, and 12”.\nWrite a number sentence for: “12 less than 40”.\nWrite a number sentence for: “The quotient of 54 and 9”.\nWrite a number sentence for: “The difference between 100 and 35”.\nSolve: “A packet has 24 stickers shared equally among 6 students”.\nSolve: “A total of 45 apples are packed into 5 boxes equally”.\nSolve: “A $12 discount is taken from a $65 item”.\n\n\n\nWeek 3 Thu - Integers\nNotes\n\nUse the number line to model integer addition and subtraction.\nAdding a negative moves left; subtracting a negative moves right.\n\nWorked examples\n\n\\(-4 + 7 = 3\\).\n\\(-6 - 5 = -11\\).\n\\(8 + (-12) = -4\\).\n\nPractice questions\n\n\\(-3 + 9\\)\n\\(5 + (-8)\\)\n\\(-12 + 7\\)\n\\(-6 - 4\\)\n\\(9 - (-2)\\)\n\\(-15 - (-5)\\)\n\\(-7 + (-6)\\)\n\\(14 + (-20)\\)\n\n\n\nWeek 4 Mon - Order of operations\nNotes\n\nUse BEDMAS: Brackets, Exponents, Division/Multiplication, Addition/Subtraction.\nDivision and multiplication are done left to right, same for addition and subtraction.\n\nWorked examples\n\n\\(3 + 4 \\times 2 = 3 + 8 = 11\\).\n\\((5 + 7) \\div 3 = 12 \\div 3 = 4\\).\n\\(2^3 + 6 \\times 2 = 8 + 12 = 20\\).\n\nPractice questions\n\n\\(8 + 2 \\times 5\\)\n\\((18 - 6) \\div 3\\)\n\\(4^2 + 3 \\times 4\\)\n\\(20 - 6 \\div 2\\)\n\\((7 + 3) \\times 4\\)\n\\(5 + 12 \\div 3\\)\n\\(30 \\div 5 + 6\\)\n\\(2(3 + 5) - 4\\)"
+  },
+  {
+    "objectID": "number.html#introduction",
+    "href": "number.html#introduction",
+    "title": "Number and Operations",
+    "section": "Introduction",
+    "text": "Introduction\nNumber and operations form the foundation of mathematics. In this unit, we’ll develop fluency with different types of numbers and operations.\n\nCurriculum alignment (Phase 4, Years 9-10)\nThe full curriculum table and sources are now on a separate page for easy reference: Number curriculum table."
+  },
+  {
+    "objectID": "number.html#key-topics",
+    "href": "number.html#key-topics",
+    "title": "Number and Operations",
     "section": "Key Topics",
-    "text": "Key Topics\n\nBasic Probability Concepts\nUnderstanding chance:\n\nProbability measures how likely an event is to occur\nProbability scale: 0 (impossible) to 1 (certain)\nExpressing probability as fractions, decimals, and percentages\n\nExample: The probability of rolling a 3 on a standard die is \\(\\frac{1}{6}\\)\n\n\nTheoretical Probability\nCalculating probability using logic:\n\nFormula: \\(P(\\text{event}) = \\frac{\\text{number of favorable outcomes}}{\\text{total number of possible outcomes}}\\)\nSample space (all possible outcomes)\nEqually likely outcomes\n\nExample: What is the probability of drawing a heart from a standard deck of 52 cards?\nSolution: \\(P(\\text{heart}) = \\frac{13}{52} = \\frac{1}{4} = 0.25 = 25\\%\\)\n\n\nExperimental Probability\nProbability based on trials and experiments:\n\nConducting experiments\nRecording results\nCalculating relative frequency\nComparing theoretical and experimental probability\n\nExample: If you flip a coin 50 times and get 28 heads, the experimental probability is \\(\\frac{28}{50} = 0.56\\)\n\n\nProbability Language\nDescribing likelihood:\n\nImpossible (probability = 0)\nUnlikely (probability between 0 and 0.5)\nEven chance (probability = 0.5)\nLikely (probability between 0.5 and 1)\nCertain (probability = 1)\n\n\n\nSimple Events\nWorking with single outcomes:\n\nProbability of simple events\nComplementary events: \\(P(\\text{not A}) = 1 - P(\\text{A})\\)\nMutually exclusive events\n\nExample: If the probability of rain is 0.3, what is the probability it won’t rain?\nSolution: \\(P(\\text{no rain}) = 1 - 0.3 = 0.7\\)\n\n\nTree Diagrams\nVisualizing probability:\n\nRepresenting outcomes systematically\nCalculating probabilities of multiple events\nUnderstanding combined events\n\n\n\nProbability in Games\nUnderstanding fairness and strategy:\n\nFair vs. unfair games\nExpected outcomes\nMaking predictions\n\nExample: In a game where you win if you roll a 5 or 6, the probability of winning is \\(\\frac{2}{6} = \\frac{1}{3}\\)"
+    "text": "Key Topics\n\nIntegers\nWorking with positive and negative numbers:\n\nUnderstanding the number line\nAdding and subtracting integers\nMultiplying and dividing integers\nReal-world applications of negative numbers\n\nExample: If the temperature is -3°C and it rises by 7°C, what is the new temperature?\nSolution: -3 + 7 = 4°C\n\n\nFractions\nOperations with fractions:\n\nEquivalent fractions\nAdding and subtracting fractions\nMultiplying and dividing fractions\nMixed numbers and improper fractions\n\nExample: Calculate \\(\\frac{2}{3} + \\frac{1}{4}\\)\nSolution: \\(\\frac{8}{12} + \\frac{3}{12} = \\frac{11}{12}\\)\n\n\nDecimals\nUnderstanding and using decimal numbers:\n\nPlace value\nAdding and subtracting decimals\nMultiplying and dividing decimals\nConverting between fractions and decimals\n\nExample: 3.5 × 0.4 = 1.4\n\n\nPercentages\nWorking with percentages:\n\nUnderstanding percentages as fractions of 100\nConverting between percentages, decimals, and fractions\nFinding percentages of amounts\nPercentage increase and decrease\n\nExample: What is 15% of 80?\nSolution: 15% × 80 = 0.15 × 80 = 12"
   },
   {
-    "objectID": "probability.html#practice-problems",
-    "href": "probability.html#practice-problems",
-    "title": "Probability",
+    "objectID": "number.html#practice-problems",
+    "href": "number.html#practice-problems",
+    "title": "Number and Operations",
     "section": "Practice Problems",
-    "text": "Practice Problems\n\nWhat is the probability of rolling an even number on a standard die?\nA bag contains 5 red balls, 3 blue balls, and 2 green balls. What is the probability of drawing a blue ball?\nIf \\(P(\\text{event}) = 0.65\\), find \\(P(\\text{not event})\\)\nYou flip a coin twice. What is the probability of getting two heads?"
+    "text": "Practice Problems\n\nCalculate: (-5) + 8 - (-3)\nSimplify: \\(\\frac{3}{4} \\times \\frac{2}{5}\\)\nFind 25% of 160\nConvert 0.625 to a fraction in simplest form"
   },
   {
-    "objectID": "probability.html#real-world-applications",
-    "href": "probability.html#real-world-applications",
-    "title": "Probability",
-    "section": "Real-World Applications",
-    "text": "Real-World Applications\n\nWeather forecasting\nSports predictions\nInsurance calculations\nGame design\nRisk assessment"
-  },
-  {
-    "objectID": "probability.html#resources",
-    "href": "probability.html#resources",
-    "title": "Probability",
+    "objectID": "number.html#resources",
+    "href": "number.html#resources",
+    "title": "Number and Operations",
     "section": "Resources",
-    "text": "Resources\n\nKhan Academy: Probability\nNZ Maths: Probability"
+    "text": "Resources\n\nKhan Academy: Integers\nNZ Maths: Number Operations"
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
+    "objectID": "ratios.html",
+    "href": "ratios.html",
+    "title": "Ratios and Proportions",
     "section": "",
-    "text": "The New Zealand Curriculum Online\nMathematics and Statistics Learning Area\n\n\n\n\n\nNZ Maths Homepage\nNZ Maths provides resources, activities, and games specifically designed for New Zealand mathematics curriculum"
+    "text": "Ratios and proportions describe relationships between quantities. They are fundamental to understanding scaling, comparison, and many real-world applications."
   },
   {
-    "objectID": "references.html#curriculum-resources",
-    "href": "references.html#curriculum-resources",
-    "title": "References",
+    "objectID": "ratios.html#introduction",
+    "href": "ratios.html#introduction",
+    "title": "Ratios and Proportions",
     "section": "",
-    "text": "The New Zealand Curriculum Online\nMathematics and Statistics Learning Area\n\n\n\n\n\nNZ Maths Homepage\nNZ Maths provides resources, activities, and games specifically designed for New Zealand mathematics curriculum"
+    "text": "Ratios and proportions describe relationships between quantities. They are fundamental to understanding scaling, comparison, and many real-world applications."
   },
   {
-    "objectID": "references.html#online-learning-platforms",
-    "href": "references.html#online-learning-platforms",
-    "title": "References",
-    "section": "Online Learning Platforms",
-    "text": "Online Learning Platforms\n\nKhan Academy\n\nKhan Academy Mathematics\nFree comprehensive video lessons and practice exercises\nTopics aligned with international mathematics standards\n\n\n\nMath is Fun\n\nMath is Fun\nClear explanations, examples, and activities\nInteractive games and puzzles"
+    "objectID": "ratios.html#key-topics",
+    "href": "ratios.html#key-topics",
+    "title": "Ratios and Proportions",
+    "section": "Key Topics",
+    "text": "Key Topics\n\nUnderstanding Ratios\nComparing quantities:\n\nRatios show the relationship between two or more quantities\nWritten as a:b or \\(\\frac{a}{b}\\)\nSimplifying ratios to simplest form\nPart-to-part vs. part-to-whole ratios\n\nExample: If there are 12 boys and 8 girls in a class, the ratio of boys to girls is 12:8 = 3:2\n\n\nEquivalent Ratios\nFinding equal ratios:\n\nMultiplying or dividing both parts by the same number\nUsing ratio tables\nScaling up and down\n\nExample: The ratio 4:6 is equivalent to 2:3 (dividing by 2) or 8:12 (multiplying by 2)\n\n\nProportions\nWhen ratios are equal:\n\nA proportion is an equation showing two ratios are equal\nCross multiplication to solve proportions\nDirect proportion relationships\n\nExample: Solve: \\(\\frac{3}{5} = \\frac{x}{15}\\)\nSolution: \\(5x = 3 \\times 15\\), so \\(5x = 45\\), therefore \\(x = 9\\)\n\n\nSharing in Ratios\nDividing quantities according to ratios:\n\nDividing amounts into given ratios\nFinding total parts\nCalculating each share\n\nExample: Share $60 in the ratio 2:3\nSolution: Total parts = 2 + 3 = 5\nFirst share = $ = \\(24\\)\nSecond share = $ = \\(36\\)\n\n\nRates\nSpecial ratios comparing different units:\n\nSpeed (distance per time)\nUnit rates (per 1 unit)\nPrice per item\nComparing rates\n\nExample: If you travel 180 km in 3 hours, your speed is:\n\\(\\text{Speed} = \\frac{180 \\text{ km}}{3 \\text{ hours}} = 60 \\text{ km/h}\\)\n\n\nScale Factors\nRatios in enlargement and reduction:\n\nScale drawings\nMaps and models\nEnlargement and reduction\nSimilar shapes\n\nExample: A model car has a scale of 1:24. If the model is 15 cm long, what is the actual car length?\nSolution: Actual length = 15 × 24 = 360 cm = 3.6 m\n\n\nDirect Proportion\nWhen quantities increase together:\n\nIf one doubles, the other doubles\nGraphing direct proportion (straight line through origin)\nFormula: \\(y = kx\\) where k is constant\n\nExample: If 3 pens cost $6, how much do 7 pens cost?\nSolution: Cost is proportional to number of pens\n\\(\\frac{3}{6} = \\frac{7}{x}\\), so \\(3x = 42\\), therefore \\(x = 14\\) ($14)\n\n\nPercentages as Ratios\nConnecting percentages to ratios:\n\nPercentages are ratios out of 100\nConverting between percentages and ratios\nPercentage increase and decrease"
   },
   {
-    "objectID": "references.html#interactive-tools",
-    "href": "references.html#interactive-tools",
-    "title": "References",
-    "section": "Interactive Tools",
-    "text": "Interactive Tools\n\nCalculators and Tools\n\nDesmos Graphing Calculator\nGeoGebra\nOnline mathematics software for geometry, algebra, and calculus\n\n\n\nPractice Websites\n\nMathigon\nInteractive mathematics lessons and activities"
+    "objectID": "ratios.html#practice-problems",
+    "href": "ratios.html#practice-problems",
+    "title": "Ratios and Proportions",
+    "section": "Practice Problems",
+    "text": "Practice Problems\n\nSimplify the ratio 24:36\nIf the ratio of cats to dogs is 5:3 and there are 15 cats, how many dogs are there?\nShare $120 in the ratio 3:5\nA car travels 250 km in 5 hours. What is its average speed?\nOn a map with scale 1:25000, two towns are 8 cm apart. What is the actual distance?"
   },
   {
-    "objectID": "references.html#books-and-textbooks",
-    "href": "references.html#books-and-textbooks",
-    "title": "References",
-    "section": "Books and Textbooks",
-    "text": "Books and Textbooks\n\nRecommended Textbooks\n\nNew Zealand Mathematics series (various publishers)\nEssential Mathematics for Year 9\nSuccessful Mathematics series\n\n\n\nLibrary Resources\nCheck your school library for:\n\nMathematics textbooks\nProblem-solving books\nMathematics magazines and journals"
+    "objectID": "ratios.html#real-world-applications",
+    "href": "ratios.html#real-world-applications",
+    "title": "Ratios and Proportions",
+    "section": "Real-World Applications",
+    "text": "Real-World Applications\n\nCooking and recipes\nCurrency exchange\nScale models and maps\nMixing paint or chemicals\nFinancial planning\nConstruction and design"
   },
   {
-    "objectID": "references.html#study-techniques",
-    "href": "references.html#study-techniques",
-    "title": "References",
-    "section": "Study Techniques",
-    "text": "Study Techniques\n\nEffective Mathematics Study Tips\n\nPractice Regularly: Mathematics improves with consistent practice\nShow Your Working: Always write out your solution steps\nCheck Your Answers: Use estimation and inverse operations\nAsk Questions: Don’t hesitate to seek help when confused\nUse Multiple Resources: Different explanations can help understanding\nWork in Groups: Explaining to others reinforces your own learning\n\n\n\nProblem-Solving Strategies\n\nRead the problem carefully\nIdentify what you know and what you need to find\nDraw diagrams when helpful\nTry simpler cases first\nCheck if your answer makes sense"
+    "objectID": "ratios.html#resources",
+    "href": "ratios.html#resources",
+    "title": "Ratios and Proportions",
+    "section": "Resources",
+    "text": "Resources\n\nKhan Academy: Ratios and Proportions\nNZ Maths: Ratios"
   },
   {
-    "objectID": "references.html#video-resources",
-    "href": "references.html#video-resources",
-    "title": "References",
-    "section": "Video Resources",
-    "text": "Video Resources\n\nYouTube Channels\n\nKhan Academy\nNumberphile\nMathologer\nEddie Woo (Australian mathematics teacher)"
-  },
-  {
-    "objectID": "references.html#mathematics-competitions",
-    "href": "references.html#mathematics-competitions",
-    "title": "References",
-    "section": "Mathematics Competitions",
-    "text": "Mathematics Competitions\n\nAustralian Mathematics Competition (AMC)\nMathematical Olympiad\nSchool-based mathematics challenges"
-  },
-  {
-    "objectID": "references.html#additional-support",
-    "href": "references.html#additional-support",
-    "title": "References",
-    "section": "Additional Support",
-    "text": "Additional Support\n\nGetting Help\n\nAsk your teacher during class or office hours\nForm study groups with classmates\nUtilize school tutoring services\nOnline mathematics forums (with supervision)\n\n\n\nParent Resources\nResources for parents supporting students:\n\nFamily Maths\nTips for helping with mathematics homework\nUnderstanding the NZ mathematics curriculum"
-  },
-  {
-    "objectID": "references.html#mathematics-in-careers",
-    "href": "references.html#mathematics-in-careers",
-    "title": "References",
-    "section": "Mathematics in Careers",
-    "text": "Mathematics in Careers\n\nWhere is Mathematics Used?\nMathematics is essential in many careers:\n\nEngineering and technology\nFinance and banking\nScience and research\nArchitecture and design\nMedicine and healthcare\nData analysis and statistics\nEducation\nGame design and animation"
-  },
-  {
-    "objectID": "references.html#glossary",
-    "href": "references.html#glossary",
-    "title": "References",
-    "section": "Glossary",
-    "text": "Glossary\nFor mathematical terms and definitions, refer to:\n\nMath Open Reference\nYour textbook glossary\nClass notes and handouts"
-  },
-  {
-    "objectID": "references.html#attribution",
-    "href": "references.html#attribution",
-    "title": "References",
-    "section": "Attribution",
-    "text": "Attribution\nThis website was created to support Year 9 Mathematics learning in 2026. Content is aligned with the New Zealand Curriculum and draws from various educational resources.\nLast Updated: January 2026\n\nIf you find additional resources that you think would be helpful, please share them with the class!"
-  },
-  {
-    "objectID": "farm/index.html",
-    "href": "farm/index.html",
-    "title": "Mapping the School Farm",
+    "objectID": "SECURITY_AUDIT.html",
+    "href": "SECURITY_AUDIT.html",
+    "title": "Security Audit",
     "section": "",
-    "text": "Google My Maps is a free tool for creating a farm plan, measuring distances and areas, and recording work done on the property. This guide helps you map our school farm features and plan future work."
+    "text": "Date: 2026-02-08\n\n\n\nAudit status: completed\nFindings: 0\nReport: security_audit_report.json\n\n\n\n\n\nWorking tree files (excluding common binary formats and very large files)\nFull git history (all blobs)\n\n\n\n\n\nBinary formats (images, PDFs, archives, etc.) are not scanned.\nFiles over 2 MB are skipped to keep the scan fast.\nIf you need deeper binary scanning, use a specialized tool and update the script accordingly.\n\n\n\n\n\nAutomated scan script at scripts/security_audit.py\nPre-commit hook at .githooks/pre-commit\nGitHub Actions workflow at .github/workflows/security_scan.yml\n\n\n\n\nEnable the repo hook path so the pre-commit scan runs locally:\n\ngit config core.hooksPath .githooks\n\n\n\n\n\nProtect the main branch:\n\nRequire pull request reviews\nRequire status checks to pass (Security Scan)\nRequire signed commits\nRequire linear history\n\nRequire signed commits locally:\n\ngit config commit.gpgsign true\nUse either GPG or SSH signing (GitHub supports both)\n\n\n\n\n\n\nGo to Settings &gt; Branches.\nUnder Branch protection rules, click Add rule.\nBranch name pattern: main.\nEnable these options:\n\nRequire a pull request before merging.\nRequire approvals (set at least 1).\nRequire status checks to pass before merging.\nSelect the status check named “Security Scan”.\nRequire signed commits.\nRequire linear history.\n\nSave changes.\n\n\n\n\n\nRotate or revoke the credential immediately.\nRemove the secret from the repository.\nPurge it from history using git filter-repo:\n\nhttps://github.com/newren/git-filter-repo\n\nForce-push the cleaned history and notify collaborators.\n\n\n\n\n\nFull scan (worktree + history):\n\npython scripts/security_audit.py\n\nStaged-only scan (pre-commit mode):\n\npython scripts/security_audit.py –staged –no-history"
   },
   {
-    "objectID": "farm/index.html#introduction",
-    "href": "farm/index.html#introduction",
-    "title": "Mapping the School Farm",
+    "objectID": "SECURITY_AUDIT.html#summary",
+    "href": "SECURITY_AUDIT.html#summary",
+    "title": "Security Audit",
     "section": "",
-    "text": "Google My Maps is a free tool for creating a farm plan, measuring distances and areas, and recording work done on the property. This guide helps you map our school farm features and plan future work."
+    "text": "Audit status: completed\nFindings: 0\nReport: security_audit_report.json"
   },
   {
-    "objectID": "farm/index.html#getting-started",
-    "href": "farm/index.html#getting-started",
-    "title": "Mapping the School Farm",
-    "section": "1. Getting Started",
-    "text": "1. Getting Started\n\nGo to https://www.google.co.nz/mymaps and sign in to your Google account. If you do not have an account, create one.\nClick “Create a new map”.\nClick “Untitled map” to rename your map (for example, “Kaikorai Valley College School Farm”)."
-  },
-  {
-    "objectID": "farm/index.html#setting-up-layers",
-    "href": "farm/index.html#setting-up-layers",
-    "title": "Mapping the School Farm",
-    "section": "2. Setting Up Layers",
-    "text": "2. Setting Up Layers\nLayers help organize your map. You can toggle them on and off to see different features.\n\nExisting Features: Click “Untitled layer” and rename it to “Existing”. Use this for current paddocks, dams, and fences.\nProposed Work: Click “Add layer” to create a second layer named “Proposed” for future projects like new planting or fencing."
-  },
-  {
-    "objectID": "farm/index.html#locating-the-farm",
-    "href": "farm/index.html#locating-the-farm",
-    "title": "Mapping the School Farm",
-    "section": "3. Locating the Farm",
-    "text": "3. Locating the Farm\n\nUse the search bar to type in the school’s address or use the mouse scroll wheel to zoom into the property.\nRecommended Style: Click the arrow next to “Base Map” and select Satellite. This provides a clear aerial view of the land."
-  },
-  {
-    "objectID": "farm/index.html#drawing-farm-features",
-    "href": "farm/index.html#drawing-farm-features",
-    "title": "Mapping the School Farm",
-    "section": "4. Drawing Farm Features",
-    "text": "4. Drawing Farm Features\n\nAdding Markers\nUse markers for point-specific features like water tanks, sheds, or troughs.\n\nClick the Marker icon below the search bar.\nClick the exact spot on the map to place it.\nGive the marker a title and click save.\n\n\n\nDrawing Lines (Fences & Waterways)\n\nClick the Line icon and select “Add line or shape”.\nClick along the path of the fence or creek.\nPress “Enter” to finish the line.\n\n\n\nMapping Paddocks (Areas)\n\nFollow the same steps as drawing a line.\nInstead of pressing Enter, click back on your starting point to “close” the loop and create a shape."
-  },
-  {
-    "objectID": "farm/index.html#measuring-distances-and-areas",
-    "href": "farm/index.html#measuring-distances-and-areas",
-    "title": "Mapping the School Farm",
-    "section": "5. Measuring Distances and Areas",
-    "text": "5. Measuring Distances and Areas\nThe Measurement tool (Ruler icon) is helpful for planning.\n\nClick a starting point and move the mouse to see distance.\nIf you measure a closed shape (like a paddock), it will show both the perimeter distance and the area in hectares."
-  },
-  {
-    "objectID": "farm/index.html#exporting-and-printing",
-    "href": "farm/index.html#exporting-and-printing",
-    "title": "Mapping the School Farm",
-    "section": "6. Exporting and Printing",
-    "text": "6. Exporting and Printing\nTo include your map in a report, you have two main options:\n\nGoogle Print Tool: Click the three vertical dots next to the map name and select “Print map”. You can choose PDF or Image output.\nSnipping Tool: Use your computer’s built-in screenshot tool (e.g., Shift + Command + 4 on Mac) to capture a specific area.\n\n\nSource: Adapted from Beef + Lamb New Zealand User Guide #13."
-  },
-  {
-    "objectID": "farm/farm-homework/homework.html",
-    "href": "farm/farm-homework/homework.html",
-    "title": "Farm Mapping Homework",
+    "objectID": "SECURITY_AUDIT.html#scope",
+    "href": "SECURITY_AUDIT.html#scope",
+    "title": "Security Audit",
     "section": "",
-    "text": "In this homework assignment, you will create a PDF map of the school farm using Google My Maps. Use the class guide in farm/index.Rmd for full instructions. Follow the steps below to complete your task.\n\n\n\nGo to https://www.google.co.nz/mymaps and sign in to your Google account.\nCreate a new map and name it “Kaikorai Valley College School Farm”.\nSet up two layers:\n\nExisting for current features (paddocks, dams, fences, buildings, water points).\nProposed for planned work (new planting, new fencing, new water lines).\n\nAdd features using the toolbar:\n\nMarkers for points (sheds, tanks, troughs, gates).\nLines for fences, tracks, or waterways.\nAreas for paddocks or blocks.\n\nUse the Measurement tool (ruler icon) to check at least one distance and one paddock area.\nAdd these map elements:\n\nArrow (north) for direction.\nScale to show distances.\nLegend that explains your symbols and colors.\n\n\n\n\n\nOnce you have completed your map, export it as a PDF. To do this: 1. Click the three vertical dots next to the map name. 2. Select “Print map” and choose the PDF option.\n\n\n\nUse these images as a guide while you work.\nLayers and map setup\n\nAdd markers and lines\n\n\nMeasurement tool\n\nPrint map to PDF\n\n\n\n\nAfter completing your map, please answer the following questions:\n\nWhat features did you include on your map, and why did you choose them?\nHow does adding a scale and legend enhance the usability of your map?\n\n\n\n\nThis homework aligns with the following New Zealand Curriculum areas:\n\nGeography: Understand how people interact with their environment.\nMathematics: Use measurement and scale in practical contexts.\n\nFor more information, visit the New Zealand Curriculum website: New Zealand Curriculum.\n\nMake sure to submit your completed homework by the due date. Happy mapping!"
+    "text": "Working tree files (excluding common binary formats and very large files)\nFull git history (all blobs)"
   },
   {
-    "objectID": "farm/farm-homework/homework.html#homework-instructions",
-    "href": "farm/farm-homework/homework.html#homework-instructions",
-    "title": "Farm Mapping Homework",
+    "objectID": "SECURITY_AUDIT.html#limitations",
+    "href": "SECURITY_AUDIT.html#limitations",
+    "title": "Security Audit",
     "section": "",
-    "text": "In this homework assignment, you will create a PDF map of the school farm using Google My Maps. Use the class guide in farm/index.Rmd for full instructions. Follow the steps below to complete your task.\n\n\n\nGo to https://www.google.co.nz/mymaps and sign in to your Google account.\nCreate a new map and name it “Kaikorai Valley College School Farm”.\nSet up two layers:\n\nExisting for current features (paddocks, dams, fences, buildings, water points).\nProposed for planned work (new planting, new fencing, new water lines).\n\nAdd features using the toolbar:\n\nMarkers for points (sheds, tanks, troughs, gates).\nLines for fences, tracks, or waterways.\nAreas for paddocks or blocks.\n\nUse the Measurement tool (ruler icon) to check at least one distance and one paddock area.\nAdd these map elements:\n\nArrow (north) for direction.\nScale to show distances.\nLegend that explains your symbols and colors.\n\n\n\n\n\nOnce you have completed your map, export it as a PDF. To do this: 1. Click the three vertical dots next to the map name. 2. Select “Print map” and choose the PDF option.\n\n\n\nUse these images as a guide while you work.\nLayers and map setup\n\nAdd markers and lines\n\n\nMeasurement tool\n\nPrint map to PDF\n\n\n\n\nAfter completing your map, please answer the following questions:\n\nWhat features did you include on your map, and why did you choose them?\nHow does adding a scale and legend enhance the usability of your map?\n\n\n\n\nThis homework aligns with the following New Zealand Curriculum areas:\n\nGeography: Understand how people interact with their environment.\nMathematics: Use measurement and scale in practical contexts.\n\nFor more information, visit the New Zealand Curriculum website: New Zealand Curriculum.\n\nMake sure to submit your completed homework by the due date. Happy mapping!"
+    "text": "Binary formats (images, PDFs, archives, etc.) are not scanned.\nFiles over 2 MB are skipped to keep the scan fast.\nIf you need deeper binary scanning, use a specialized tool and update the script accordingly."
   },
   {
-    "objectID": "farm/farm-homework/index.html",
-    "href": "farm/farm-homework/index.html",
-    "title": "Farm Mapping Homework",
+    "objectID": "SECURITY_AUDIT.html#solutions-implemented",
+    "href": "SECURITY_AUDIT.html#solutions-implemented",
+    "title": "Security Audit",
     "section": "",
-    "text": "In this homework assignment, you will create a PDF map of the school farm using Google My Maps. You will learn how to add important features to your map, including an arrow, scale, and legend.\n\n\n\n\nCreate Your Map:\n\nFollow the instructions provided in the index.Rmd file to create your farm map using Google My Maps.\n\nAdd Features:\n\nOnce your map is created, you need to add the following features:\n\nArrow: Indicate a specific direction on your map.\nScale: Show the scale of your map to help viewers understand distances.\nLegend: Create a legend that explains the symbols and colors used on your map.\n\n\nExport Your Map:\n\nAfter adding the features, export your map as a PDF. Make sure the arrow, scale, and legend are clearly visible in the exported document.\n\n\n\n\n\n\nExplain why it is important to include a scale on your map. How does it help the viewer?\nDescribe the purpose of a legend in a map. What information should be included in your legend for the school farm map?\n\n\n\n\nThis homework aligns with the following areas of the New Zealand Curriculum:\n\nGeography: Understand how to represent geographical information using maps.\nMathematics: Apply measurement concepts in real-world contexts.\n\nFor more information, visit the New Zealand Curriculum website: New Zealand Curriculum\n\nNote: Ensure you follow the guidelines and submit your homework by the due date. Happy mapping!"
+    "text": "Automated scan script at scripts/security_audit.py\nPre-commit hook at .githooks/pre-commit\nGitHub Actions workflow at .github/workflows/security_scan.yml"
   },
   {
-    "objectID": "farm/farm-homework/index.html#homework-assignment-mapping-the-school-farm",
-    "href": "farm/farm-homework/index.html#homework-assignment-mapping-the-school-farm",
-    "title": "Farm Mapping Homework",
+    "objectID": "SECURITY_AUDIT.html#required-setup-one-time",
+    "href": "SECURITY_AUDIT.html#required-setup-one-time",
+    "title": "Security Audit",
     "section": "",
-    "text": "In this homework assignment, you will create a PDF map of the school farm using Google My Maps. You will learn how to add important features to your map, including an arrow, scale, and legend.\n\n\n\n\nCreate Your Map:\n\nFollow the instructions provided in the index.Rmd file to create your farm map using Google My Maps.\n\nAdd Features:\n\nOnce your map is created, you need to add the following features:\n\nArrow: Indicate a specific direction on your map.\nScale: Show the scale of your map to help viewers understand distances.\nLegend: Create a legend that explains the symbols and colors used on your map.\n\n\nExport Your Map:\n\nAfter adding the features, export your map as a PDF. Make sure the arrow, scale, and legend are clearly visible in the exported document.\n\n\n\n\n\n\nExplain why it is important to include a scale on your map. How does it help the viewer?\nDescribe the purpose of a legend in a map. What information should be included in your legend for the school farm map?\n\n\n\n\nThis homework aligns with the following areas of the New Zealand Curriculum:\n\nGeography: Understand how to represent geographical information using maps.\nMathematics: Apply measurement concepts in real-world contexts.\n\nFor more information, visit the New Zealand Curriculum website: New Zealand Curriculum\n\nNote: Ensure you follow the guidelines and submit your homework by the due date. Happy mapping!"
+    "text": "Enable the repo hook path so the pre-commit scan runs locally:\n\ngit config core.hooksPath .githooks"
   },
   {
-    "objectID": "farm/index.html#learning-goals",
-    "href": "farm/index.html#learning-goals",
-    "title": "Mapping the School Farm",
-    "section": "Learning Goals",
-    "text": "Learning Goals\n\nCreate a digital farm map using layers.\nAdd points, lines, and areas with clear labels.\nMeasure distances and paddock areas accurately.\nExport or print a clean map for your workbook."
+    "objectID": "SECURITY_AUDIT.html#recommended-repo-protections-github-settings",
+    "href": "SECURITY_AUDIT.html#recommended-repo-protections-github-settings",
+    "title": "Security Audit",
+    "section": "",
+    "text": "Protect the main branch:\n\nRequire pull request reviews\nRequire status checks to pass (Security Scan)\nRequire signed commits\nRequire linear history\n\nRequire signed commits locally:\n\ngit config commit.gpgsign true\nUse either GPG or SSH signing (GitHub supports both)"
   },
   {
-    "objectID": "farm/index.html#set-up-layers",
-    "href": "farm/index.html#set-up-layers",
-    "title": "Mapping the School Farm",
-    "section": "2. Set Up Layers",
-    "text": "2. Set Up Layers\nLayers let you separate existing features from proposed work. You can turn layers on or off using the checkbox next to each layer.\n\nRename the first layer to Existing. Use this for current paddocks, dams, fences, buildings, and water points.\nClick “Add layer” and name it Proposed for future work such as new planting or fencing."
+    "objectID": "SECURITY_AUDIT.html#repo-protection-steps-github-ui",
+    "href": "SECURITY_AUDIT.html#repo-protection-steps-github-ui",
+    "title": "Security Audit",
+    "section": "",
+    "text": "Go to Settings &gt; Branches.\nUnder Branch protection rules, click Add rule.\nBranch name pattern: main.\nEnable these options:\n\nRequire a pull request before merging.\nRequire approvals (set at least 1).\nRequire status checks to pass before merging.\nSelect the status check named “Security Scan”.\nRequire signed commits.\nRequire linear history.\n\nSave changes."
   },
   {
-    "objectID": "farm/index.html#locate-the-farm",
-    "href": "farm/index.html#locate-the-farm",
-    "title": "Mapping the School Farm",
-    "section": "3. Locate the Farm",
-    "text": "3. Locate the Farm\n\nUse the search bar to type in the school address, or zoom using the mouse wheel and the + / - buttons.\nClick the arrow next to Base map and choose Satellite for a clear aerial view."
+    "objectID": "SECURITY_AUDIT.html#if-a-secret-is-found",
+    "href": "SECURITY_AUDIT.html#if-a-secret-is-found",
+    "title": "Security Audit",
+    "section": "",
+    "text": "Rotate or revoke the credential immediately.\nRemove the secret from the repository.\nPurge it from history using git filter-repo:\n\nhttps://github.com/newren/git-filter-repo\n\nForce-push the cleaned history and notify collaborators."
   },
   {
-    "objectID": "farm/index.html#add-farm-features",
-    "href": "farm/index.html#add-farm-features",
-    "title": "Mapping the School Farm",
-    "section": "4. Add Farm Features",
-    "text": "4. Add Farm Features\n\nA. Markers (Point Features)\nUse markers for water tanks, sheds, gates, troughs, or trees.\n\nClick the Marker icon under the search bar.\nClick the exact spot on the map.\nGive the marker a clear title, then save.\n\n\n\n\nB. Lines (Fences, Tracks, Waterways)\n\nClick the Line icon (right of the marker icon) and choose “Add line or shape”.\nClick along the path of the fence or creek.\nPress Enter to finish the line and add a title.\n\n\n\n\nC. Areas (Paddocks, Orchards, Bush)\n\nStart the same way as a line.\nClick around the boundary and then click the starting point to close the shape.\nAdd a title and save.\n\n\n\nD. Edit or Delete Features\nAfter saving a feature, a popup lets you edit color, line width, transparency, and description. You can also attach a photo or delete the feature using the trash bin icon."
-  },
-  {
-    "objectID": "farm/index.html#measure-distances-and-areas",
-    "href": "farm/index.html#measure-distances-and-areas",
-    "title": "Mapping the School Farm",
-    "section": "5. Measure Distances and Areas",
-    "text": "5. Measure Distances and Areas\nThe Measurement tool (ruler icon) helps you check distances or paddock sizes.\n\nClick the ruler icon on the far right of the toolbar.\nClick a starting point, then add points to measure a path.\nFor a polygon, close the shape to see both perimeter and area (in hectares).\nPress Enter to finish a straight line measurement.\nTo stop measuring, click the hand icon or click anywhere on the screen."
-  },
-  {
-    "objectID": "farm/index.html#export-or-print-your-map",
-    "href": "farm/index.html#export-or-print-your-map",
-    "title": "Mapping the School Farm",
-    "section": "6. Export or Print Your Map",
-    "text": "6. Export or Print Your Map\n\nOption A: Print Map (Recommended)\n\nClick the three vertical dots next to your map name.\nChoose “Print map”.\nPick paper size, orientation, and output type, then click Print.\nA new PDF preview opens in your browser. Use the print icon to save as PDF or print.\n\n\n\n\nOption B: Screenshot (Snipping Tool)\nWindows\n\nOpen Snipping Tool from the Start menu search.\nClick New, then drag to select the area.\nSave the image and insert it into your workbook.\n\nMac\n\nPress Shift + Command + 4.\nDrag to select the area.\nThe screenshot saves to the desktop for inserting into your workbook."
-  },
-  {
-    "objectID": "farm/index.html#map-checklist",
-    "href": "farm/index.html#map-checklist",
-    "title": "Mapping the School Farm",
-    "section": "Map Checklist",
-    "text": "Map Checklist\n\nYour map has a clear title.\nLayers include Existing and Proposed.\nFeatures are labeled with correct names.\nAt least one line and one area are mapped.\nMeasurements are used to check a distance or area.\nExport is clean and readable."
-  },
-  {
-    "objectID": "farm/index.html#source-and-further-help",
-    "href": "farm/index.html#source-and-further-help",
-    "title": "Mapping the School Farm",
-    "section": "Source and Further Help",
-    "text": "Source and Further Help\n\nAdapted from Beef + Lamb New Zealand User Guide (July 2021). PDF: resources/use-google-my-maps-map-your-farm.pdf. Site: https://www.beeflambnz.com\nExtra help video: https://www.landcare.org.nz/resource-item/mapping\nGoogle My Maps support: https://support.google.com/mymaps"
+    "objectID": "SECURITY_AUDIT.html#how-to-run-the-scan",
+    "href": "SECURITY_AUDIT.html#how-to-run-the-scan",
+    "title": "Security Audit",
+    "section": "",
+    "text": "Full scan (worktree + history):\n\npython scripts/security_audit.py\n\nStaged-only scan (pre-commit mode):\n\npython scripts/security_audit.py –staged –no-history"
   }
 ]
