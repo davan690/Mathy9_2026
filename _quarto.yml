@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - .nojekyll
 
 website:
   title: "Year 9 Mathematics 2026"
